@@ -1,155 +1,38 @@
 ---
-layout: default
 permalink: /support/
 ---
-<section class="section">
-    <div class="container">
-        <article class="message is-info is-hidden-mobile">
-            <div class="message-header">
-                <p>Filter nach deiner Stadt!</p>
-                <div class="buttons has-addons">
-                    <a href="/support/rostock" class="button is-light">Rostock
-                    </button>
-                </a>
-                    <a href="/support/schwerin" class="button is-light">Schwerin
-                    </button>
-                </a>
-                <a href="/support/stralsund" class="button is-light">Stralsund
-                </button>
-            </a>
-            <a href="/support/guestrow" class="button is-light">Güstrow
-            </button>
-        </a>
-        <a href="/support/neustrelitz" class="button is-light">Neustrelitz
-        </button>
-    </a>
-</div>
-</div>
-<!--<div class="message-body">
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. <strong>Pellentesque risus mi</strong>, tempus quis placerat ut, porta nec nulla. Vestibulum rhoncus ac ex sit amet fringilla. Nullam gravida purus diam, et dictum <a>felis venenatis</a> efficitur. Aenean ac <em>eleifend lacus</em>, in mollis lectus. Donec sodales, arcu et sollicitudin porttitor, tortor urna tempor ligula, id porttitor mi magna a neque. Donec dui urna, vehicula et sem eget, facilisis sodales sem.
-</div>-->
-</article>
-<article class="message is-info is-hidden-tablet">
-<div class="message-header">
-<p>Filter nach deiner Stadt!</p>
-<div class="dropdown">
-    <div class="dropdown-trigger">
-        <button class="button" aria-haspopup="true" aria-controls="dropdown-menu">
-            <span>Stadt auswählen</span>
-            <span class="icon is-small">
-                <i class="fas fa-angle-down" aria-hidden="true"></i>
-            </span>
-        </button>
-    </div>
-    <div class="dropdown-menu" id="dropdown-menu" role="menu">
-        <div class="dropdown-content">
-            <a href="/support/rostock" class="dropdown-item">
-                Rostock
-            </a>
-            <a href="/support/schwerin" class="dropdown-item">
-                Schwerin
-            </a>
-            <a href="/support/stralsund" class="dropdown-item">
-                Stralsund
-            </a>
-            <a href="/support/neustrelitz" class="dropdown-item">
-                Neustrelitz
-            </a>
-        </div>
-    </div>
-</div>
-</div>
-<!--<div class="message-body">
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. <strong>Pellentesque risus mi</strong>, tempus quis placerat ut, porta nec nulla. Vestibulum rhoncus ac ex sit amet fringilla. Nullam gravida purus diam, et dictum <a>felis venenatis</a> efficitur. Aenean ac <em>eleifend lacus</em>, in mollis lectus. Donec sodales, arcu et sollicitudin porttitor, tortor urna tempor ligula, id porttitor mi magna a neque. Donec dui urna, vehicula et sem eget, facilisis sodales sem.
-</div>-->
-</article>
-</div>
-</section>
+<html>
+    <head>
+        <link href="{{site.baseurl}}/pages/support/style.css" rel="stylesheet"/>
+        <title>Klon</title>
+        <!--VUE.JS-->
+        <script src="{{site.baseurl}}/pages/support/vuejs.js"></script> 
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+    </head>
 
-<section class="hero is-link">
-<div class="hero-body">
-<div class="container has-text-centered">
-<h1 class="herowhitetitle">MV unterstützen</h1>
-</div>
-</div>
-</section>
-
-<section class="section">
-<div class="container">
-<div class="content">
-<article class="message">
-    <div class="message-header">
-        <p>Wichtige Informationen <a href="#info" data-action="collapse" class="faq-header-icon has-text-right"><i class="fas fa-angle-down" aria-hidden="true"></i></a></p>
-    </div>
-    <div id="info" class="message-body is-collapsible" data-parent="accordion_second" data-allow-multiple="true">
-        <div class="message-body-content">
-            <div class="columns">
-                <div class="column">
-                    <h2>Hinweis</h2>
-                    Uns ist die Transparenz des Projekts sehr wichtig, deshalb weisen wir euch darauf hin, dass eine Insolvenz der Unternehmen, die ihr unterstützt, leider nicht ausgeschlossen werden kann. In dem Fall bekommt ihr euer Geld NICHT zurück, da das Geld direkt bei den Unternehmen landet. Wir distanzieren uns hier von jeglicher rechtlichen Haftung und sind uns sicher, dass ihr dafür Verständnis habt.
-Doch Zusammen können wir eine solche Insolvenz von unseren Lieblingsorten am Besten verhindern.
-                </div>
-                <div class="column">
-                    <h2>Unsere Bitte</h2>
-                    Keiner von uns weiß, wie lange die Coronakrise anhalten wird, doch wenn die Läden wieder Aufmachen dürfen, haben wir eine wichtige Bitte an euch alle:
-<b>Bitte übereilt das Einlösen eurer Gutscheine nicht!</b> Wenn alle gleichzeitig, direkt nach dem Wiederöffnen euer Lieblingsorte ihre Gutscheine einlösen, haben wir die finanzielle Krise für die Unternehmen nur verschoben. Wenn wir zusammen die Gutscheine  nach und nach einlösen, können wir den Unternehmen eine gewaltige Unterstützung sein!
+    <body>
+        <div id="app">
+            <div class="div-block-23" :style="'position: relative; height: ' + calculateHeight() + ';'">
+                <div id="grid" class="grid is-showing-items" v-for="firma in showFirmen">
+                    <div id="w-node-1e067ef2667e-15792f71" class="collection-item-5 dynamic-item w-dyn-item einzelhandel" 
+                         :style="style_div + 'left: ' + currentLeft(firma.id-1) + '; top: ' + currentTop(firma.id-1) + ';'">
+                        <div class="card" >
+                            <div class="category">{{ firma.category }}</div>
+                            <a :href="firma.name" class="link-block-3-copy w-inline-block">
+                                <img width="289"
+                                src="https://www.deine-tierwelt.de/magazin/wp-content/uploads/sites/2/2019/04/Katze-gestromt.jpg">
+                                <div class="card-title">{{ firma.name }}</div>
+                                <div class="card-link">{{ firma.name }}</div>
+                                <p class="card-summary">{{ firma.discription }}</p>
+                            </a>
+                        </div>
                 </div>
             </div>
         </div>
-    </div>
-</article>
-<div class="columns">
-<div class="column">
-    <div id="accordion_second">
+        </div>
         
 
+        <script src="{{site.baseurl}}/pages/support/main.js"></script>
+    </body>
+</html>
 
-
-</div>
-</div>
-</section>
-
-
-<section class="section">
-<div class="container">
-<div class="content">
-    <div id="app">
-    <div class="div-block-23" :style="'position: relative; height: ' + calculateHeight() + ';'">
-        <div id="grid" class="grid is-showing-items" v-for="firma in showFirmen">
-            <div id="w-node-1e067ef2667e-15792f71" class="collection-item-5 dynamic-item w-dyn-item einzelhandel" :style="style_div + 'left: ' + currentLeft(firma.id-1) + '; top: ' + currentTop(firma.id-1) + ';'">
-                <div class="card" >
-                    <div class="category">{{ firma.category }}</div>
-                    <a :href="firma.name" class="link-block-3-copy w-inline-block">
-                        <img width="289"
-                        src="https://www.deine-tierwelt.de/magazin/wp-content/uploads/sites/2/2019/04/Katze-gestromt.jpg">
-                        <div class="card-title">{{ firma.name }}</div>
-                        <div class="card-link">{{ firma.name }}</div>
-                        <p class="card-summary">{{ firma.discription }}</p>
-                    </a>
-                </div>
-        </div>
-    </div>
-</div>
-</div>
-
-
-
-</div>
-</div>
-
-</section>
-
-
-
-
-<!-- INFO ANIMATION -->
-<script>
-// Return an array of bulmaCollapsible instances (empty if no DOM node found)
-const bulmaCollapsibleInstances = bulmaCollapsible.attach('.is-collapsible');
-
-// Loop into instances
-bulmaCollapsibleInstances.forEach(bulmaCollapsibleInstance => {
-// Check if current state is collapsed or not
-console.log(bulmaCollapsibleInstance.collapsed());
-});
-</script>

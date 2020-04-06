@@ -1,0 +1,54 @@
+{
+    "Firma1": {
+        "id" : 1,
+        "name": "Firma1",
+        "discription": "super Firma..kann man nur weiterempfehlen",
+        "address": "Lumpenstr. 123, 11278 Kurzdorf, Germany",
+        "category": "Unterhaltung"
+    },
+
+    "Firma2":{
+        "id" : 2,
+        "name": "Firma2",
+        "discription": "beste Firma..hier gibt es Kondome",
+        "address": "Lumpenstr. 321, 11278 Langdorf, Austria",
+        "category": "Drogerie"
+    },
+    "Firma3":{
+        "id" : 3,
+        "name": "Firma3",
+        "discription": "beste Firma..hier gibt es Kondome",
+        "address": "Lumpenstr. 321, 11278 Langdorf, Austria",
+        "category": "Drogerie"
+    },
+    "Firma4":{
+        "id" : 4,
+        "name": "Firma4",
+        "discription": "beste Firma..hier gibt es Kondome",
+        "address": "Lumpenstr. 321, 11278 Langdorf, Austria",
+        "category": "Drogerie"
+    },
+    "Firma5":{
+        "id" : 5,
+        "name": "Firma5",
+        "discription": "beste Firma..hier gibt es Kondome",
+        "address": "Lumpenstr. 321, 11278 Langdorf, Austria",
+        "category": "Drogerie"
+    },
+    "Firma6":{
+        "id" : 6,
+        "name": "Firma6",
+        "discription": "beste Firma..hier gibt es Kondome",
+        "address": "Lumpenstr. 321, 11278 Langdorf, Austria",
+        "category": "Drogerie"
+    },
+    "Firma7":{
+        "id" : 7,
+        "name": "Firma7",
+        "discription": "beste Firma..hier gibt es Kondome",
+        "address": "Lumpenstr. 321, 11278 Langdorf, Austria",
+        "category": "Drogerie"
+    }
+
+
+}
