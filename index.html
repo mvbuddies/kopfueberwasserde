@@ -2,67 +2,326 @@
 layout: default
 ---
 
-<div class="home">
- 
-  
-    <div class="row pack">
+<section class="section">
+  <div class="container">
+      <article class="message is-info is-hidden-mobile">
+          <div class="message-header">
+              <p>Wir sind nicht nur in Rostock!</p>
+              <div class="buttons has-addons">
+                  <a href="/support/schwerin" class="button is-light">Schwerin
+                  </button>
+              </a>
+              <a href="/support/stralsund" class="button is-light">Stralsund
+              </button>
+          </a>
+          <a href="/support/guestrow" class="button is-light">Güstrow
+          </button>
+      </a>
+      <a href="/support/neustrelitz" class="button is-light">Neustrelitz
+      </button>
+  </a>
+</div>
+</div>
+<!--<div class="message-body">
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. <strong>Pellentesque risus mi</strong>, tempus quis placerat ut, porta nec nulla. Vestibulum rhoncus ac ex sit amet fringilla. Nullam gravida purus diam, et dictum <a>felis venenatis</a> efficitur. Aenean ac <em>eleifend lacus</em>, in mollis lectus. Donec sodales, arcu et sollicitudin porttitor, tortor urna tempor ligula, id porttitor mi magna a neque. Donec dui urna, vehicula et sem eget, facilisis sodales sem.
+</div>-->
+</article>
+<article class="message is-info is-hidden-tablet">
+<div class="message-header">
+<p>Wir sind nicht nur in Rostock!</p>
+<div class="dropdown">
+  <div class="dropdown-trigger">
+      <button class="button" aria-haspopup="true" aria-controls="dropdown-menu">
+          <span>Stadt auswählen</span>
+          <span class="icon is-small">
+              <i class="fas fa-angle-down" aria-hidden="true"></i>
+          </span>
+      </button>
+  </div>
+  <div class="dropdown-menu" id="dropdown-menu" role="menu">
+      <div class="dropdown-content">
+          <a href="/support/rostock" class="dropdown-item">
+              Rostock
+          </a>
+          <a href="/support/schwerin" class="dropdown-item">
+              Schwerin
+          </a>
+          <a href="/support/stralsund" class="dropdown-item">
+              Stralsund
+          </a>
+          <a href="/support/guestrow" class="dropdown-item">
+              Güstrow
+          </a>
+          <a href="/support/neustrelitz" class="dropdown-item">
+              Neustrelitz
+          </a>
+      </div>
+  </div>
+</div>
+</div>
+<!--<div class="message-body">
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. <strong>Pellentesque risus mi</strong>, tempus quis placerat ut, porta nec nulla. Vestibulum rhoncus ac ex sit amet fringilla. Nullam gravida purus diam, et dictum <a>felis venenatis</a> efficitur. Aenean ac <em>eleifend lacus</em>, in mollis lectus. Donec sodales, arcu et sollicitudin porttitor, tortor urna tempor ligula, id porttitor mi magna a neque. Donec dui urna, vehicula et sem eget, facilisis sodales sem.
+</div>-->
+</article>
+</div>
+</section>
 
-        {% for post in paginator.posts %}   
-            <div class="col-md-4 card">
-             <a href="{{ post.url | prepend: site.baseurl }}" class="index-anchor">    
-                <div class="panel panel-default">
-                  
-                  {% if post.img %}
-                  <img width="100%" src="{{site.baseurl}}/images/{{post.img}}" alt="{{post.title}}">
-                  {% else %}
-                  <img width="100%" src="{{site.baseurl}}/images/webjeda-logo-big.jpg" alt="{{site.title}}">
-                  {% endif %}
-                  
-                  <div class="panel-body">
-                    <h3 class="panel-title pull-left">{{ post.title | truncate: 25 }}</h3><span class="post-meta pull-right"><small>{{ post.date | date: "%b %-d, %Y" }}</small></span>
-                  </div>
-                  
-                  <div class="panel-body"><small>
-                    {{ post.excerpt | strip_html | strip_newlines | truncate: 180 }}</small>
-                  </div>
-                </div>
-                </a>
-            </div>
-        
-          {% endfor %}
+<section class="hero is-medium has-bg-img is-hidden-mobile">
+<div class="hero-body">
+<div class="container has-text-centered">
+<h1 class="herowhitetitlebig">Unterstützung gegen Corona</h1>
+<h2 class="herowhitesubtitle"><br>Kaufe <u>heute</u> Gutscheine für Unternehmen und Vereine, damit sie <u>morgen</u> noch für uns da sein können.</h2>
+<br><a href="/support/" class="button is-info is-light is-medium is-inverted is-outlined">Zu den Gutscheinen!</a>
+</div>
+</div>
+</section>
 
-    </div> 
-    
-<div class="row">
-    <div class="col-md-4">  </div>
-    <div class="col-md-4">
-        {% if paginator.total_pages > 1 %}
-        <ul class="pagination">
-          {% if paginator.previous_page %}
-            <li><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a></li>
-          {% else %}
-            <li><span>&laquo; Prev</span></li>
-          {% endif %}
+<section class="hero is-large has-bg-img is-hidden-tablet">
+<div class="hero-body">
+<div class="container has-text-centered">
+<h1 class="herowhitetitle">Unterstützung gegen Corona</h1>
+<h2 class="herowhitesubtitle"><br>Kaufe <u>heute</u> Gutscheine für Unternehmen und Vereine, damit sie <u>morgen</u> noch für uns da sein können.</h2>
+<br><a href="/support/" class="button is-info is-light is-medium is-fullwidth">Zu den Gutscheinen!</a>
+</div>
+</div>
+</section>
 
-          {% for page in (1..paginator.total_pages) %}
-            {% if page == paginator.page %}
-              <li class="active"><span><em>{{ page }}</em></span></li>
-            {% elsif page == 1 %}
-            <li><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a></li>
-            {% else %}
-            <li><a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
-            {% endif %}
-          {% endfor %}
+<section class="section">
+<div class="container">
+<div class="content">
+<h1 class="is-size-2"><center>Wir lieben MV</center></h1>
+<p class="pdefault"> Die Coronakrise fordert uns alle heraus, doch am meisten haben die lokalen Kleinunternehmen zu leiden. Nach momentaner Gesetzeslage ist es den meisten Kleinunternehmen untersagt, geöffnet zu haben. Das ist auch sinnvoll, aber wir wollen nicht all unsere Lieblingscafés und Orte an die Coronakrise verlieren.</p>
+  ‍<div class="content has-text-centered">
+  <p class="pdefault">Wir gestalten dieses Projekt <b>ausschließlich ehrenamtlich</b> und ohne finanziellen Gewinn.<br></p>
+  <p class="is-size-4"><b>Gemeinsam für Mecklenburg-Vorpommern - Vielfalt erhalten!</center></b></p></div>
 
-          {% if paginator.next_page %}
-            <li><a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a></li>
-          {% else %}
-            <li><span >Next &raquo;</span></li>
-          {% endif %}
-          </ul>
-        {% endif %}
+</div>
+<br><br><div class="content">
+<h1 class="is-size-2"><center>Unser Gutscheinsystem</center></h1>
+<div class="columns">
+  <div class="column">
+      <h2>Jetzt</h2>
+      <p class="pdefault"> Kauf jetzt über unsere Plattform Gutscheine.
+          Verhindert so, dass eure Lieblingsorte ihren Charme verlieren.</p>
+  </div>
+  <div class="column">
+      <h2>Nach der Krise</h2>
+      <p class="pdefault"> Sobald wieder Normalität eingekehrt ist, löst ihr die Gutscheine ein. Bei einem leckeren Drink oder angesagten Film könnt ihr dann daran denken, was ihr möglich gemacht habt: eine Vielfalt und Arbeitsplätze.</p>
+  </div>
+</div>
 
+
+</div>
+</div>
+</section>
+<section class="section">
+<div class="container">
+<div class="content">
+<div class="columns">
+<div class="column">
+  <div class="card">
+      <header class="card-header">
+        <p class="card-header-title">
+          Ich bin betroffen!
+        </p>
+      </header>
+      <div class="card-content">
+        <div class="content">
+          Du brauchst Hilfe von deinen Stammgästen, um die Corona-Krise zu überstehen? Dann schreib uns und wir nehmen deine Lokalität auf unserer Plattform auf. Für dich fallen dabei keine Gebühren an.
+        </div>
+      </div>
+      <footer class="card-footer">
+        <a href="/company" class="card-footer-item">ICH MÖCHTE MEIN RESTAURANT/CAFÉ/... REGISTRIEREN</a>
+      </footer>
     </div>
-    <div class="col-md-4">  </div>
+</div>
+<div class="column">
+  <div class="card">
+      <header class="card-header">
+        <p class="card-header-title">
+          Ich möchte helfen!
+        </p>
+      </header>
+      <div class="card-content">
+        <div class="content">
+          Du hast ein Lieblingsrestaurant, -café, -club, -hotel,
+-theater, -museum, ... und möchtest es gerne unterstützen?
+Dann nimm Kontakt zu dessen Geschäftsführung auf und gib ihnen unseren Kontakt weiter.
+<br><b>Wichtig: Dein Lieblingsort muss sich selbst registrieren.</b>
+        </div>
+      </div>
+    </div>
 </div>
 </div>
+</div>
+</div>
+</section>
+<section class="section">
+<div class="container">
+<div class="content">
+<div class="columns">
+<div class="column has-text-centered">
+ <br><br> <h1 class="is-size-1">Unser Partner:</h1>
+</div>
+<div class="column">
+  <img src="/img/partner/atento1080.png" alt="Atento">
+</div>
+</div>
+</div>
+</div>
+</section>
+
+<section class="section">
+<div class="container">
+<div class="content">
+<h1 class="is-size-2"><center>FAQ</center></h1>
+<div class="columns">
+<div class="column">
+  <h2><center>Du willst helfen?</center></h2>
+  <div id="accordion_second">
+      <article class="message">
+          <div class="message-header">
+              <p>Geht das Geld für die Gutscheine direkt an die Unternehmen? <a href="#faq1" data-action="collapse" class="faq-header-icon has-text-right"><i class="fas fa-angle-down" aria-hidden="true"></i></a></p>
+          </div>
+          <div id="faq1" class="message-body is-collapsible" data-parent="accordion_second" data-allow-multiple="true">
+              <div class="message-body-content">
+                  Das Geld wird direkt an dich zu 100 % weitergegeben. Wir verdienen damit kein Geld. Zusätzlich zum Gutscheinwert wird ein kleiner Betrag für Bank- und Transaktionsgebühren erhoben, den wir an den Zahlungsdienstleister zahlen müssen (z. B. PayPal).
+              </div>
+          </div>
+      </article>
+      <article class="message">
+          <div class="message-header">
+              <p>Gilt der Gutschein nur für ein bestimmtes Unternehmen? <a href="#faq2" data-action="collapse" class="faq-header-icon has-text-right"><i class="fas fa-angle-down" aria-hidden="true"></i></a></p>
+          </div>
+          <div id="faq2" class="message-body is-collapsible" data-parent="accordion_second" data-allow-multiple="true">
+              <div class="message-body-content">
+                  Ja, wir sind eine Vermittlungs-Plattform für Gutscheine. Die Gutscheine sind für ein spezifisches Unternehmen, mithilfe von unserem Partner Atento, erstellt worden. Das heißt, dass du über unsere Plattform den Gutschein direkt bei deinem Liebligsunternehmen kaufst.
+              </div>
+          </div>
+      </article>
+      <article class="message">
+          <div class="message-header">
+              <p>Ich habe einen Gutschein gekauft, aber keine Bestätigungsmail bzw. PDF erhalten <a href="#faq3" data-action="collapse" class="faq-header-icon has-text-right"><i class="fas fa-angle-down" aria-hidden="true"></i></a></p>
+          </div>
+          <div id="faq3" class="message-body is-collapsible" data-parent="accordion_second" data-allow-multiple="true">
+              <div class="message-body-content">
+                  Das darf natürlich nicht passieren! Wir verwenden das Gutschein-System von Atento. Bei Fragen oder Problemen wende dich bitte direkt an Atento unter <a href="mailto:hilfe@atento.me">hilfe@atento.me</a>.
+              </div>
+          </div>
+      </article>
+      <article class="message">
+          <div class="message-header">
+              <p>Kann ich auch Gutscheine verschenken? <a href="#faq4" data-action="collapse" class="faq-header-icon has-text-right"><i class="fas fa-angle-down" aria-hidden="true"></i></a></p>
+          </div>
+          <div id="faq4" class="message-body is-collapsible" data-parent="accordion_second" data-allow-multiple="true">
+              <div class="message-body-content">
+                  Natürlich! Ob für dich oder deine Lieben – die Gutscheine sind nicht namensgebunden und können weitergegeben werden.
+              </div>
+          </div>
+      </article>
+      <article class="message">
+          <div class="message-header">
+              <p>Wie löse ich einen Gutschein ein? <a href="#faq5" data-action="collapse" class="faq-header-icon has-text-right"><i class="fas fa-angle-down" aria-hidden="true"></i></a></p>
+          </div>
+          <div id="faq5" class="message-body is-collapsible" data-parent="accordion_second" data-allow-multiple="true">
+              <div class="message-body-content">
+                  Nach Corona kannst du einfach zu dem jeweiligen Geschäft gehen und deinen Gutschein vorzeigen, anhand der Gutscheinnummer und dem QR-Code kann er dann zugeordnet und eingelöst werden
+              </div>
+          </div>
+      </article>
+      <article class="message">
+          <div class="message-header">
+              <p>Was passiert, wenn das Unternehmen meiner Gutscheine in Insolvenz geht? <a href="#faq6" data-action="collapse" class="faq-header-icon has-text-right"><i class="fas fa-angle-down" aria-hidden="true"></i></a></p>
+          </div>
+          <div id="faq6" class="message-body is-collapsible" data-parent="accordion_second" data-allow-multiple="true">
+              <div class="message-body-content">
+                  Das kann leider passieren :(<br>
+In dem Fall bekommt ihr euer Geld NICHT zurück, da das Geld direkt bei den Unternehmen landet. Doch Zusammen können wir eine solche Insolvenz von unseren Lieblingsorten am Besten verhindern!
+              </div>
+          </div>
+      </article>
+  </div>
+</div>
+<div class="column">
+  <h2><center>Du brauchst Unterstützung?</center></h2>
+  <div id="accordion_second">
+      <article class="message">
+          <div class="message-header">
+              <p>Wie kann ich mich anmelden? <a href="#faq7" data-action="collapse" class="faq-header-icon has-text-right"><i class="fas fa-angle-down" aria-hidden="true"></i></a></p>
+          </div>
+          <div id="faq7" class="message-body is-collapsible" data-parent="accordion_second" data-allow-multiple="true">
+              <div class="message-body-content">
+                  Melde dich direkt über unser Anmeldeformular an. Du findest alle Informationen unter <a href="/company">"Unterstützt werden!"</a>
+              </div>
+          </div>
+      </article>
+      <article class="message">
+          <div class="message-header">
+              <p>Geht das Geld direkt an mein Unternehmen? <a href="#faq8" data-action="collapse" class="faq-header-icon has-text-right"><i class="fas fa-angle-down" aria-hidden="true"></i></a></p>
+          </div>
+          <div id="faq8" class="message-body is-collapsible" data-parent="accordion_second" data-allow-multiple="true">
+              <div class="message-body-content">
+                  Das Geld wird direkt an dich zu 100 % weitergegeben. Wir verdienen damit kein Geld. Zusätzlich zum Gutscheinwert wird ein kleiner Betrag für Bank- und Transaktionsgebühren erhoben, den wir an den Zahlungsdienstleister zahlen müssen (z. B. PayPal).
+              </div>
+          </div>
+      </article>
+      <article class="message">
+          <div class="message-header">
+              <p>Verdient KopfÜberWasser daran? <a href="#faq9" data-action="collapse" class="faq-header-icon has-text-right"><i class="fas fa-angle-down" aria-hidden="true"></i></a></p>
+          </div>
+          <div id="faq9" class="message-body is-collapsible" data-parent="accordion_second" data-allow-multiple="true">
+              <div class="message-body-content">
+                  KopfÜberWasser ist ein gemeinnütziges Projekt. Wir arbeiten alle zu 100% ehrenamtlich daran und verdienen nichts an dem Gutscheinverkauf.
+              </div>
+          </div>
+      </article>
+      <article class="message">
+          <div class="message-header">
+              <p>Verkauft KopfÜberWasser die Gutscheine? <a href="#faq10" data-action="collapse" class="faq-header-icon has-text-right"><i class="fas fa-angle-down" aria-hidden="true"></i></a></p>
+          </div>
+          <div id="faq10" class="message-body is-collapsible" data-parent="accordion_second" data-allow-multiple="true">
+              <div class="message-body-content">
+                  Wir verwenden das Gutschein-System von Atento. Bei Fragen oder Problemen wende dich bitte direkt an Atento unter <a href="mailto:hilfe@atento.me">hilfe@atento.me</a>.
+              </div>
+          </div>
+      </article>
+      <article class="message">
+          <div class="message-header">
+              <p>Ich habe mich angemeldet, bin aber noch nicht auf eurer Seite? <a href="#faq11" data-action="collapse" class="faq-header-icon has-text-right"><i class="fas fa-angle-down" aria-hidden="true"></i></a></p>
+          </div>
+          <div id="faq11" class="message-body is-collapsible" data-parent="accordion_second" data-allow-multiple="true">
+              <div class="message-body-content">
+                  Schön, dass du dabei bist! Bitte habe ein wenig Geduld mit uns, aus technischen Gründen können wir den Shop nur einmal am Tag aktualisieren. Daher schau am besten in den nächsten 1-2 Tagen nochmal rein. Sollte dein Shop immer noch nicht gelistet sein, melde dich bitte bei uns. Auf unserer <a href="/kontakt">Kontaktseite</a>, findest du dazu alle Infos.
+              </div>
+          </div>
+      </article>
+      <article class="message">
+          <div class="message-header">
+              <p>Ich möchte mehr über die Gutscheinabwicklung erfahren <a href="#faq12" data-action="collapse" class="faq-header-icon has-text-right"><i class="fas fa-angle-down" aria-hidden="true"></i></a></p>
+          </div>
+          <div id="faq12" class="message-body is-collapsible" data-parent="accordion_second" data-allow-multiple="true">
+              <div class="message-body-content">
+                  Gerne kannst du das tun. Du findest <a href="https://docs.google.com/document/d/1z7xUfzcbFuNc5UyaK3M-stbE8H1JURW13kDuNJ3mGNE/edit">hier</a> alle weiteren nützlichen Informationen unseres Partners Atento.
+              </div>
+          </div>
+      </article>
+</div>
+</div>
+
+
+</div>   
+</div>
+</section>
+
+
+<!-- FAQ ANIMATION -->
+<script>
+  // Return an array of bulmaCollapsible instances (empty if no DOM node found)
+  const bulmaCollapsibleInstances = bulmaCollapsible.attach('.is-collapsible');
+  
+  // Loop into instances
+  bulmaCollapsibleInstances.forEach(bulmaCollapsibleInstance => {
+      // Check if current state is collapsed or not
+      console.log(bulmaCollapsibleInstance.collapsed());
+  });
+  </script>
