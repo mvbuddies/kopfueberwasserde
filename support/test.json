@@ -4,7 +4,8 @@
         "name": "Firma1",
         "discription": "super Firma..kann man nur weiterempfehlen",
         "address": "Lumpenstr. 123, 11278 Kurzdorf, Germany",
-        "category": "Unterhaltung"
+        "category": "Unterhaltung",
+        "standort": "Rostock"
     },
 
     "Firma2":{
@@ -12,21 +13,24 @@
         "name": "Firma2",
         "discription": "beste Firma..hier gibt es Kondome",
         "address": "Lumpenstr. 321, 11278 Langdorf, Austria",
-        "category": "Drogerie"
+        "category": "Drogerie",
+        "standort": "Rostock"
     },
     "Firma3":{
         "id" : 3,
         "name": "Firma3",
         "discription": "beste Firma..hier gibt es Kondome",
         "address": "Lumpenstr. 321, 11278 Langdorf, Austria",
-        "category": "Drogerie"
+        "category": "Drogerie",
+        "standort": "Schwerin"
     },
     "Firma4":{
         "id" : 4,
         "name": "Firma4",
         "discription": "beste Firma..hier gibt es Kondome",
         "address": "Lumpenstr. 321, 11278 Langdorf, Austria",
-        "category": "Drogerie"
+        "category": "Drogerie",
+        "standort": "Mecklenburgische Seenplatte"
     },
     "Firma5":{
         "id" : 5,

@@ -11,7 +11,7 @@ new Vue({
     },
     methods: {
         readJSON(){
-            this.loadJSON("./test.json", (text) => {
+            this.loadJSON("./list.json", (text) => {
                 this.firmen = JSON.parse(text)
                 this.showFirmen = this.firmen
             })

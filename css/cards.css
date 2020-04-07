@@ -137,7 +137,11 @@
     transition: color 150ms ease-in;
     font-size: 2em;
     line-height: 1.3em;
-    cursor: pointer
+    cursor: pointer;
+}
+
+.cardd-tag {
+    margin-left: 200px;
 }
 
 .cardd-title:hover {
@@ -216,3 +220,19 @@
     box-shadow: none;
     opacity: 1
 }
+
+.image-3 {
+    width: 100%;
+    height: 150px;
+    margin-top: 0;
+    padding-top: 0;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    background-color: #fff;
+    background-image: url("https://uploads-ssl.webflow.com/5e7a632bc0df0c337a952eb7/5e8748a31e5bbf8fd36d4d62_skylineklein%20(2).jpg");
+    background-position: 0 0;
+    background-size: cover;
+    -o-object-fit: cover;
+    object-fit: cover
+}
+

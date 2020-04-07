@@ -35,19 +35,19 @@
         </div>
         <div id="navbarBasicExample" class="navbar-menu">
             <div class="navbar-start">
-                <a class="navbar-item" href="{{site.baseurl}}">
+                <a class="navbar-item" href="https://mvbuddies.de/kopfueberwasserde">
                     Home
                 </a>
-                <a class="navbar-item" href="{{site.baseurl}}/support">
+                <a class="navbar-item" href="/support">
                     Unterstützen!
                 </a>
-                <a class="navbar-item" href="{{site.baseurl}}/support">
+                <a class="navbar-item" href="/support">
                     Unterstützt werden!
                 </a>
-                <a class="navbar-item" href="{{site.baseurl}}/support">
+                <a class="navbar-item" href="/support">
                     Das sind wir
                 </a>
-                <a class="navbar-item" href="{{site.baseurl}}/support">
+                <a class="navbar-item" href="/support">
                     Kontakt
                 </a>
                 <!-- <div class="navbar-item has-dropdown is-hoverable">
@@ -113,7 +113,7 @@
         <section class="hero is-link">
           <div class="hero-body">
           <div class="container has-text-centered">
-          <h1 class="herowhitetitle">Mecklenburg Vorpommern Unterstützen</h1>
+          <h1 class="herowhitetitle">Mecklenburg Vorpommern unterstützen</h1>
           <h2 class="herowhitesubtitle"><br>
             <div class="buttons has-addons is-centered">
               <a href="#" class="button is-link is-inverted is-outlined is-hovered">Alle</a>
@@ -187,16 +187,18 @@
     <div class="div-block-23" :style="'position: relative; height: ' + calculateHeight() + ';'">
         <div id="grid" class="grid is-showing-items" v-for="firma in showFirmen">
             <div id="w-node-1e067ef2667e-15792f71" class="collection-item-5 dynamic-item w-dyn-item einzelhandel" 
-                 :style="style_div + 'left: ' + currentLeft(firma.id-1) + '; top: ' + currentTop(firma.id-1) + ';'">
+              :style="style_div + 'left: ' + currentLeft(firma.id-1) + '; top: ' + currentTop(firma.id-1) + ';'">
                 <div class="cardd" >
                     <div class="category">{{ firma.category }}</div>
-                    <a :href="firma.name" class="link-block-3-copy w-inline-block">
+                    <a :href="firma.id" class="link-block-3-copy w-inline-block" :style="'color: #000;'">
                         <img width="289"
-                        src="https://www.deine-tierwelt.de/magazin/wp-content/uploads/sites/2/2019/04/Katze-gestromt.jpg">
-                        <div class="cardd-title">{{ firma.name }}</div>
-                        <div class="cardd-link">{{ firma.name }}</div>
-                        <p class="cardd-summary">{{ firma.discription }}</p>
-                    </a>
+                        :src="firma.firmimg" class="image-3">
+                        <div class="cardd-title">{{ firma.firmname }}</div>
+                        <div class="cardd-link">{{ firma.firmname }}</div>
+                        <p class="cardd-summary">{{ firma.description }}</p>
+                    </a><div class="tags is-right">
+                      <span class="tag is-rounded">{{ firma.standort }}</span>
+                    </div>
                 </div>
         </div>
     </div>
@@ -206,6 +208,7 @@
 
 
 <script src="./main.js"></script>
+
 
 
 
@@ -221,7 +224,7 @@
   });
   </script>
   
-  <script src="{{site.baseurl}}/js/jquery-3.4.1.min.js"></script>
+  <script src="../js/jquery-3.4.1.min.js"></script>
 
   <!-- NAVBAR ANIMATION -->
 <script>
@@ -251,7 +254,5 @@
 });
 });
 </script><!-- Handy Dropdown Animation-->
-
-<script src="{{site.baseurl}}/support/main.js"></script>
   </body>
   </html>
