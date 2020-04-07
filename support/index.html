@@ -1,0 +1,257 @@
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+   
+    <link rel="stylesheet" href="/kopfueberwasserde/css/bulma.css">
+    <link rel="stylesheet" href="/kopfueberwasserde/css/bulma-collapsible.min.css">
+    <link rel="stylesheet" href="/kopfueberwasserde/css/cards.css">
+    <link href="/kopfueberwasserde/img/site/rettungsring.png" rel="shortcut icon" type="image/x-icon">
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">  
+    <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
+    <script src="/kopfueberwasserde/js/jquery-3.4.1.min.js"></script>
+    <script src="/kopfueberwasserde/js/bulma-collapsible.min.js"></script>
+    <script src="/kopfueberwasserde/js/vuejs.js"></script>
+    </head>
+<body>
+
+    <nav class="navbar" role="navigation" aria-label="main navigation">
+        <div class="navbar-brand">
+            <a class="navbar-item" href="#">
+                <img src="/kopfueberwasserde/img/site/kopfueberwasserlogoblack800.png">
+            </a>
+            <a
+                role="button"
+                class="navbar-burger burger"
+                aria-label="menu"
+                aria-expanded="false"
+                data-target="navbarBasicExample"
+            >
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+            </a>
+        </div>
+        <div id="navbarBasicExample" class="navbar-menu">
+            <div class="navbar-start">
+                <a class="navbar-item" href="{{site.baseurl}}">
+                    Home
+                </a>
+                <a class="navbar-item" href="{{site.baseurl}}/support">
+                    Unterstützen!
+                </a>
+                <a class="navbar-item" href="{{site.baseurl}}/support">
+                    Unterstützt werden!
+                </a>
+                <a class="navbar-item" href="{{site.baseurl}}/support">
+                    Das sind wir
+                </a>
+                <a class="navbar-item" href="{{site.baseurl}}/support">
+                    Kontakt
+                </a>
+                <!-- <div class="navbar-item has-dropdown is-hoverable">
+            <a class="navbar-link">
+              Mehr
+            </a>
+      
+            <div class="navbar-dropdown">
+              <a class="navbar-item">
+                About
+              </a>
+              <a class="navbar-item">
+                Jobs
+              </a>
+              <a class="navbar-item">
+                Contact
+              </a>
+              <hr class="navbar-divider">
+              <a class="navbar-item">
+                Report an issue
+              </a>
+            </div>
+          </div>-->
+            </div>
+            <!--
+      <div class="navbar-end">
+        <div class="navbar-item">
+            <div class="navbar-item has-dropdown is-hoverable">
+            <a class="navbar-link">
+              Mehr
+            </a>
+      
+            <div class="navbar-dropdown">
+              <a class="navbar-item">
+                About
+              </a>
+              <a class="navbar-item">
+                Jobs
+              </a>
+              <a class="navbar-item">
+                Contact
+              </a>
+              <hr class="navbar-divider">
+              <a class="navbar-item">
+                Report an issue
+              </a>
+            </div>
+          </div>
+        </div>
+          <div class="buttons">
+            <a class="button is-primary">
+              <strong>Sign up</strong>
+            </a>
+            <a class="button is-light">
+              Log in
+            </a>
+          </div>
+        </div>
+      </div>
+      </div>-->
+        </nav>
+
+        <section class="hero is-link">
+          <div class="hero-body">
+          <div class="container has-text-centered">
+          <h1 class="herowhitetitle">Mecklenburg Vorpommern Unterstützen</h1>
+          <h2 class="herowhitesubtitle"><br>
+            <div class="buttons has-addons is-centered">
+              <a href="#" class="button is-link is-inverted is-outlined is-hovered">Alle</a>
+              <a href="#" class="button is-link is-inverted is-outlined">Dienstleistung</a>
+              <a href="#" class="button is-link is-inverted is-outlined">Einzelhandel</a>
+              <a href="#" class="button is-link is-inverted is-outlined">Gastronomie</a>
+              <a href="#" class="button is-link is-inverted is-outlined">Unterhaltung</a>
+              <a href="#" class="button is-link is-inverted is-outlined">Andere</a>
+            </div></h2>
+              </div>
+            </div>
+          </div>
+          </div>
+          </section>
+
+          <section class="section">
+            <div class="container">
+              <div class="content">
+                <div class="columns">
+                  <div class="column">
+                    <div class="dropdown">
+                      <div class="dropdown-trigger">
+                        <button class="button" aria-haspopup="true" aria-controls="dropdown-menu">
+                          <span>Nach Standort filtern</span>
+                          <span class="icon is-small">
+                            <i class="fas fa-angle-down" aria-hidden="true"></i>
+                          </span>
+                        </button>
+                      </div>
+                      <div class="dropdown-menu" id="dropdown-menu" role="menu">
+                        <div class="dropdown-content">
+                          <a href="/hro" class="dropdown-item">
+                            Rostock
+                          </a>
+                          <a href="/sn" class="dropdown-item">
+                            Schwerin
+                          </a>
+                          <hr class="dropdown-divider">
+                          <a href="#" class="dropdown-item">
+                            Ludwigslust-Parchim
+                          </a>
+                          <a href="#" class="dropdown-item">
+                            Mecklenburgische Seenplatte
+                          </a>
+                          <a href="#" class="dropdown-item">
+                            Nordwestmecklenburg
+                          </a>
+                          <a href="#" class="dropdown-item">
+                            Landkreis Rostock
+                          </a>
+                          <a href="#" class="dropdown-item">
+                            Vorpommern-Greifswald
+                          </a>
+                          <a href="#" class="dropdown-item">
+                            Vorpommern-Rügen
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="column is-one-third">
+                    <input class="input" type="text" placeholder="Text input">
+                  </div>
+                </div>
+              </div>
+            </div>
+
+          </section>
+
+<div id="app">
+    <div class="div-block-23" :style="'position: relative; height: ' + calculateHeight() + ';'">
+        <div id="grid" class="grid is-showing-items" v-for="firma in showFirmen">
+            <div id="w-node-1e067ef2667e-15792f71" class="collection-item-5 dynamic-item w-dyn-item einzelhandel" 
+                 :style="style_div + 'left: ' + currentLeft(firma.id-1) + '; top: ' + currentTop(firma.id-1) + ';'">
+                <div class="cardd" >
+                    <div class="category">{{ firma.category }}</div>
+                    <a :href="firma.name" class="link-block-3-copy w-inline-block">
+                        <img width="289"
+                        src="https://www.deine-tierwelt.de/magazin/wp-content/uploads/sites/2/2019/04/Katze-gestromt.jpg">
+                        <div class="cardd-title">{{ firma.name }}</div>
+                        <div class="cardd-link">{{ firma.name }}</div>
+                        <p class="cardd-summary">{{ firma.discription }}</p>
+                    </a>
+                </div>
+        </div>
+    </div>
+</div>
+</div>
+
+
+
+<script src="./main.js"></script>
+
+
+
+<!-- FAQ ANIMATION -->
+<script>
+  // Return an array of bulmaCollapsible instances (empty if no DOM node found)
+  const bulmaCollapsibleInstances = bulmaCollapsible.attach('.is-collapsible');
+  
+  // Loop into instances
+  bulmaCollapsibleInstances.forEach(bulmaCollapsibleInstance => {
+      // Check if current state is collapsed or not
+      console.log(bulmaCollapsibleInstance.collapsed());
+  });
+  </script>
+  
+  <script src="{{site.baseurl}}/js/jquery-3.4.1.min.js"></script>
+
+  <!-- NAVBAR ANIMATION -->
+<script>
+      $(document).ready(function() {
+
+        // Check for click events on the navbar burger icon
+        $(".navbar-burger").click(function() {
+
+        // Toggle the "is-active" class on both the "navbar-burger" and the "navbar-menu"
+        $(".navbar-burger").toggleClass("is-active");
+        $(".navbar-menu").toggleClass("is-active");
+
+    });
+    });
+</script>
+
+<!-- Handy Dropdown Animation-->
+<script>
+  $(document).ready(function() {
+
+    // Check for click events on the navbar burger icon
+    $(".dropdown").click(function() {
+
+    // Toggle the "is-active" class on both the "navbar-burger" and the "navbar-menu"
+    $(".dropdown").toggleClass("is-active");
+
+});
+});
+</script><!-- Handy Dropdown Animation-->
+
+<script src="{{site.baseurl}}/support/main.js"></script>
+  </body>
+  </html>
