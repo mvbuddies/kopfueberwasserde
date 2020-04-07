@@ -12,7 +12,7 @@ title: Kopf über Wasser
   #Webjeda Cards is a Bootstrap based jekyll theme for portfolio, photography or any kind of blog.
   
   
-baseurl: "/kopfueberwasserde" # the subpath of your site, e.g. /blog
+baseurl: "/kopfueberwasserde-jekyll" # the subpath of your site, e.g. /blog
 url: "https://mvbuddies.de" # the base hostname & protocol for your site
 
 #sidebar
