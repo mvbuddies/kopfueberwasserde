@@ -1,19 +1,18 @@
 new Vue({
     el: "#app",
     data: {
-        firmen: {},
+        firmen: [],
         div_top: 4,
         div_left: 0,
         add_div_top: 420,
         add_div_left: 289,
         style_div: "position: absolute;",
-        showFirmen: {}
+        search: ""
     },
     methods: {
         readJSON(){
             this.loadJSON("./list.json", (text) => {
-                this.firmen = JSON.parse(text)
-                this.showFirmen = this.firmen
+                this.firmen = Object.values(JSON.parse(text))
             })
         },
 
@@ -43,9 +42,17 @@ new Vue({
             }
         },
         calculateHeight(){
-            let len = Object.keys(this.showFirmen).length
+            let len = this.filteredList.length
             let max = Math.floor(window.innerWidth / this.add_div_left)
             return this.div_top + this.add_div_top*Math.ceil(len/max) + 100
+        }
+    },
+
+    computed: {
+        filteredList() {
+            return this.firmen.filter(firma => {
+                return firma.firmname.toLowerCase().includes(this.search.toLowerCase())
+            })
         }
     },
 

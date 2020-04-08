@@ -16,7 +16,7 @@
   }
 }
 
-.has-bg-img { background: url('/kopfueberwasserde/img/site/skyline.jpg')center center; background-size:cover; }
+.has-bg-img { background: url('/kopfueberwasserde-jekyll/img/site/skyline.jpg')center center; background-size:cover; }
 
 .delete, .modal-close, .is-unselectable, .button, .file, .breadcrumb, .pagination-previous,
 .pagination-next,

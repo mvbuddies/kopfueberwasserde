@@ -9,8 +9,7 @@
     "address": "Rudolf-Diesel-Straße 3, 18059, Rostock",
     "firmurl": "https://www.abenteuer-stadtwelten.de/",
     "firmimg": "https://uploads-ssl.webflow.com/5e7a632b3e8fa2a6b63c8dea/5e8a340c22913785b8d2b504_Abenteuer%20Stadtwelt.jpg",
-    "giftcardurl": "https://app.atento.me/merchants/4248?in_frame=false&locale=de",
-    "standort": "Mecklenburgische Seenplatte"
+    "giftcardurl": "https://app.atento.me/merchants/4248?in_frame=false&locale=de"
   },
   "1": {
     "id": 4,
@@ -20,7 +19,6 @@
     "description": "Wir sind die Buchhandlung in Rostocks Kiez - der \"KTV\" (Kröpeliner Tor-Vorstadt)",
     "longdescription": "Unser Ladengeschäft ist in Zeiten von Corona geschlossen, aber wir arbeiten: Via Webshop, Mail, Telefon können Sie Bücher bestellen, wir liefern aus - mit Fahrrad, Auto und notfalls per Lieferdienst - und wengistens einen Teil unserer Umsatzausfälle zu kompensieren und zu überleben. Auch Büchergutscheine kann man in unserem Webshop www.anderebuchhandlung.de bestellen. Lesungen können im Moment nicht stattfinden, aber am 07.04.20 führen wir mit Christian Ansehl unsere erste Online-Lesung durch. Nach Corona soll es bei uns im Laden weitergehen mit interessanten Buchtiteln, Lesungen und der 30 Jahr-Feier im Herbst 2020.",
     "address": "Wismarsche Str. 6/7, 18057, Roctock",
-    "standort": "Mecklenburgische Seenplatte",
     "firmurl": "https://www.anderebuchhandlung.de/",
     "firmimg": "https://uploads-ssl.webflow.com/5e7a632b3e8fa2a6b63c8dea/5e8b7490a0ff7785d041898a_AndereBuchhandlung.jpg",
     "giftcardurl": "https://app.atento.me/merchants/4258?in_frame=false&locale=de"
@@ -35,7 +33,7 @@
     "address": "Budapesterstraße 74, 18057, Rostock",
     "firmurl": null,
     "firmimg": "https://uploads-ssl.webflow.com/5e7a632b3e8fa2a6b63c8dea/5e87a6805456b0834b8cb902_Hopps%20Bunte%20Stube.jpg",
-    "giftcardurl": "https://app.atento.me/merchants/4257?in_frame=false&locale=de",
-    "standort": "Mecklenburgische Seenplatte"
+    "standort": "Landkreis Rostock",
+    "giftcardurl": "https://app.atento.me/merchants/4257?in_frame=false&locale=de"
   }
 }
