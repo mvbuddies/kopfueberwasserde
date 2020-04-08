@@ -1,3 +1,3 @@
-Demo: [http://mvbuddies.de/kopfueberwasserde](http://mvbuddies.de/kopfueberwasserde)
+Demo: [https://kuw.mvbuddies.de/](http://kuw.mvbuddies.de)
 
 ## Noch in Bearbeitung
