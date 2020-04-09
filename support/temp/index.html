@@ -3,7 +3,6 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Mecklenburg Vorpommern unterstützen | Kopf über Wasser</title>
         <link rel="stylesheet" href="/css/bulma.css">
         <link rel="stylesheet" href="/css/bulma-collapsible.min.css">
         <link rel="stylesheet" href="/css/cards.css">
@@ -41,16 +40,16 @@
                     <a class="navbar-item" href="https://kuw.mvbuddies.de">
                         Home
                     </a>
-                    <a class="navbar-item" href="/support/">
+                    <a class="navbar-item" href="/support">
                         Unterstützen!
                     </a>
-                    <a class="navbar-item" href="/company/">
+                    <a class="navbar-item" href="/support">
                         Unterstützt werden!
                     </a>
-                    <a class="navbar-item" href="/team/">
+                    <a class="navbar-item" href="/support">
                         Das sind wir
                     </a>
-                    <a class="navbar-item" href="/kontakt/">
+                    <a class="navbar-item" href="/support">
                         Kontakt
                     </a>
                     <!-- <div class="navbar-item has-dropdown is-hoverable">
@@ -148,33 +147,29 @@
                             </div>
                             <div class="dropdown-menu" id="dropdown-menu" role="menu">
                               <div class="dropdown-content">
-                                <a href="/support/" class="dropdown-item">
-                                  Mecklenburg Vorpommern
-                                </a>
-                                <hr class="dropdown-divider">
-                                <a href="/support/hro" class="dropdown-item">
+                                <a href="/hro" class="dropdown-item">
                                   Rostock
                                 </a>
-                                <a href="/support/sn/" class="dropdown-item">
+                                <a href="/sn" class="dropdown-item">
                                   Schwerin
                                 </a>
                                 <hr class="dropdown-divider">
-                                <a href="/support/lro/" class="dropdown-item">
-                                  Landkreis Rostock
-                                </a>
-                                <a href="/support/lup/" class="dropdown-item">
+                                <a href="#" class="dropdown-item">
                                   Ludwigslust-Parchim
                                 </a>
-                                <a href="/support/mse/" class="dropdown-item">
+                                <a href="#" class="dropdown-item">
                                   Mecklenburgische Seenplatte
                                 </a>
-                                <a href="/support/nwm/" class="dropdown-item">
+                                <a href="#" class="dropdown-item">
                                   Nordwestmecklenburg
                                 </a>
-                                <a href="/support/vg/" class="dropdown-item">
+                                <a href="#" class="dropdown-item">
+                                  Landkreis Rostock
+                                </a>
+                                <a href="#" class="dropdown-item">
                                   Vorpommern-Greifswald
                                 </a>
-                                <a href="/support/vr/" class="dropdown-item">
+                                <a href="#" class="dropdown-item">
                                   Vorpommern-Rügen
                                 </a>
                               </div>
@@ -202,13 +197,13 @@
                             <div class="category">{{ firma.category }}</div>
                             <a :href="'/support/'+firma.id" class="link-block-3-copy w-inline-block" :style="'color: #000;'">
                               <img width="289"
-                              :src="'/img/company/cards/'+firma.firmimg" loading="lazy" class="image-3">
+                              :src="firma.firmimg" loading="lazy" class="image-3">
                                 <div class="cardd-title">{{ firma.firmname }}</div>
                                 <div class="cardd-link">{{ firma.firmname }}</div>
                                 <p class="cardd-summary">{{ firma.description }}</p>
-                            </a><!--<div class="tags is-right">
+                            </a><div class="tags is-right">
                               <span class="tag is-rounded">{{ firma.standort }}</span>
-                            </div>-->
+                            </div>
                         </div>
                       </div>
                 </div>
@@ -225,8 +220,8 @@
             <div class="content has-text-centered">
                 <p>
                   <strong>Kopf über Wasser</strong>, 2020,
-                  <a href="/datenschutz">Datenschutzerklärung</a>
-                  <a href="/impressum">Impressum</a>
+                  <a href="{{site.baseurl}}/datenschutz">Datenschutzerklärung</a>
+                  <a href="{{site.baseurl}}/impressum">Impressum</a>
                   <a href="https://instagram.com/kopfueberwasser">Instagram</a>
                 </p>
               </div>
