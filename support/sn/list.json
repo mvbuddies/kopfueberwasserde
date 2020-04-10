@@ -1,6 +1,7 @@
 {
     "0": {
         "id": 1011,
+        "firmname": "MOEgrafie Fotografie",
         "category": "Dienstleistung",
         "description": "Wir sind ein Fotografenteam und wir stehen für moderne und lebendige Fotografie",
         "longdescription": "Ich bin ein \"Menschenfotograf\" und begleite seit 20 Jahren tolle Familien, Paare und Unternehmen mit meinen Kameras <3. Man kann bei uns seit jeher Gutscheine für tolle Photoshootings kaufen und diese dann in unvergessliche Fotos und \"MOEmente\" eintauschen. ",
@@ -11,6 +12,7 @@
     },
     "1": {
         "id": 1012,
+        "firmname": "Musikhaus Schwerin",
         "category": "Einzelhandel",
         "description": "Biete *(vor Ort) 10% Rabatt auf Gutscheinkauf, unbegrenzt einlösbar.",
         "longdescription": "\"Familiengeführtes Musikhaus benötigt Unterstützung, um wenigstens die Lebenshaltungskosten zu finanzieren. Gutschein kann auch für Gitarrenunterricht in der\neigenen Musikschule genutzt werden. Sortiment: Musikinstrumente, Zubehör, PA-Technik\"",
@@ -21,6 +23,7 @@
     },
     "2": {
         "id": 1037,
+        "firmname": "Seefahrtschule Hafen Rostock",
         "category": "Dienstleistung",
         "description": "Ostsee-Kurzreisen und Städtereisen nach Dänemark per Ostsee-Fähre und Reisebus - Hafenrundfahrten von Rostock nach Warnemünde und zurück ",
         "longdescription": "Schiffsreisen ab Rostock Überseehafen; Bootsausflüge ab Rostock Stadthafen; Gutscheineinlösung von 54,00 bis 135,00 über bootsfahrschule-schwerin.net",
