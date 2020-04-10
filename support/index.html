@@ -182,8 +182,13 @@
                           </div>
                         </div>
                      
-                        <div class="column is-one-third">
+                        <div class="column is-one-third is-hidden-touch">
                           <input class="input" v-on:input="filterByName" v-model="search" type="text" placeholder="Suchen...">
+                        </div>
+                        <!--FUNKTIONIERT NICHT EINWANDFREI-->
+                        <div class="column is-one-third is-hidden-desktop">
+                          <input class="input" v-on:input="filterByName" :value="search"
+                          @input="e => search = e.target.value" type="text" placeholder="Suchen...">
                         </div>
                       </div>
                     </div>
