@@ -189,6 +189,7 @@
                         <div class="column is-one-third is-hidden-desktop">
                           <input class="input" v-on:input="filterByName" :value="search"
                           @input="e => search = e.target.value" type="text" placeholder="Suchen...">
+                          <p class="has-text-centered"><a href="JavaScript:setTimeout(loadUrl,2000)" id='resetsearch' onclick='changeText()' class="has-text-primary">Suche zurücksetzen</a></p>
                         </div>
                       </div>
                     </div>
@@ -275,9 +276,19 @@
         
 
      
-
-
+<!--SEARCH RESET MOBILE-->
+<script>
+  function loadUrl(){
+  window.location.href = ".";
+}
+</script>
    
+<script>
+  function changeText()
+  {
+   document.getElementById('resetsearch').innerHTML = 'Suche zurückgesetzt!';
+  }
+  </script>
           
           
           
