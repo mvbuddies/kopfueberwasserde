@@ -1,6 +1,17 @@
 {
     "0": {
-        "id": 15,
+        "id": 1870,
+        "firmname": "Segel- und Motorbootschule Rückenwind",
+        "category": "Dienstleistung",
+        "description": "Gutscheine für Segelkurse, Motorbootkurse, Funkkurse, Yachtsegeln, Online-Kurse oder über einen bestimmten Geldbetrag",
+        "longdescription": "Unsere Segelschule Rückenwind ist die größte und älteste Schule für amtliche Sportbootführerscheine in der Region Usedom. Trotzdem sind wir kein Massenbetrieb. Unsere Teilnehmer machen den Unterricht in Kleingruppen oder als Online-Kurs mit Unterstützung per Telefon, Skype und Emails.",
+        "address": "Hafenstraße 25, 17438 Wolgast",
+        "firmurl": "https://www.segelschule-rueckenwind.de/",
+        "firmimg": "segel-und-motorbootschule-ruckenwind.jpg",
+        "giftcardurl": "nan"
+    },
+    "1": {
+        "id": 1754,
         "firmname": "Digitaldruck Kruse",
         "category": "Dienstleistung",
         "description": "Die Digitaldruckerei in der Stralsunder Altstadt.",
@@ -10,8 +21,8 @@
         "firmimg": "digitaldruck-kruse.jpg",
         "giftcardurl": "nan"
     },
-    "1": {
-        "id": 131,
+    "2": {
+        "id": 1734,
         "firmname": "Segel- und Motorbootschule Rückenwind",
         "category": "Dienstleistung",
         "description": "Gutscheine für Segelkurse, Motorbootkurse, Funkkurse, Yachtsegeln, Online-Kurse oder über einen bestimmten Geldbetrag",
@@ -19,6 +30,17 @@
         "address": "Hafenstraße 25, 17438 Wolgast",
         "firmurl": "https://www.segelschule-rueckenwind.de/",
         "firmimg": "segel-und-motorbootschule-ruckenwind.jpg",
+        "giftcardurl": "nan"
+    },
+    "3": {
+        "id": 1618,
+        "firmname": "Digitaldruck Kruse",
+        "category": "Dienstleistung",
+        "description": "Die Digitaldruckerei in der Stralsunder Altstadt.",
+        "longdescription": "Wir sind Digitaldruck Kruse. Ein Unternehmen, das 1987 gegründet wurde und seit April 2019 unter neuer Leitung frischen Wind mitbringt. Wir arbeiten gern für unsere Kunden. Wir stärken mit Vorliebe die Region. Wir gehen gern in den Austausch, um gemeinsame Projekte zu realisieren. Wir bieten faire Preise. Wir fördern Autoren aus der Umgebung. Wir bieten Arbeitsplätze im Bereich Mediengestaltung und das in einer Region, wo diese Mangelware sind.",
+        "address": "Frankenstraße 53, 18439 Stralsund",
+        "firmurl": "https://mv-druck.de/",
+        "firmimg": "digitaldruck-kruse.jpg",
         "giftcardurl": "nan"
     }
 }
