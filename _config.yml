@@ -46,7 +46,7 @@ paginate_path: /page:num/
 #github: http://github.com/webjeda
 #email: hello@webjeda.com
 
-include: ['.htaccess']
+
 
 #facebook like box
 fb-like-box: no
