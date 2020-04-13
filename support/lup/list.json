@@ -1,6 +1,10 @@
 {
     "0": {
+<<<<<<< HEAD
         "id": 33,
+=======
+        "id": 2668,
+>>>>>>> 9a719e2de6b05d2b1a7a1aafd5ae8587d991b331
         "firmname": "Cafe & Pension \"Am Brunnen\"",
         "category": "Gastronomie",
         "description": "Cafe & Pension direkt an der \"Elde\" in Parchim",
@@ -8,6 +12,32 @@
         "address": "Am Brunnen 1, 19370 Parchim",
         "firmurl": "http://www.pensionambrunnen.de",
         "firmimg": "cafe-pension-am-brunnen.png",
+<<<<<<< HEAD
         "giftcardurl": "nan"
+=======
+        "giftcardurl": "http://app.atento.me/merchants/4715-cafe-pension-am-brunnen"
+    },
+    "1": {
+        "id": 2663,
+        "firmname": "Brockis Hotel Stadt Hamburg",
+        "category": "Andere",
+        "description": "Brockis Hotel Stadt Hamburg ist ein kleines familiärgeführtes Privathotel mit 16 gemütlichen Zimmern im Zentrum der Kreisstadt Parchim.",
+        "longdescription": "Schaut auf unsere Seite, wir bieten an, die Gutscheine für ein Firmen- oder Familienfrühstück in unserem gemütlichen Restaurant einzusetzen. Genauso ist es natürlich möglich, einen Aufenthalt oder ein Arrangement in Brockis Hotel Stadt Hamburg mit den Gutscheinen zu bezahlen. Lasst Euch inspirieren! Wir freuen uns auf Euren Besuch!",
+        "address": "Lange Str. 87, 19370 Parchim",
+        "firmurl": "https://www.hotel-parchim.de/",
+        "firmimg": "brockis-hotel-stadt-hamburg.jpg",
+        "giftcardurl": "http://app.atento.me/merchants/5098-brockis-hotel-stadt-hamburg"
+    },
+    "2": {
+        "id": 2742,
+        "firmname": "optik-krawczyk ",
+        "category": "Einzelhandel",
+        "description": "Seit über 10 Jahre sind wir in Crivitz für Sie tätig. Bei uns zählt der persönliche Service noch ganz besonders.",
+        "longdescription": "Wir sind ein traditionell Handwerksbetrieb. Wir sind keine Kette, keine chinesische Produktverkäufer. Wir stehen hinter deutschen Lieferanten.",
+        "address": "Am Markt 1, 19089 Crivitz",
+        "firmurl": "https://www.optik-krawczyk.de/",
+        "firmimg": "optik-krawczyk.jpg",
+        "giftcardurl": "https://www.optik-krawczyk.de/shop"
+>>>>>>> 9a719e2de6b05d2b1a7a1aafd5ae8587d991b331
     }
 }

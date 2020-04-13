@@ -1,5 +1,6 @@
 {
     "0": {
+<<<<<<< HEAD
         "id": 23,
         "firmname": "Hochzeitsfotografie Rügen",
         "category": "Dienstleistung",
@@ -12,6 +13,9 @@
     },
     "1": {
         "id": 39,
+=======
+        "id": 2681,
+>>>>>>> 9a719e2de6b05d2b1a7a1aafd5ae8587d991b331
         "firmname": "Der Wollladen",
         "category": "Einzelhandel",
         "description": "Dein Handarbeitsfachgeschäft an der Ostsee. Entdecke alles zum Stricken - Sticken - Nähen im Ladenlokal oder in unserem Online-Shop.",
@@ -19,10 +23,15 @@
         "address": "Ossenreyerstraße 49, 18439 Stralsund",
         "firmurl": "https://www.der-wollladen.com",
         "firmimg": "der-wollladen.jpg",
-        "giftcardurl": "nan"
+        "giftcardurl": "https://www.der-wollladen.com/Geschenkgutschein"
     },
+<<<<<<< HEAD
     "2": {
         "id": 45,
+=======
+    "1": {
+        "id": 2704,
+>>>>>>> 9a719e2de6b05d2b1a7a1aafd5ae8587d991b331
         "firmname": "hautnah bodywear - Unterwäscheboutique",
         "category": "Einzelhandel",
         "description": "Hautnah bodywear ist eine Boutique für Lingerie und Unterwäsche im Herzen der Insel Rügen. Hier erhalten Sie u.a. eine perfekte BH-Beratung.",
@@ -30,8 +39,9 @@
         "address": "Bahnhofstraße 2, 18528 Bergen",
         "firmurl": "https://www.hautnah-ruegen.de",
         "firmimg": "hautnah-bodywear-unterwascheboutique.jpg",
-        "giftcardurl": "nan"
+        "giftcardurl": "http://app.atento.me/merchants/4722-hautnah-bodywear-unterwaescheboutique"
     },
+<<<<<<< HEAD
     "3": {
         "id": 60,
         "firmname": "Spielkartenfabrik Museumswerkstatt Stralsund",
@@ -89,6 +99,109 @@
     },
     "8": {
         "id": 115,
+=======
+    "2": {
+        "id": 2707,
+        "firmname": "Hochzeitsfotografie Rügen",
+        "category": "Dienstleistung",
+        "description": "Wir bieten Hochzeitsfotografie, After-Wedding-Shootings, Paar-und Familienfotos im natürlichen Stil.",
+        "longdescription": "Wir sind Anja und Dirk, selbst ein Paar, ...wir lieben die Fotografie und erzählen Eure Hochzeit in einzigartigen, emotionalen Bildern . Wir bieten Euch auch After-Wedding-Shootings in entspannter Atmosphäre, Paar- oder Familienfotos in der Natur, am Strand,... wo ihr mögt. Die Gutscheine verrechnen wir Euch mit dem jeweiligen Shooting, welches Ihr bei uns bucht. Wir wünschen uns so sehr, unsere Arbeit weiter führen zu können und Eure besonderen Momente in einer einzigartigen Bildergeschichte zu erzählen... wir freuen uns riesig über Eure Unterstützung!",
+        "address": "Schillstr. 38, 18439 Rostock",
+        "firmurl": "http://xn--hochzeitsfotografie-rgen-gtc.de/",
+        "firmimg": "hochzeitsfotografie-rugen.jpg",
+        "giftcardurl": "http://app.atento.me/merchants/4717-hochzeitsfotografie-ruegen"
+    },
+    "3": {
+        "id": 2698,
+        "firmname": "Goldschmiede Meisterbertrieb Pergande",
+        "category": "Einzelhandel",
+        "description": "Goldschmiede Handwerksbetrieb und Fachgeschäft für Schmuck und Uhren",
+        "longdescription": "In der Goldschmiede Pergande verbinden wir traditionelles Goldschmiedehandwerk mit kompetenter Beratung beim Verkauf von modernem, zeitgemäßem Gold- und Silberschmuck, Trauringen sowie Uhren der Marken REGENT und M&M. Wir bieten fachgerecht ausgeführte Reparaturen an, verwirklichen auch ihre individuellen Schmuckideen und Wünsche und bieten aus Meisterhand gefertigten Unikat-schmuck. \nGutscheine können sie für unser gesamtes Warensortiment und handwerkliche Dienstleistungen erwerben. \nWir freuen uns über ihre Unterstützung bei dieser Gutscheinaktion, damit wir zusammen auch weiterhin eine lebendige und attraktive Stralsunder Innenstadt bewahren können.",
+        "address": "Ossenreyerstraße 35, 18439 Stralsund",
+        "firmurl": "",
+        "firmimg": "goldschmiede-meisterbertrieb-pergande.jpg",
+        "giftcardurl": "http://app.atento.me/merchants/4721-goldschmiede-meisterbertrieb-pergande"
+    },
+    "4": {
+        "id": 2721,
+        "firmname": "Kosmetik & Fußpflegepraxis Birthe Döring",
+        "category": "Dienstleistung",
+        "description": "Seit 1992 biete ich meinen Kunden in ruhiger, gepflegter und freundlicher Atmosphäre einen Ort zum Wohlfühlen und Entspannen.",
+        "longdescription": "Kosmetik \nAls Maria Galland Fachkosmetikerin arbeite ich mit Produkten auf Basis neuester Forschungsergebnisse und jahrelanger Erfahrung.\nDie Behandlungen werden individuell auf Ihren Hauttyp und -zustand abgestimmt, praktisch maßgeschneidert.\nAlle Produkte der Marke Maria Galland können Sie auch für Ihre Pflege zu Hause kaufen.\n\nFußpflege\nIch biete Ihnen die klassische Form der Fußpflege, wie sie viele Kunden zu schätzen wissen.\nSchöne und gepflegte Füße sind immer im Trend!\n\nDie jetzige Situation stellt uns kleine Unternehmen alle vor ungewollten Herausforderungen.\nIch freue mich sehr, wenn Sie mich durch Ihren Gutscheinkauf unterstützen, um diesen dann einzulösen, wenn die Zeiten wieder besser sind.\n\nBLEIBEN SIE GESUND!🌞❤\n\nIhre Birthe Döring\n\n\n\n",
+        "address": "Heinrich-Heine-Ring 107f, 18435 Stralsund",
+        "firmurl": "http://www.kosmetikpraxis-doering.de",
+        "firmimg": "kosmetik-fusspflegepraxis-birthe-doring.jpg",
+        "giftcardurl": "http://app.atento.me/merchants/5096-kosmetik-fusspflegepraxis-birthe-doering"
+    },
+    "5": {
+        "id": 2654,
+        "firmname": "BalticFit Personal Training - Heiko Prinz",
+        "category": "Dienstleistung",
+        "description": "Dein Partner für Personal Fitness Training, Vereinsathletiktraining, StandUpPaddling und Inlineskating.",
+        "longdescription": "Ich bin freiberuflicher Fitnesslehrer und biete neben Personal Fitness Training und Athletiktraining für Sportvereine auch StandUpPaddling- und Inlineskating-Kurse an. Außerdem verleihe ich aufblasbare StandUpPaddling-Boards, u.a. auch ein XXL-iSUP für bis zu 8 Erwachsene. Mit den SUPs sind auch Teambildende Veranstaltungen möglich. Ich benötige eure Unterstützung, um dieses Angebot in der Region auch weiterhin anbieten zu können.",
+        "address": "Semlower Straße 16, 18334",
+        "firmurl": "http://www.balticfit.de",
+        "firmimg": "balticfit-personal-training-heiko-prinz.png",
+        "giftcardurl": "http://app.atento.me/merchants/4736-balticfit-personal-training-heiko-prinz"
+    },
+    "6": {
+        "id": 2772,
+        "firmname": "Sportshop Jump In - Ralf Klingschat e.K.",
+        "category": "Einzelhandel",
+        "description": "Beratung und Verkauf für Running, Fitness, Fußball, Indoor, Outdoor, Camping, Skate, Bade und Freizeit (Schuhe, Textilien, Geräte, Sportnahrung) ",
+        "longdescription": "Gesundheit ist das wichtigste im Leben! Wie viele andere Unternehmen befolgen wir die staatliche Verordnung zur Eindämmung der Corona Pandemie und haben unter Tel. 03831 290880  einen Bestell-, Abhol-, Liefer -und Versanddienst eingerichtet. Mit einem Gutschein könnt ihr uns über die schwierige Zeit helfen. Bedanken möchten wir uns unmittelbar nach Wiedereröffnung mit einem Aktionsverkauf. Bleibt gesund!",
+        "address": "Frankendamm 81, 18439 Stralsund",
+        "firmurl": "https://sportshop-jumpin.de",
+        "firmimg": "sportshop-jump-in-ralf-klingschat-e-k.jpg",
+        "giftcardurl": "http://app.atento.me/merchants/4714-sportshop-jump-in-ralf-klingschat-e-k"
+    },
+    "7": {
+        "id": 2697,
+        "firmname": "Goldschmiede C. Stabenow Handelsgesellschaft mbH",
+        "category": "Einzelhandel",
+        "description": "Goldschmiedemeister seit 1874 ",
+        "longdescription": "In langer Tradition fertigt unser Haus Schmuck in eigener Werkstattproduktion – Individuelle Stücke und Auftragsarbeiten sowie eigene Kollektionen. Zusätzlich bieten wir ein umfangreiches Sortiment an Schmuck, Uhren, Porzellan, Glas und Geschenkartikeln.",
+        "address": "Badenstr. 1, 18439 Stralsund",
+        "firmurl": "http://c-stabenow.com/site/",
+        "firmimg": "goldschmiede-c-stabenow-handelsgesellschaft-mbh.jpg",
+        "giftcardurl": "http://app.atento.me/merchants/4713-goldschmiede-c-stabenow-handelsgesellschaft-mbh"
+    },
+    "8": {
+        "id": 2699,
+        "firmname": "Gutes aus Neuenrost",
+        "category": "Andere",
+        "description": "Wir als Familienunternehmen stellen aus eigenen Früchten 75 prozentige Fruchtaufstriche her.",
+        "longdescription": "Wir haben ein Crowd Funding Projekt gestartet, um unsere wesentlichen Betriebskosten abzudecken. Wir stellen seit zehn Jahren Fruchtaufstriche her und dies aus vor allem eigenen Früchten. Wir verkaufen 90% unserer Aufstriche über Wochenmärkte auf dem Fischland Darss. Ein kleiner Onlineshop rundet unser Angebot ab.",
+        "address": "Zum Wiedbusch 2, 18320 Schlemmin",
+        "firmurl": "https://www.gutes-aus-neuenrost.de",
+        "firmimg": "gutes-aus-neuenrost.jpg",
+        "giftcardurl": "https://www.startnext.com/gutes-aus-neuenrost"
+    },
+    "9": {
+        "id": 2771,
+        "firmname": "Spielkartenfabrik Museumswerkstatt Stralsund",
+        "category": "Andere",
+        "description": "Wir produzieren an alten Druckmaschinen Kartenspiele und andere Drucksachen. Wir bieten Führungen, Workshops und Projekte an.",
+        "longdescription": "Die Besucherinnen und Besucher der Spielkartenfabrik sind mittendrin und können live erleben, wie wir produzieren. Sie können den Mitarbeitern über die Schultern schauen, sie mit Fragen löchern oder selbst aktiv im Rahmen einer Führung, eines Workshops oder eines Projektes aktiv werden. Unsere Angebote findet ihr im Shop unter: www.spiefa.de",
+        "address": "Katharinenberg 35, 18439 Stralsund",
+        "firmurl": "https://www.spiefa.de",
+        "firmimg": "spielkartenfabrik-museumswerkstatt-stralsund.jpg",
+        "giftcardurl": "http://app.atento.me/merchants/4719-spielkartenfabrik-museumswerkstatt-stralsund"
+    },
+    "10": {
+        "id": 2760,
+        "firmname": "Rügener Insel Genuß",
+        "category": "Einzelhandel",
+        "description": "Wir verkaufen Lebensmittel, Spielsachen, Bekleidung, Geschenke und das meiste aus der Region.",
+        "longdescription": "Bei uns können Lebensmittel, sehr schöne Geschenke und nützliche Dinge für zu Hause gekauft werden. Das meiste aus der Region.",
+        "address": "Störtebekerstraße 37, 18528 Bergen",
+        "firmurl": "",
+        "firmimg": "rugener-insel-genuss.jpg",
+        "giftcardurl": "http://app.atento.me/merchants/4720-ruegener-insel-genuss"
+    },
+    "11": {
+        "id": 2662,
+>>>>>>> 9a719e2de6b05d2b1a7a1aafd5ae8587d991b331
         "firmname": "Brasserie Betreibergesellschaft mbH",
         "category": "Gastronomie",
         "description": "Wir sind die Brasserie aus Stralsund - ein Lokal in dem Du von 9 Uhr bis spät in den Abend kulinarisch verwöhnt wirst.",
@@ -96,8 +209,9 @@
         "address": "Neuer Markt 2, 18439 Stralsund",
         "firmurl": "http://www.brasserie-stralsund.de",
         "firmimg": "brasserie-betreibergesellschaft-mbh.jpg",
-        "giftcardurl": "nan"
+        "giftcardurl": "http://app.atento.me/merchants/4725-brasserie-betreibergesellschaft-mbh"
     },
+<<<<<<< HEAD
     "9": {
         "id": 118,
         "firmname": "Goldschmiede Meisterbertrieb Pergande",
@@ -111,6 +225,21 @@
     },
     "10": {
         "id": 129,
+=======
+    "12": {
+        "id": 2753,
+        "firmname": "PapadoXX-Fotografie",
+        "category": "Dienstleistung",
+        "description": "Unsere Arbeitsbereiche : Portrait - Business - Wedding",
+        "longdescription": "Wir erstellen außergewöhnliche Portraits von Privatkunden. Outdoor oder Indoor, begleiten Hochzeiten mit Foto und Video \nWir haben unser Atelier in Stralsund.\n\n\n„PapadoXX“: das Wortkonstrukt mit den beiden XX am Ende:  anders und unverkennbar.\n\nWir, das sind Anja und Dirk Poxdoerfer, verheiratet (miteinander) verbindet uns vieles, Lebensmittelpunkt und –inhalt ist aber die Fotografie. Sie begleitet uns durch jeden Tag auf vielfältigste Art und Weise. Kennen gelernt haben wir uns während unserer Ausbildung (auf zweitem Bildungsweg) zum Fotografen und seitdem gehen wir den Weg mit der Fotografie und auch privat gemeinsam",
+        "address": "Schillstr.38, 18439 Stralsund",
+        "firmurl": "http://papadoxx-fotografie.de",
+        "firmimg": "quadrosdesign-2.jpg",
+        "giftcardurl": "http://app.atento.me/merchants/4858-papadoxx-fotografie"
+    },
+    "13": {
+        "id": 2761,
+>>>>>>> 9a719e2de6b05d2b1a7a1aafd5ae8587d991b331
         "firmname": "Salzmanufaktur MV",
         "category": "Dienstleistung",
         "description": "Natursalz-Erlebnsizentrum mit Aktivsolevernebelung, Salzturmführungen, regionalen Natursalzspezialitäten und Workshops",
@@ -118,6 +247,7 @@
         "address": "Feldstr. 10, 18320 Trinwillershagen",
         "firmurl": "http://salzmanufaktur-mv.de",
         "firmimg": "salzmanufaktur-mv.jpg",
+<<<<<<< HEAD
         "giftcardurl": "nan"
     },
     "11": {
@@ -130,5 +260,8 @@
         "firmurl": "https://sportshop-jumpin.de",
         "firmimg": "sportshop-jump-in-ralf-klingschat-e-k.jpg",
         "giftcardurl": "nan"
+=======
+        "giftcardurl": "http://app.atento.me/merchants/4862-salzmanufaktur-mv"
+>>>>>>> 9a719e2de6b05d2b1a7a1aafd5ae8587d991b331
     }
 }

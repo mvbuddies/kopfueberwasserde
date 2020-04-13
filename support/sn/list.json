@@ -1,5 +1,6 @@
 {
     "0": {
+<<<<<<< HEAD
         "id": 59,
         "firmname": "Seefahrtschule Hafen Rostock",
         "category": "Dienstleistung",
@@ -12,6 +13,20 @@
     },
     "1": {
         "id": 11,
+=======
+        "id": 2780,
+        "firmname": "Tuscherei - Keramik selbst bemalen",
+        "category": "Unterhaltung",
+        "description": "Mal was ganz besonderes... Gestalte Dein eigenes Keramikstück zu Hause oder bei uns im Laden. ",
+        "longdescription": "\"Die Tuscherei ist ein Ort an dem Du in unserer schnelllebigen Zeit einfach mal rasten kannst, das Handy zur Seite legst und Dich auf diese eine Sache konzentrierst. Genieße ein leckeres Getränk, lass Deiner Kreativität freien Lauf und bemale Deine Keramik. Das ist nicht nur entspannend sondern macht auch wahnsinnig glücklich und stolz - spätestens wenn Du Dein neues Lieblingsstück in den Händen hältst.\n\nUnd Du kannst Dir die Tuscherei jetzt auch nach Hause holen #stayhome. Wir bieten To-Go Boxen zum zu Hause tuschen an. Für nähere Infos sendet uns einfach eine Email an kontakt@tuscherei.de. Gutscheine sind natürlich einlösbar. Juchu!\"",
+        "address": "Puschkinstr. 47, 19055 Schwerin",
+        "firmurl": "https://www.tuscherei.de/",
+        "firmimg": "tuscherei-keramik-selbst-bemalen.jpg",
+        "giftcardurl": "https://tuscherei.firstvoucher.com/"
+    },
+    "1": {
+        "id": 2737,
+>>>>>>> 9a719e2de6b05d2b1a7a1aafd5ae8587d991b331
         "firmname": "MOEgrafie Fotografie",
         "category": "Dienstleistung",
         "description": "Wir sind ein Fotografenteam und wir stehen für moderne und lebendige Fotografie",
@@ -19,10 +34,36 @@
         "address": "Clara Zetkin Strasse 51a, 19288 Schwerin",
         "firmurl": "https://www.moegrafie.de",
         "firmimg": "moegrafie-fotografie.jpg",
-        "giftcardurl": "nan"
+        "giftcardurl": "https://app.atento.me/merchants/3668?in_frame=false&locale=de"
     },
     "2": {
+<<<<<<< HEAD
         "id": 7,
+=======
+        "id": 2779,
+        "firmname": "tisch",
+        "category": "Andere",
+        "description": "Ein Coworking Space in Schwerin. Bei uns findest du einen Ort für Dich und deine Ideen. Mehr noch ist es ein Café und eine Eventlocation. ",
+        "longdescription": "Im tisch findest du neben ruhigen Arbeitsplätzen auch die Möglichkeit Dich mit einem Kaffee wach zu halten, Deine Termine in entspannter Umgebung abzuhalten und spannende Events und Menschen kennen zu lernen. Ich stelle den Laden ebenfalls Kreativen, Organisationen, Macher*innen oder Firmen zur Verfügung, um auf ihre Projekte aufmerksam zu machen. Der Raum ist flexibel und clean gehalten, damit jeder auf seine Kosten kommen kann. In den Abendstunden finden eigenes initiierte Events statt oder Du mietest den Raum für deine Pläne einfach selbst. Ob mit Business oder Ohne - so oder so ein Besuch Wert!",
+        "address": "Martinstraße 11, 19053 Schwerin",
+        "firmurl": "https://www.tisch.space",
+        "firmimg": "tisch.jpg",
+        "giftcardurl": "https://www.tisch.space/shop"
+    },
+    "3": {
+        "id": 2694,
+        "firmname": "Gästehaus Zum Weißen Haus ",
+        "category": "Andere",
+        "description": "Familiengeführtes Gästehaus im Herzen Schwerins",
+        "longdescription": "Auch unser Familiengeführtes Gästehaus musste jetzt in der Coronakrise schließen.Unterstützt uns bitte mit dem Kauf von Gutscheinen, damit unser Gästehaus aus dem Jahre 1847 weiter bestehen kann&wir  Euch auch bald wieder in Schwerin begrüßen können.❤️-lichen  Dank Familie Ikar.",
+        "address": "Grunthalplatz 16, 19053 Schwerin",
+        "firmurl": "",
+        "firmimg": "gastehaus-zum-weissen-haus.jpeg",
+        "giftcardurl": "http://app.atento.me/merchants/5157-gaestehaus-zum-weissen-haus"
+    },
+    "4": {
+        "id": 2738,
+>>>>>>> 9a719e2de6b05d2b1a7a1aafd5ae8587d991b331
         "firmname": "Musikhaus Schwerin",
         "category": "Einzelhandel",
         "description": "Biete *(vor Ort) 10% Rabatt auf Gutscheinkauf, unbegrenzt einlösbar.",
@@ -30,6 +71,43 @@
         "address": "Friedrichstr. 3, 19055 Schwerin",
         "firmurl": "http://musikhaus-sn.de",
         "firmimg": "musikhaus-schwerin.jpg",
+<<<<<<< HEAD
         "giftcardurl": "nan"
+=======
+        "giftcardurl": "https://app.atento.me/merchants/3669?in_frame=false&locale=de"
+    },
+    "5": {
+        "id": 2754,
+        "firmname": "Restaurant & Café Herzogliche Dampfwäscherei ",
+        "category": "Gastronomie",
+        "description": "Genuss braucht keinen Anlass – genießen Sie doch einfach jeden Tag. Wir heißen Sie herzlich Willkommen Wir lieben, was wir tun. ",
+        "longdescription": "\"Schenken Sie Freude und genießen Sie anschließend bei uns.\n\nWie schon einst J.W. v. Goethe schrieb \"\"Zufrieden jauchzet groß und klein: Hier bin ich Mensch, hier darf ich's sein\"\".  \nUnsere Gutscheine zum verschenken, für die Zeit nach unserem enthaltsamen Leben. Für Ihre Liebsten, engsten Freunde und Bekannte. Schenken Sie Freude und genießen Sie anschließend bei uns. \"",
+        "address": "Großer Moor 56, 19055 Schwerin",
+        "firmurl": "https://www.herzogliche-dampfwaescherei.de/",
+        "firmimg": "restaurant-cafe-herzogliche-dampfwascherei.jpg",
+        "giftcardurl": "https://www.herzogliche-dampfwaescherei.de/shop/"
+    },
+    "6": {
+        "id": 2766,
+        "firmname": "Seefahrtschule Hafen Rostock",
+        "category": "Dienstleistung",
+        "description": "Ostsee-Kurzreisen und Städtereisen nach Dänemark per Ostsee-Fähre und Reisebus - Hafenrundfahrten von Rostock nach Warnemünde und zurück ",
+        "longdescription": "Schiffsreisen ab Rostock Überseehafen; Bootsausflüge ab Rostock Stadthafen; Gutscheineinlösung von 54,00 bis 135,00 über bootsfahrschule-schwerin.net",
+        "address": "Wittenburger Str. 29, 19053 Schwerin",
+        "firmurl": "",
+        "firmimg": "seefahrtschule-hafen-rostock.png",
+        "giftcardurl": "http://app.atento.me/merchants/4731-seefahrtschule-hafen-rostock"
+    },
+    "7": {
+        "id": 2677,
+        "firmname": "Das FRITZ Hotel & Restaurant",
+        "category": "Gastronomie",
+        "description": "Neben zahlreichen Spezialitäten der mecklenburgischen Küche servieren wir in unserem Restaurant vegetarische und vegane Gerichte.",
+        "longdescription": "Seit 1992 können Sie im familiengeführten Drei-Sterne-Hotel FRITZ außerordentliche Gastfreundschaft in bester Lage in Schwerin-Krebsförden genießen: Ob Geschäftstermin, Gruppenreise oder Familienurlaub – gemütliche, gepflegte Zimmer, die ruhige Umgebung und der sehr persönliche Service sorgen dafür, dass Sie sich hier ganz wie zu Hause fühlen.",
+        "address": "Dorfstraße 3 B, 19061 Schwerin",
+        "firmurl": "https://www.fritz-hotel.de/",
+        "firmimg": "das-fritz-hotel-restaurant.jpg",
+        "giftcardurl": "http://app.atento.me/merchants/5158-das-fritz-hotel-restaurant"
+>>>>>>> 9a719e2de6b05d2b1a7a1aafd5ae8587d991b331
     }
 }

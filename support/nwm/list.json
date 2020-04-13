@@ -1,17 +1,25 @@
 {
     "0": {
+<<<<<<< HEAD
         "id": 58,
+=======
+        "id": 2733,
+>>>>>>> 9a719e2de6b05d2b1a7a1aafd5ae8587d991b331
         "firmname": "Martin Rütter DOGS Schwerin",
         "category": "Dienstleistung",
         "description": "Die Hundeschule für Menschen!",
         "longdescription": "Wir helfen Ihnen dabei, ein starkes Mensch-Hund-Team zu werden und zeigten Ihnen einfühlsam Ihren individuellen Weg zu einem harmonischen Miteinander mit Ihrer Fellnase! Für alle Hundebesitzer im Großraum Schwerin / Wismar / Ludwigslust / Parchim wartet man hier mit einem eigenen Trainingsgelände und einem abwechslungsreichen Programm aus Themenvorträgen, Seminaren, Kursangeboten und vielfältigen individuellen Trainingsangeboten ...",
-        "address": "Pokrenter Straße 15 , 19209 Lützow",
+        "address": "Pokrenter Straße 15 , 19209 Renzow",
         "firmurl": "https://www.martinruetter.com/schwerin/",
         "firmimg": "martin-rutter-dogs-schwerin.jpg",
-        "giftcardurl": "nan"
+        "giftcardurl": "https://www.martinruetter.com/schwerin/angebot/details/termin/2817/"
     },
     "1": {
+<<<<<<< HEAD
         "id": 100,
+=======
+        "id": 2752,
+>>>>>>> 9a719e2de6b05d2b1a7a1aafd5ae8587d991b331
         "firmname": "quadrosdesign",
         "category": "Dienstleistung",
         "description": "quadrosdesign ",
@@ -19,6 +27,10 @@
         "address": "Am Lembkenhof 42, 23966 Wismar",
         "firmurl": "https://quadrosdesign.de",
         "firmimg": "quadrosdesign.jpg",
+<<<<<<< HEAD
         "giftcardurl": "nan"
+=======
+        "giftcardurl": "http://app.atento.me/merchants/4856-quadrosdesign"
+>>>>>>> 9a719e2de6b05d2b1a7a1aafd5ae8587d991b331
     }
 }

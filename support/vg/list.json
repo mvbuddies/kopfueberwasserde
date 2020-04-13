@@ -1,6 +1,10 @@
 {
     "0": {
+<<<<<<< HEAD
         "id": 15,
+=======
+        "id": 2683,
+>>>>>>> 9a719e2de6b05d2b1a7a1aafd5ae8587d991b331
         "firmname": "Digitaldruck Kruse",
         "category": "Dienstleistung",
         "description": "Die Digitaldruckerei in der Stralsunder Altstadt.",
@@ -8,10 +12,14 @@
         "address": "Frankenstraße 53, 18439 Stralsund",
         "firmurl": "https://mv-druck.de/",
         "firmimg": "digitaldruck-kruse.jpg",
-        "giftcardurl": "nan"
+        "giftcardurl": "http://app.atento.me/merchants/4724-digitaldruck-kruse"
     },
     "1": {
+<<<<<<< HEAD
         "id": 131,
+=======
+        "id": 2767,
+>>>>>>> 9a719e2de6b05d2b1a7a1aafd5ae8587d991b331
         "firmname": "Segel- und Motorbootschule Rückenwind",
         "category": "Dienstleistung",
         "description": "Gutscheine für Segelkurse, Motorbootkurse, Funkkurse, Yachtsegeln, Online-Kurse oder über einen bestimmten Geldbetrag",
@@ -19,6 +27,10 @@
         "address": "Hafenstraße 25, 17438 Wolgast",
         "firmurl": "https://www.segelschule-rueckenwind.de/",
         "firmimg": "segel-und-motorbootschule-ruckenwind.jpg",
+<<<<<<< HEAD
         "giftcardurl": "nan"
+=======
+        "giftcardurl": "http://app.atento.me/merchants/4716-segel-und-motorbootschule-rueckenwind"
+>>>>>>> 9a719e2de6b05d2b1a7a1aafd5ae8587d991b331
     }
 }
