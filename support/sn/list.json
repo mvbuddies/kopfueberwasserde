@@ -1,20 +1,6 @@
 {
     "0": {
-<<<<<<< HEAD
-        "id": 59,
-        "firmname": "Seefahrtschule Hafen Rostock",
-        "category": "Dienstleistung",
-        "description": "Ostsee-Kurzreisen und Städtereisen nach Dänemark per Ostsee-Fähre und Reisebus - Hafenrundfahrten von Rostock nach Warnemünde und zurück ",
-        "longdescription": "Schiffsreisen ab Rostock Überseehafen; Bootsausflüge ab Rostock Stadthafen; Gutscheineinlösung von 54,00 bis 135,00 über bootsfahrschule-schwerin.net",
-        "address": "Wittenburger Str. 29, 19053 Schwerin",
-        "firmurl": "nan",
-        "firmimg": "seefahrtschule-hafen-rostock.jpg",
-        "giftcardurl": "nan"
-    },
-    "1": {
-        "id": 11,
-=======
-        "id": 2780,
+        "id": 3,
         "firmname": "Tuscherei - Keramik selbst bemalen",
         "category": "Unterhaltung",
         "description": "Mal was ganz besonderes... Gestalte Dein eigenes Keramikstück zu Hause oder bei uns im Laden. ",
@@ -22,11 +8,10 @@
         "address": "Puschkinstr. 47, 19055 Schwerin",
         "firmurl": "https://www.tuscherei.de/",
         "firmimg": "tuscherei-keramik-selbst-bemalen.jpg",
-        "giftcardurl": "https://tuscherei.firstvoucher.com/"
+        "giftcardurl": "nan"
     },
     "1": {
-        "id": 2737,
->>>>>>> 9a719e2de6b05d2b1a7a1aafd5ae8587d991b331
+        "id": 8,
         "firmname": "MOEgrafie Fotografie",
         "category": "Dienstleistung",
         "description": "Wir sind ein Fotografenteam und wir stehen für moderne und lebendige Fotografie",
@@ -34,13 +19,10 @@
         "address": "Clara Zetkin Strasse 51a, 19288 Schwerin",
         "firmurl": "https://www.moegrafie.de",
         "firmimg": "moegrafie-fotografie.jpg",
-        "giftcardurl": "https://app.atento.me/merchants/3668?in_frame=false&locale=de"
+        "giftcardurl": "nan"
     },
     "2": {
-<<<<<<< HEAD
-        "id": 7,
-=======
-        "id": 2779,
+        "id": 42,
         "firmname": "tisch",
         "category": "Andere",
         "description": "Ein Coworking Space in Schwerin. Bei uns findest du einen Ort für Dich und deine Ideen. Mehr noch ist es ein Café und eine Eventlocation. ",
@@ -48,22 +30,21 @@
         "address": "Martinstraße 11, 19053 Schwerin",
         "firmurl": "https://www.tisch.space",
         "firmimg": "tisch.jpg",
-        "giftcardurl": "https://www.tisch.space/shop"
+        "giftcardurl": "nan"
     },
     "3": {
-        "id": 2694,
+        "id": 75,
         "firmname": "Gästehaus Zum Weißen Haus ",
         "category": "Andere",
         "description": "Familiengeführtes Gästehaus im Herzen Schwerins",
         "longdescription": "Auch unser Familiengeführtes Gästehaus musste jetzt in der Coronakrise schließen.Unterstützt uns bitte mit dem Kauf von Gutscheinen, damit unser Gästehaus aus dem Jahre 1847 weiter bestehen kann&wir  Euch auch bald wieder in Schwerin begrüßen können.❤️-lichen  Dank Familie Ikar.",
         "address": "Grunthalplatz 16, 19053 Schwerin",
-        "firmurl": "",
+        "firmurl": "nan",
         "firmimg": "gastehaus-zum-weissen-haus.jpeg",
-        "giftcardurl": "http://app.atento.me/merchants/5157-gaestehaus-zum-weissen-haus"
+        "giftcardurl": "nan"
     },
     "4": {
-        "id": 2738,
->>>>>>> 9a719e2de6b05d2b1a7a1aafd5ae8587d991b331
+        "id": 94,
         "firmname": "Musikhaus Schwerin",
         "category": "Einzelhandel",
         "description": "Biete *(vor Ort) 10% Rabatt auf Gutscheinkauf, unbegrenzt einlösbar.",
@@ -71,13 +52,10 @@
         "address": "Friedrichstr. 3, 19055 Schwerin",
         "firmurl": "http://musikhaus-sn.de",
         "firmimg": "musikhaus-schwerin.jpg",
-<<<<<<< HEAD
         "giftcardurl": "nan"
-=======
-        "giftcardurl": "https://app.atento.me/merchants/3669?in_frame=false&locale=de"
     },
     "5": {
-        "id": 2754,
+        "id": 95,
         "firmname": "Restaurant & Café Herzogliche Dampfwäscherei ",
         "category": "Gastronomie",
         "description": "Genuss braucht keinen Anlass – genießen Sie doch einfach jeden Tag. Wir heißen Sie herzlich Willkommen Wir lieben, was wir tun. ",
@@ -85,21 +63,21 @@
         "address": "Großer Moor 56, 19055 Schwerin",
         "firmurl": "https://www.herzogliche-dampfwaescherei.de/",
         "firmimg": "restaurant-cafe-herzogliche-dampfwascherei.jpg",
-        "giftcardurl": "https://www.herzogliche-dampfwaescherei.de/shop/"
+        "giftcardurl": "nan"
     },
     "6": {
-        "id": 2766,
+        "id": 142,
         "firmname": "Seefahrtschule Hafen Rostock",
         "category": "Dienstleistung",
         "description": "Ostsee-Kurzreisen und Städtereisen nach Dänemark per Ostsee-Fähre und Reisebus - Hafenrundfahrten von Rostock nach Warnemünde und zurück ",
         "longdescription": "Schiffsreisen ab Rostock Überseehafen; Bootsausflüge ab Rostock Stadthafen; Gutscheineinlösung von 54,00 bis 135,00 über bootsfahrschule-schwerin.net",
         "address": "Wittenburger Str. 29, 19053 Schwerin",
-        "firmurl": "",
+        "firmurl": "nan",
         "firmimg": "seefahrtschule-hafen-rostock.png",
-        "giftcardurl": "http://app.atento.me/merchants/4731-seefahrtschule-hafen-rostock"
+        "giftcardurl": "nan"
     },
     "7": {
-        "id": 2677,
+        "id": 148,
         "firmname": "Das FRITZ Hotel & Restaurant",
         "category": "Gastronomie",
         "description": "Neben zahlreichen Spezialitäten der mecklenburgischen Küche servieren wir in unserem Restaurant vegetarische und vegane Gerichte.",
@@ -107,7 +85,6 @@
         "address": "Dorfstraße 3 B, 19061 Schwerin",
         "firmurl": "https://www.fritz-hotel.de/",
         "firmimg": "das-fritz-hotel-restaurant.jpg",
-        "giftcardurl": "http://app.atento.me/merchants/5158-das-fritz-hotel-restaurant"
->>>>>>> 9a719e2de6b05d2b1a7a1aafd5ae8587d991b331
+        "giftcardurl": "nan"
     }
 }
