@@ -10957,3 +10957,148 @@ navv ul li ul li a:hover {
   margin-right: auto;
   width: 50%;
 }
+
+.boxx {
+  background-color: white;
+  border-radius: 15px;
+  height: 100%;
+  box-shadow: 0 0.5em 1em -0.125em rgba(10, 10, 10, 0.1), 0 0px 0 1px rgba(10, 10, 10, 0.02);
+  color: #4a4a4a;
+  display: block;
+  padding: 0 0 25px;
+}
+.boxx:hover {
+  margin: -5px;
+  padding-right: 0;
+  padding-bottom: 10px
+}
+.categorybox {
+  left: 0;
+  top: 0;
+  right: auto;
+  bottom: auto;
+  display: block;
+  padding: 5px;
+  -ms-flex-item-align: stretch;
+  align-self: stretch;
+  border-radius: 9px 9px 0 0;
+  background-color: rgba(0, 0, 0, .66);
+  opacity: .9;
+  font-size: 12px;
+  color: #fff;
+  align-items: center;
+  text-align: center;
+}
+.imagebox {
+  width: 100%;
+  height: 150px;
+  margin-top: 0;
+  padding-top: 0;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  background-color: #fff;
+  background-image: url("https://uploads-ssl.webflow.com/5e7a632bc0df0c337a952eb7/5e8748a31e5bbf8fd36d4d62_skylineklein%20(2).jpg");
+  background-position: 0 0;
+  background-size: cover;
+  -o-object-fit: cover;
+  object-fit: cover
+}
+.linkbox {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin-right: 5px;
+  margin-left: 5px;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  font-size: 1.5em;
+  line-height: 1.3em;
+  font-weight: 500;
+  -o-object-fit: fill;
+  object-fit: fill
+}
+.containerbox {
+  flex-grow: 1;
+  margin: 0 auto;
+  position: static;
+  width: auto;
+  display: block;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-box-align: stretch;
+  -webkit-align-items: stretch;
+  -ms-flex-align: stretch;
+  align-items: stretch;
+  text-align: center
+}
+
+.summarybox {
+  overflow: visible;
+  margin-right: 5px;
+  margin-bottom: 0;
+  margin-left: 5px;
+  font-family: Lato, sans-serif;
+  font-size: 1em;
+  line-height: 1.5em;
+  font-weight: 300
+}
+
+.collectionboxitem5.dynamic-item {
+  width: 275px;
+  height: 400px;
+  margin-right: 7px;
+  margin-left: 7px;
+  padding-right: 0;
+  padding-bottom: 0;
+  padding-left: 0;
+  box-shadow: none;
+  opacity: 1
+}
+
+
+.divbox {
+  /*margin-right: 30px;
+  margin-left: 40px*/
+  flex-grow: 1;
+  margin: 0px 30px 0px 40px;
+  position: relative;
+  width: auto;
+}
+
+@media screen and (min-width: 1024px) {
+  .divbox {
+    max-width: 960px;
+  }
+}
+
+@media screen and (max-width: 1215px) {
+  .divbox.is-widescreen {
+    max-width: 1152px;
+  }
+}
+
+@media screen and (max-width: 1407px) {
+  .divbox.is-fullhd {
+    max-width: 1344px;
+  }
+}
+
+@media screen and (min-width: 1216px) {
+  .divbox {
+    max-width: 1152px;
+  }
+}
+
+@media screen and (min-width: 1408px) {
+  .divbox {
+    max-width: 1344px;
+  }
+}
