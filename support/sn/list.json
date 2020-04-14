@@ -34,14 +34,14 @@
     },
     "3": {
         "id": 75,
-        "firmname": "Gästehaus Zum Weißen Haus ",
+        "firmname": "Gästehaus Zum Weißen Haus",
         "category": "Andere",
         "description": "Familiengeführtes Gästehaus im Herzen Schwerins",
         "longdescription": "Auch unser Familiengeführtes Gästehaus musste jetzt in der Coronakrise schließen.Unterstützt uns bitte mit dem Kauf von Gutscheinen, damit unser Gästehaus aus dem Jahre 1847 weiter bestehen kann&wir  Euch auch bald wieder in Schwerin begrüßen können.❤️-lichen  Dank Familie Ikar.",
         "address": "Grunthalplatz 16, 19053 Schwerin",
-        "firmurl": "nan",
+        "firmurl": "",
         "firmimg": "gastehaus-zum-weissen-haus.jpeg",
-        "giftcardurl": "nan"
+        "giftcardurl": "http://app.atento.me/merchants/5157-gaestehaus-zum-weissen-haus"
     },
     "4": {
         "id": 94,
@@ -69,12 +69,12 @@
         "id": 142,
         "firmname": "Seefahrtschule Hafen Rostock",
         "category": "Dienstleistung",
-        "description": "Ostsee-Kurzreisen und Städtereisen nach Dänemark per Ostsee-Fähre und Reisebus - Hafenrundfahrten von Rostock nach Warnemünde und zurück ",
+        "description": "Ostsee-Kurzreisen und Städtereisen nach Dänemark per Ostsee-Fähre und Reisebus - Hafenrundfahrten von Rostock nach Warnemünde und zurück",
         "longdescription": "Schiffsreisen ab Rostock Überseehafen; Bootsausflüge ab Rostock Stadthafen; Gutscheineinlösung von 54,00 bis 135,00 über bootsfahrschule-schwerin.net",
         "address": "Wittenburger Str. 29, 19053 Schwerin",
-        "firmurl": "nan",
+        "firmurl": "",
         "firmimg": "seefahrtschule-hafen-rostock.png",
-        "giftcardurl": "nan"
+        "giftcardurl": "http://app.atento.me/merchants/4731-seefahrtschule-hafen-rostock"
     },
     "7": {
         "id": 148,
