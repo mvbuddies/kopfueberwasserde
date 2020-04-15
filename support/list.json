@@ -1692,5 +1692,16 @@
         "firmurl": "http://www.darss-festspiele.de",
         "firmimg": "2020-04-14_20-45-03_DSC04859 (Mittel).jpg",
         "giftcardurl": "https://www.darss-festspiele.de/karten/gutscheine/"
+    },
+    "154": {
+        "id": 158,
+        "firmname": "Küstenliebe",
+        "category": "Einzelhandel",
+        "description": "Hier bekommst Du alles, was Küstenkinder haben wollen.",
+        "longdescription": "Wir lieben die Küste, das Meer und den Strand. Die Schiffe, den Hafen, den Sonnenuntergang. Genau dieses Lebensgefühl wollen wir in unserem Onlineshop www.kuestenliebeshop.de umsetzten. Hier bekommst Du alles, was Küstenkinder haben wollen. Angesagte maritime Mode, Schmuck, Taschen und Dinge, um die Wohnung zu verschönern. Ahoi und schaut mal rein.",
+        "address": "Wielandstraße 8, 18055 Rostock",
+        "firmurl": "http://www.kuestenliebeshop.de",
+        "firmimg": "2020-04-15_13-29-37_IMG_5471.png",
+        "giftcardurl": "https://kuestenliebeshop.de/products/geschenkgutschein"
     }
 }
