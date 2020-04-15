@@ -15,6 +15,15 @@ new Vue({
             this.loadJSON("./list.json", (text) => {
                 this.firmen = Object.values(JSON.parse(text))
                 this.filteredList = this.firmen
+
+                //SHUFFLE CARDS
+                for(let i = this.filteredList.length - 1; i > 0; i--) {
+                    let randomIndex = Math.floor(Math.random() * i);
+                    
+                    let temp = this.filteredList[i];
+                    Vue.set(this.filteredList, i, this.filteredList[randomIndex]);
+                    Vue.set(this.filteredList, randomIndex, temp);
+                  }
             })
         },
 
@@ -50,6 +59,16 @@ new Vue({
         
     },
 
+    shuffleCards() {        
+        for(let i = this.filteredList.length - 1; i > 0; i--) {
+          let randomIndex = Math.floor(Math.random() * i);
+          
+          let temp = this.filteredList[i];
+          Vue.set(this.filteredList, i, this.filteredList[randomIndex]);
+          Vue.set(this.filteredList, randomIndex, temp);
+        }
+      },
+
     // Filter by category
 
     showAll(){
@@ -58,6 +77,8 @@ new Vue({
     showDienstleistung(){
         this.filteredList =  this.firmen.filter(firma => {
             return firma.category.toLowerCase().includes("dienstleistung")
+
+            
         })
     },
     showEinzelhandel(){
