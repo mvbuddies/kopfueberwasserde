@@ -3071,6 +3071,10 @@ fieldset[disabled] .button {
   margin-bottom: 1em;
 }
 
+.content h7 {
+  font-weight: 600;
+}
+
 .content blockquote {
   background-color: whitesmoke;
   border-left: 5px solid #dbdbdb;
@@ -10958,6 +10962,11 @@ navv ul li ul li a:hover {
   width: 50%;
 }
 
+.is-vertical-center {
+  display: flex;
+  align-items: center;
+}
+
 .boxx {
   background-color: white;
   border-radius: 15px;
@@ -11099,6 +11108,43 @@ navv ul li ul li a:hover {
 
 @media screen and (min-width: 1408px) {
   .divbox {
+    max-width: 1344px;
+  }
+}
+
+.containerradius {
+  flex-grow: 1;
+  border-radius: 15px;
+  margin: 0 auto 15px;
+  position: relative;
+  width: auto;
+}
+@media screen and (min-width: 1024px) {
+  .containerradius {
+    max-width: 960px;
+  }
+}
+
+@media screen and (max-width: 1215px) {
+  .containerradius.is-widescreen {
+    max-width: 1152px;
+  }
+}
+
+@media screen and (max-width: 1407px) {
+  .containerradius.is-fullhd {
+    max-width: 1344px;
+  }
+}
+
+@media screen and (min-width: 1216px) {
+  .containerradius {
+    max-width: 1152px;
+  }
+}
+
+@media screen and (min-width: 1408px) {
+  .containerradius {
     max-width: 1344px;
   }
 }
