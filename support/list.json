@@ -1703,5 +1703,27 @@
         "firmurl": "http://www.kuestenliebeshop.de",
         "firmimg": "2020-04-15_13-29-37_IMG_5471.png",
         "giftcardurl": "https://kuestenliebeshop.de/products/geschenkgutschein"
+    },
+    "155": {
+        "id": 160,
+        "firmname": "Salon Frisko",
+        "category": "Dienstleistung",
+        "description": "Wir sind \"Salon Frisko\" , ein Friseur mit dem Rund um Paket, d.h. Friseur, Kosmetik und Fußpflege.",
+        "longdescription": "Wir sind ein Friseursalon mit 6 MA in Reutershagen und schon seit 1993 am Markt. wir bieten das rund-um-Paket für unsere Kundschaft, d.h. Friseur, Kosmetik und Fußpflege.",
+        "address": "Ulrich-von- Hutten Str. 34, 18069 Rostock",
+        "firmurl": "",
+        "firmimg": "2020-04-16_10-10-54_skylinekleinklein.png",
+        "giftcardurl": "http://app.atento.me/merchants/5540-salon-frisko"
+    },
+    "156": {
+        "id": 164,
+        "firmname": "RUHEPOL ROSTOCK",
+        "category": "Dienstleistung",
+        "description": "Dein Weg zur Entspannung mit Massage & Floating & Coaching",
+        "longdescription": "Unser RUHEPOL ROSTOCK ist ein friedlicher und beruhigender Ort, in dem Du Deine Seele baumeln lassen kannst.\r\n\r\nWir arbeiten individuell und persönlich und bieten DREI Entspannungsmöglichkeiten:\r\n\r\nUnser FLOATEN ist eine hocheffektive Methode im Salzwasser, um Körper UND Geist zu entspannen. Seine relative Unbekanntheit macht das Floaten zum ganz besonderen Erlebnis.\r\n\r\nUnsere professionellen MASSAGEN in Verbindung mit hochwertigen Ölen helfen schnell den Körper zu entschleunigen und den Alltagstrubel zu vergessen.\r\n\r\nUnser COACHING ist eine qualifizierte und vertrauensvolle Beratung zu Themen, die Dein Leben bewegen und verhilft zur Klarheit und neuer Lebensfreude.",
+        "address": "Wollenweberstraße 62b, 18055 Rostock",
+        "firmurl": "",
+        "firmimg": "2020-04-16_10-38-22_Ruhepol Rostock Floating 1.jpg",
+        "giftcardurl": "http://ruhepol-rostock.de/gutschein/"
     }
 }
