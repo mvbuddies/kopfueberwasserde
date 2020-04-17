@@ -1253,7 +1253,7 @@
         "firmimg": "2020-04-15_13-29-37_IMG_5471.png",
         "giftcardurl": "https://kuestenliebeshop.de/products/geschenkgutschein"
     },
-    "116": {
+    "115": {
         "id": 160,
         "firmname": "Salon Frisko",
         "category": "Dienstleistung",
@@ -1264,7 +1264,7 @@
         "firmimg": "2020-04-16_10-10-54_skylinekleinklein.png",
         "giftcardurl": "http://app.atento.me/merchants/5540-salon-frisko"
     },
-    "117": {
+    "116": {
         "id": 164,
         "firmname": "RUHEPOL ROSTOCK",
         "category": "Dienstleistung",
@@ -1274,5 +1274,16 @@
         "firmurl": "",
         "firmimg": "2020-04-16_10-38-22_Ruhepol Rostock Floating 1.jpg",
         "giftcardurl": "http://ruhepol-rostock.de/gutschein/"
+    },
+    "120": {
+        "id": 162,
+        "firmname": "pro kunsthalle e.V.",
+        "category": "Unterhaltung",
+        "description": "Wir betreiben die Kunsthalle Rostock und vermissen unsere Besucher/innen. Schenkt uns und Euch gern ein bisschen Vorfreude!",
+        "longdescription": "Der Verein pro kunsthalle e.V. betreibt seit 2008/09 die Kunsthalle\r\nRostock. Die Kunsthalle ist der erste Museumsneubau der DDR und\r\nwahrscheinlich das einzige in der DDR gebaute Museum für zeitgenössische\r\nKunst. Die Ausstellung \"Palast der Republik – Utopie, Inspiration,\r\nPolitikum\" aus dem Sommer 2019 wurde durch die Deutsche Sektion des\r\nInternationalen Kunstkritikerverbandes (AICA) zur besten Ausstellung des\r\nJahres in Deutschland gewählt. Zwar werden die Betriebskosten des Hauses aus dem städtischen Haushalt\r\ngetragen, die Löhne/Gehälter der Vereins-Mitarbeiter sowie die\r\nAusstellungen müssen jedoch durch Einnahmen und Fördergelder finanziert\r\nwerden. Wenn keine Ausstellungen stattfinden, gibt es auch keine\r\nEinnahmen. Damit wir uns als Betreiberverein mit den Kolleg/innen und Ihr Euch als\r\nBesucher/innen auf ein besonderes Kunsterlebnis freuen können, schenkt\r\nEuch (und damit auch uns) einen Gutschein. Die Gutscheine gelten sowohl\r\nfür den Eintritt als auch für den Museumsshop.",
+        "address": "Hamburger Str. 40, 18069 Rostock",
+        "firmurl": "https://kunsthallerostock.de/",
+        "firmimg": "2020-04-16_10-15-17_skylinekleinklein.png",
+        "giftcardurl": "http://app.atento.me/merchants/5541-pro-kunsthalle-e-v"
     }
 }

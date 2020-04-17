@@ -119,5 +119,16 @@
         "firmurl": "",
         "firmimg": "eiscafe-marita-hahn.jpg",
         "giftcardurl": "http://app.atento.me/merchants/4718-eiscafe-marita-hahn"
+    },
+    "12": {
+        "id": 163,
+        "firmname": "Restaurant Bellevue Bad Doberan",
+        "category": "Gastronomie",
+        "description": "Restaurant",
+        "longdescription": "Restaurantgutscheine",
+        "address": "Eickhöfer Weg 7, 18209 Bad Doberan",
+        "firmurl": "",
+        "firmimg": "2020-04-16_10-19-40_skylinekleinklein.png",
+        "giftcardurl": "https://app.atento.me/merchants/5542-restaurant-bellevue-bad-doberan"
     }
 }
