@@ -154,6 +154,17 @@
         "giftcardurl": "nan"
     },
     "14": {
+        "id": 157,
+        "firmname": "Fischuppen GbR",
+        "category": "Einzelhandel",
+        "description": "Ihr Laden für Regionales. Handgefertigtes, Maritimes aus der Region.",
+        "longdescription": "Bei uns findet ihr Produkte von Menschen aus der Region die außergewöhnliche individuelle maritime Produkte fertigen. Außerdem haben wir geilen Küstenstoff zum Schnökern, Tragen und gut finden.\r\nSchaut gern mal rein.\r\nOnline für Euch erreichbar.",
+        "address": "Kirchweg 38, 18565 Hiddensee OT Kloster",
+        "firmurl": "http://www.fischuppen.de",
+        "firmimg": "2020-04-15_09-37-51_fischuppen_logo_icon_schrift.jpg",
+        "giftcardurl": "https://app.atento.me/merchants/5694-fischuppen-gbr"
+    },
+    "15": {
         "id": 155,
         "firmname": "Darß-Festspiele e.V.",
         "category": "Unterhaltung",
@@ -163,5 +174,16 @@
         "firmurl": "http://www.darss-festspiele.de",
         "firmimg": "2020-04-14_20-45-03_DSC04859 (Mittel).jpg",
         "giftcardurl": "https://www.darss-festspiele.de/karten/gutscheine/"
+    },
+    "16": {
+        "id": 166,
+        "firmname": "Darßer Brauhaus GmbH",
+        "category": "Gastronomie",
+        "description": "Restaurant und modernes Brauhaus mit verschiedensten Bierspezialitäten, Burgern, Steaks, Schnitzeln, norddeutschen Gerichten und Terrasse",
+        "longdescription": "Wenn Sie hausgebraute Biere in verschiedenen Sorten aus unserer hauseigenen Brauerei zu schätzen wissen und Sie sich gern von einer modernen frischen Küche verwöhnen lassen wollen, ist das Darßer BRAUHAUS Ihr kulinarisches Ausflugsziel auf dem Darß.\r\n\r\nAuf Deutschlands schönster Ostsee-Halbinsel, Fischland-Darß-Zingst, liegt das Ostseebad Prerow, wo das Darßer BRAUHAUS als empfehlenswerter kulinarischer Anlaufpunkt für touristische wie einheimische Gäste bekannt ist. Es kann kaum Schöneres geben, als nach einem Spaziergang durch die wild-romantische Natur des Darß oder über den traumhaften Weststrand auf ein gemütliches Darßer Bier und kulinarische Köstlichkeiten im Darßer BRAUHAUS einzukehren.\r\n\r\nNur hier genießen Sie die volle Auswahl unserer hausgebrauten Biere - vom klassischen Pils oder Dunkel über Weizen Bier bis zu einem Darßer I.P.A. (India Pale Ale) und weiteren Spezialbieren gibt es hier handgemachte Brauspezialitäten für alle Bierfreunde und solche, die es werden wollen.\r\n\r\nMitten im Gastraum speisen und trinken Sie in direkter Nachbarschaft zum rotgold glänzenden Braukessel in einem schönen und freundlichen Ambiente. Unser ganzes Team freut sich darauf, Sie im Darßer BRAUHAUS begrüßen zu dürfen!",
+        "address": "Bergstraße 1, 18375 Ostseebad Prerow",
+        "firmurl": "http://www.darsser-brauhaus.de",
+        "firmimg": "2020-04-16_12-17-23_Logo_Darsser-Brauhaus-nachRAL_4c web.jpg",
+        "giftcardurl": "https://app.atento.me/merchants/5698-darsser-brauhaus-gmbh"
     }
 }

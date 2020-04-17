@@ -120,7 +120,7 @@
         "firmimg": "eiscafe-marita-hahn.jpg",
         "giftcardurl": "http://app.atento.me/merchants/4718-eiscafe-marita-hahn"
     },
-    "12": {
+    "11": {
         "id": 163,
         "firmname": "Restaurant Bellevue Bad Doberan",
         "category": "Gastronomie",
@@ -130,5 +130,16 @@
         "firmurl": "",
         "firmimg": "2020-04-16_10-19-40_skylinekleinklein.png",
         "giftcardurl": "https://app.atento.me/merchants/5542-restaurant-bellevue-bad-doberan"
+    },
+    "12": {
+        "id": 156,
+        "firmname": "Tattoostudio Ray Ink",
+        "category": "Dienstleistung",
+        "description": "Ein kleines Tattoo & Art Studio in Bad Doberan",
+        "longdescription": "Das Tattoostudio Ray Ink , ist ein kleiner Tattooladen in Bad Doberan, mitten in der Mollistraße.\r\n\r\nIhr wolltet schon immer ein Tattoo oder eine Leimwandzeichnung haben, könnt aber kein Motiv im Internet finden? oder wollt ein individuelles ?\r\n\r\nKein Problem !\r\n\r\nBei uns habt ihr Privatsphäre von der Beratung bis hin zum fertigen Motiv.\r\nWir helfen euch, bei der Motivgestaltung und stehen euch bei jeder Frage zur Verfügung. Selbst nach dem Termin werdet ihr noch von uns schriftlich bei Fragen zur Abheilung betreut.\r\n\r\nSchon während ihr darauf wartet, dass es losgehen könnt habt ihr einen Prima Blick auf die Mollibahn. Es gibt gratis Kaffee und Süßigkeiten die euch den Termin versüßen.\r\n\r\nWir freuen uns auf euch !",
+        "address": "Mollistraße 12, 18209 Bad Doberan",
+        "firmurl": "https://www.rayink.de/",
+        "firmimg": "2020-04-15_08-25-48_92939431_530870777791406_2564253332939997184_n(1).jpg",
+        "giftcardurl": "https://app.atento.me/merchants/5693-tattoostudio-ray-ink"
     }
 }

@@ -1683,39 +1683,6 @@
         "giftcardurl": "https://www.yovite.com/Restaurant-Gutschein-R-46803227.html?REF=REST"
     },
     "153": {
-        "id": 155,
-        "firmname": "Darß-Festspiele e.V.",
-        "category": "Unterhaltung",
-        "description": "Openair-Theater in plattdeutscher und hochdeutscher Sprache mit verschiedenen Episoden der \"Heiden von Kummerow\"",
-        "longdescription": "Die Darß-Festspiele laden seit 2003 zu Theater und Konzerten auf dem Darß ein. Neben verschiedenen Episoden der „Darßer Schmuggler“, nach einer Erzählung des Darßer Heimatdichters Johann Segebarth, waren in den letzten Jahren auch Adaptionen bekannter Komödien zu erleben, wie „Pension Schöller“ oder „Dat Weiße Rössl“. Inhaltlich stehen die Inszenierungen immer im Bezug zur Pommerschen Küste. Seit 2013 werden Episoden nach dem Roman \"Die Heiden von Kummerow\" von Ehm Welk gespielt.",
-        "address": "Chausseestraße 64, 18375 Born a. Darß",
-        "firmurl": "http://www.darss-festspiele.de",
-        "firmimg": "2020-04-14_20-45-03_DSC04859 (Mittel).jpg",
-        "giftcardurl": "https://www.darss-festspiele.de/karten/gutscheine/"
-    },
-    "154": {
-        "id": 158,
-        "firmname": "Küstenliebe",
-        "category": "Einzelhandel",
-        "description": "Hier bekommst Du alles, was Küstenkinder haben wollen.",
-        "longdescription": "Wir lieben die Küste, das Meer und den Strand. Die Schiffe, den Hafen, den Sonnenuntergang. Genau dieses Lebensgefühl wollen wir in unserem Onlineshop www.kuestenliebeshop.de umsetzten. Hier bekommst Du alles, was Küstenkinder haben wollen. Angesagte maritime Mode, Schmuck, Taschen und Dinge, um die Wohnung zu verschönern. Ahoi und schaut mal rein.",
-        "address": "Wielandstraße 8, 18055 Rostock",
-        "firmurl": "http://www.kuestenliebeshop.de",
-        "firmimg": "2020-04-15_13-29-37_IMG_5471.png",
-        "giftcardurl": "https://kuestenliebeshop.de/products/geschenkgutschein"
-    },
-    "155": {
-        "id": 160,
-        "firmname": "Salon Frisko",
-        "category": "Dienstleistung",
-        "description": "Wir sind \"Salon Frisko\" , ein Friseur mit dem Rund um Paket, d.h. Friseur, Kosmetik und Fußpflege.",
-        "longdescription": "Wir sind ein Friseursalon mit 6 MA in Reutershagen und schon seit 1993 am Markt. wir bieten das rund-um-Paket für unsere Kundschaft, d.h. Friseur, Kosmetik und Fußpflege.",
-        "address": "Ulrich-von- Hutten Str. 34, 18069 Rostock",
-        "firmurl": "",
-        "firmimg": "2020-04-16_10-10-54_skylinekleinklein.png",
-        "giftcardurl": "http://app.atento.me/merchants/5540-salon-frisko"
-    },
-    "156": {
         "id": 163,
         "firmname": "Restaurant Bellevue Bad Doberan",
         "category": "Gastronomie",
@@ -1726,7 +1693,117 @@
         "firmimg": "2020-04-16_10-19-40_skylinekleinklein.png",
         "giftcardurl": "https://app.atento.me/merchants/5542-restaurant-bellevue-bad-doberan"
     },
+    "154": {
+        "id": 159,
+        "firmname": "Santa Barbara Anna",
+        "category": "Andere",
+        "description": "Der Traditionssegler Santa Barbara Anna lädt Mitsegler zu Törns auf der Ostsee ein, um dieses maritime Erbe hautnah erleben zu können.",
+        "longdescription": "Die \"Santa Barbara Anna\" ist der Rostocker Traditionssegler. Wir halten das fast 70-jährige Schiff mit viel ehrenamtlicher Arbeit seeklar, damit diese maritime Tradition auch zukünftig hautnah erlebbar bleibt.\r\n\r\nDurch Corona fehlen uns die Einnahmen aus Segeltörns; die Kosten für Material, Werkzeug, Versicherungen, Liegegebühren, Werkstattmiete, sicherheitsrelevante Zertifizierungen usw. laufen trotzdem immer weiter auf.\r\n\r\nDurch den Kauf eines Gutscheins für eine Fahrt auf der Santa Barbara Anna hilfst Du uns, diese schwierige Phase besser zu überstehen. Ob und wann in diesem Jahr noch Törns möglich sind, können wir zum jetzigen Zeitpunkt noch überhaupt nicht sagen. Rechne bitte damit, dass die Gutscheine erst in der Saison 2021 eingelöst werden können! Es gibt in jedem (normalen) Jahr mehrere, über den Sommer verteilte Einzelbucher-Törns. Auch wenn wir noch keine genauen Termine nennen können, wird sich bestimmt auch für Dich eine Möglichkeit zur Mitfahrt finden!\r\n\r\nZum Schluss noch ein dickes Dankeschön an die Jungs, die diese Seite auf die Beine gestellt haben! Ganz große Aktion! Hoffentlich wird damit vielen Firmen und Vereinen geholfen!",
+        "address": "Stadthafen 83E, 18055 Rostock",
+        "firmurl": "https://santa-barbara-anna.de",
+        "firmimg": "2020-04-15_20-53-55_P1040987.jpg",
+        "giftcardurl": "https://app.atento.me/merchants/5695-santa-barbara-anna"
+    },
+    "155": {
+        "id": 158,
+        "firmname": "Küstenliebe",
+        "category": "Einzelhandel",
+        "description": "Hier bekommst Du alles, was Küstenkinder haben wollen.",
+        "longdescription": "Wir lieben die Küste, das Meer und den Strand. Die Schiffe, den Hafen, den Sonnenuntergang. Genau dieses Lebensgefühl wollen wir in unserem Onlineshop www.kuestenliebeshop.de umsetzten. Hier bekommst Du alles, was Küstenkinder haben wollen. Angesagte maritime Mode, Schmuck, Taschen und Dinge, um die Wohnung zu verschönern. Ahoi und schaut mal rein.",
+        "address": "Wielandstraße 8, 18055 Rostock",
+        "firmurl": "http://www.kuestenliebeshop.de",
+        "firmimg": "2020-04-15_13-29-37_IMG_5471.png",
+        "giftcardurl": "https://kuestenliebeshop.de/products/geschenkgutschein"
+    },
+    "156": {
+        "id": 160,
+        "firmname": "Salon Frisko",
+        "category": "Dienstleistung",
+        "description": "Wir sind \"Salon Frisko\" , ein Friseur mit dem Rund um Paket, d.h. Friseur, Kosmetik und Fußpflege.",
+        "longdescription": "Wir sind ein Friseursalon mit 6 MA in Reutershagen und schon seit 1993 am Markt. wir bieten das rund-um-Paket für unsere Kundschaft, d.h. Friseur, Kosmetik und Fußpflege.",
+        "address": "Ulrich-von- Hutten Str. 34, 18069 Rostock",
+        "firmurl": "",
+        "firmimg": "2020-04-16_10-10-54_skylinekleinklein.png",
+        "giftcardurl": "http://app.atento.me/merchants/5540-salon-frisko"
+    },
     "157": {
+        "id": 156,
+        "firmname": "Tattoostudio Ray Ink",
+        "category": "Dienstleistung",
+        "description": "Ein kleines Tattoo & Art Studio in Bad Doberan",
+        "longdescription": "Das Tattoostudio Ray Ink , ist ein kleiner Tattooladen in Bad Doberan, mitten in der Mollistraße.\r\n\r\nIhr wolltet schon immer ein Tattoo oder eine Leimwandzeichnung haben, könnt aber kein Motiv im Internet finden? oder wollt ein individuelles ?\r\n\r\nKein Problem !\r\n\r\nBei uns habt ihr Privatsphäre von der Beratung bis hin zum fertigen Motiv.\r\nWir helfen euch, bei der Motivgestaltung und stehen euch bei jeder Frage zur Verfügung. Selbst nach dem Termin werdet ihr noch von uns schriftlich bei Fragen zur Abheilung betreut.\r\n\r\nSchon während ihr darauf wartet, dass es losgehen könnt habt ihr einen Prima Blick auf die Mollibahn. Es gibt gratis Kaffee und Süßigkeiten die euch den Termin versüßen.\r\n\r\nWir freuen uns auf euch !",
+        "address": "Mollistraße 12, 18209 Bad Doberan",
+        "firmurl": "https://www.rayink.de/",
+        "firmimg": "2020-04-15_08-25-48_92939431_530870777791406_2564253332939997184_n(1).jpg",
+        "giftcardurl": "https://app.atento.me/merchants/5693-tattoostudio-ray-ink"
+    },
+    "158": {
+        "id": 157,
+        "firmname": "Fischuppen GbR",
+        "category": "Einzelhandel",
+        "description": "Ihr Laden für Regionales. Handgefertigtes, Maritimes aus der Region.",
+        "longdescription": "Bei uns findet ihr Produkte von Menschen aus der Region die außergewöhnliche individuelle maritime Produkte fertigen. Außerdem haben wir geilen Küstenstoff zum Schnökern, Tragen und gut finden.\r\nSchaut gern mal rein.\r\nOnline für Euch erreichbar.",
+        "address": "Kirchweg 38, 18565 Hiddensee OT Kloster",
+        "firmurl": "http://www.fischuppen.de",
+        "firmimg": "2020-04-15_09-37-51_fischuppen_logo_icon_schrift.jpg",
+        "giftcardurl": "https://app.atento.me/merchants/5694-fischuppen-gbr"
+    },
+    "159": {
+        "id": 168,
+        "firmname": "Yogaschule Christian Bender",
+        "category": "Dienstleistung",
+        "description": "Entdecke dynamisches Yoga gleich am Brunnen der Lebensfreude. Aktuell unterrichten wir online von Montag bis Samstag, morgens und abends.",
+        "longdescription": "Auf unserer Webseite www.rostock-yoga.de findest du unter \"Aktuelle Kursplanänderungen\" unsere Online-Kurse. Eine Probestunde kostet 10 €.\r\n\r\nWenn gerade mal keine Pandemie ist,  bieten wir zahlreiche Präsenzkurse in Hatha-Flow Yoga und AcroYoga für Anfänger und Geübte sowie Workshops und Serien mit Gastlehrenden an. \r\nSchau dich dazu gerne auf unserer informativen und übersichtlichen Webseite um.\r\n\r\nWir haben ein offenes Kurssystem, so dass man jederzeit einsteigen kann, zum Beispiel wenn man einen Gutschein geschenkt bekommen hat ;-) \r\nDu kannst einfach deinen Wunschbetrag verschenken oder auch einen unserer Tarife, die du auf der Webseite findest. \r\nGerne verschenkt wird unser 3er Probestunden-Paket oder auch 5er Karten.\r\n\r\nFür weitere Fragen wende dich gerne an mich (Christian) und vielen Dank für deine Unterstützung!",
+        "address": "Schwaansche Str. 6a, Rostock",
+        "firmurl": "http://www.rostock-yoga.de",
+        "firmimg": "2020-04-17_06-50-52_logo_rostock-yoga_final.jpg",
+        "giftcardurl": "https://app.atento.me/merchants/5700-yogaschule-christian-bender"
+    },
+    "160": {
+        "id": 165,
+        "firmname": "Tauchshop Rostock",
+        "category": "Einzelhandel",
+        "description": "Gutscheine für Tauchausbildung, Schnuppertauchen, Einkaufsgutscheine für den Tauchshop für Taucher, Angler, Schwimmer, SUP, Swimrunner und Triathlete",
+        "longdescription": "Über Tauchausbildung, Schnuppertauchen etc. und Verkauf von Tauchsportartikeln bis hin zum Schwimmbedarf und sogar Ausrüstung für Swimrunner, SUP und Triathleten und auch Angler bieten wir alles an. Bei uns kann man Gutscheine für die komplette Tauchausbildung oder aber für das Schnuppertauchen in der Schwimmhalle oder Gutscheine für den Einkauf erwerben.",
+        "address": "Alter Hafen Nord 217, Rostock",
+        "firmurl": "http://www.tauchshop-rostock.de",
+        "firmimg": "2020-04-16_11-40-42_Bild TS HRO.jpg",
+        "giftcardurl": "https://app.atento.me/merchants/5697-tauchshop-rostock"
+    },
+    "161": {
+        "id": 162,
+        "firmname": "pro kunsthalle e.V.",
+        "category": "Unterhaltung",
+        "description": "Wir betreiben die Kunsthalle Rostock und vermissen unsere Besucher/innen. Schenkt uns und Euch gern ein bisschen Vorfreude!",
+        "longdescription": "Der Verein pro kunsthalle e.V. betreibt seit 2008/09 die Kunsthalle\r\nRostock. Die Kunsthalle ist der erste Museumsneubau der DDR und\r\nwahrscheinlich das einzige in der DDR gebaute Museum für zeitgenössische\r\nKunst. Die Ausstellung \"Palast der Republik – Utopie, Inspiration,\r\nPolitikum\" aus dem Sommer 2019 wurde durch die Deutsche Sektion des\r\nInternationalen Kunstkritikerverbandes (AICA) zur besten Ausstellung des\r\nJahres in Deutschland gewählt. Zwar werden die Betriebskosten des Hauses aus dem städtischen Haushalt\r\ngetragen, die Löhne/Gehälter der Vereins-Mitarbeiter sowie die\r\nAusstellungen müssen jedoch durch Einnahmen und Fördergelder finanziert\r\nwerden. Wenn keine Ausstellungen stattfinden, gibt es auch keine\r\nEinnahmen. Damit wir uns als Betreiberverein mit den Kolleg/innen und Ihr Euch als\r\nBesucher/innen auf ein besonderes Kunsterlebnis freuen können, schenkt\r\nEuch (und damit auch uns) einen Gutschein. Die Gutscheine gelten sowohl\r\nfür den Eintritt als auch für den Museumsshop.",
+        "address": "Hamburger Str. 40, 18069 Rostock",
+        "firmurl": "https://kunsthallerostock.de/",
+        "firmimg": "2020-04-16_10-15-17_skylinekleinklein.png",
+        "giftcardurl": "https://app.atento.me/merchants/5696-pro-kunsthalle-e-v"
+    },
+    "162": {
+        "id": 167,
+        "firmname": "Brötchenexpress Rostock",
+        "category": "Gastronomie",
+        "description": "Ob Frühstück mit Kollegen,zum Lunch ins Büro oder zur Party nach Hause-Der Brötchenexpress ist Ihr zuverlässiger Partner, wenn es um Qualität geht.",
+        "longdescription": "Der Brötchenexpress Rostock ist Ihr zuverlässiger Partner, wenn Qualität und Schnelligkeit zu günstigen Preisen für Sie unverzichtbar sind.\r\n\r\nDarüber hinaus bieten wir Ihnen ein innovatives Cateringangebot für Firmenveranstaltungen wie Konferenzen oder Schulungen, unterstützen Sie flexibel bei Betriebsfeiern oder helfen Ihnen bei der Verpflegung während Seminaren.\r\n\r\nAls Partyservice entlasten wir Sie natürlich auch gerne im privaten Rahmen und sind Ihnen bei der individuellen Ausrichtung von Jugendweihen, Geburtstagen oder Sommerfesten behilflich. \r\n\r\nIn unserer Küche zaubern wir dafür nicht nur eine reichhaltige Auswahl verführerischer Canapés oder herzhafter Suppen, sondern ebenso raffiniertes Fingerfood für Ihr Cocktail- oder Lunchbuffet sowie deftige Speisen, die man auf keinem Richtfest missen möchte.\r\n\r\nAll das bieten wir Ihnen in gewohnter Qualität über unseren Cateringservice an.",
+        "address": "Patriotischer Weg 33, 18057 Rostock",
+        "firmurl": "http://www.broetchenexpress.com",
+        "firmimg": "2020-04-16_14-05-37_Banner01.jpg",
+        "giftcardurl": "https://app.atento.me/merchants/5699-broetchenexpress-rostock"
+    },
+    "163": {
+        "id": 155,
+        "firmname": "Darß-Festspiele e.V.",
+        "category": "Unterhaltung",
+        "description": "Openair-Theater in plattdeutscher und hochdeutscher Sprache mit verschiedenen Episoden der \"Heiden von Kummerow\"",
+        "longdescription": "Die Darß-Festspiele laden seit 2003 zu Theater und Konzerten auf dem Darß ein. Neben verschiedenen Episoden der „Darßer Schmuggler“, nach einer Erzählung des Darßer Heimatdichters Johann Segebarth, waren in den letzten Jahren auch Adaptionen bekannter Komödien zu erleben, wie „Pension Schöller“ oder „Dat Weiße Rössl“. Inhaltlich stehen die Inszenierungen immer im Bezug zur Pommerschen Küste. Seit 2013 werden Episoden nach dem Roman \"Die Heiden von Kummerow\" von Ehm Welk gespielt.",
+        "address": "Chausseestraße 64, 18375 Born a. Darß",
+        "firmurl": "http://www.darss-festspiele.de",
+        "firmimg": "2020-04-14_20-45-03_DSC04859 (Mittel).jpg",
+        "giftcardurl": "https://www.darss-festspiele.de/karten/gutscheine/"
+    },
+    "164": {
         "id": 164,
         "firmname": "RUHEPOL ROSTOCK",
         "category": "Dienstleistung",
@@ -1737,15 +1814,15 @@
         "firmimg": "2020-04-16_10-38-22_Ruhepol Rostock Floating 1.jpg",
         "giftcardurl": "http://ruhepol-rostock.de/gutschein/"
     },
-    "158": {
-        "id": 162,
-        "firmname": "pro kunsthalle e.V.",
-        "category": "Unterhaltung",
-        "description": "Wir betreiben die Kunsthalle Rostock und vermissen unsere Besucher/innen. Schenkt uns und Euch gern ein bisschen Vorfreude!",
-        "longdescription": "Der Verein pro kunsthalle e.V. betreibt seit 2008/09 die Kunsthalle\r\nRostock. Die Kunsthalle ist der erste Museumsneubau der DDR und\r\nwahrscheinlich das einzige in der DDR gebaute Museum für zeitgenössische\r\nKunst. Die Ausstellung \"Palast der Republik – Utopie, Inspiration,\r\nPolitikum\" aus dem Sommer 2019 wurde durch die Deutsche Sektion des\r\nInternationalen Kunstkritikerverbandes (AICA) zur besten Ausstellung des\r\nJahres in Deutschland gewählt. Zwar werden die Betriebskosten des Hauses aus dem städtischen Haushalt\r\ngetragen, die Löhne/Gehälter der Vereins-Mitarbeiter sowie die\r\nAusstellungen müssen jedoch durch Einnahmen und Fördergelder finanziert\r\nwerden. Wenn keine Ausstellungen stattfinden, gibt es auch keine\r\nEinnahmen. Damit wir uns als Betreiberverein mit den Kolleg/innen und Ihr Euch als\r\nBesucher/innen auf ein besonderes Kunsterlebnis freuen können, schenkt\r\nEuch (und damit auch uns) einen Gutschein. Die Gutscheine gelten sowohl\r\nfür den Eintritt als auch für den Museumsshop.",
-        "address": "Hamburger Str. 40, 18069 Rostock",
-        "firmurl": "https://kunsthallerostock.de/",
-        "firmimg": "2020-04-16_10-15-17_skylinekleinklein.png",
-        "giftcardurl": "http://app.atento.me/merchants/5541-pro-kunsthalle-e-v"
+    "165": {
+        "id": 166,
+        "firmname": "Darßer Brauhaus GmbH",
+        "category": "Gastronomie",
+        "description": "Restaurant und modernes Brauhaus mit verschiedensten Bierspezialitäten, Burgern, Steaks, Schnitzeln, norddeutschen Gerichten und Terrasse",
+        "longdescription": "Wenn Sie hausgebraute Biere in verschiedenen Sorten aus unserer hauseigenen Brauerei zu schätzen wissen und Sie sich gern von einer modernen frischen Küche verwöhnen lassen wollen, ist das Darßer BRAUHAUS Ihr kulinarisches Ausflugsziel auf dem Darß.\r\n\r\nAuf Deutschlands schönster Ostsee-Halbinsel, Fischland-Darß-Zingst, liegt das Ostseebad Prerow, wo das Darßer BRAUHAUS als empfehlenswerter kulinarischer Anlaufpunkt für touristische wie einheimische Gäste bekannt ist. Es kann kaum Schöneres geben, als nach einem Spaziergang durch die wild-romantische Natur des Darß oder über den traumhaften Weststrand auf ein gemütliches Darßer Bier und kulinarische Köstlichkeiten im Darßer BRAUHAUS einzukehren.\r\n\r\nNur hier genießen Sie die volle Auswahl unserer hausgebrauten Biere - vom klassischen Pils oder Dunkel über Weizen Bier bis zu einem Darßer I.P.A. (India Pale Ale) und weiteren Spezialbieren gibt es hier handgemachte Brauspezialitäten für alle Bierfreunde und solche, die es werden wollen.\r\n\r\nMitten im Gastraum speisen und trinken Sie in direkter Nachbarschaft zum rotgold glänzenden Braukessel in einem schönen und freundlichen Ambiente. Unser ganzes Team freut sich darauf, Sie im Darßer BRAUHAUS begrüßen zu dürfen!",
+        "address": "Bergstraße 1, 18375 Ostseebad Prerow",
+        "firmurl": "http://www.darsser-brauhaus.de",
+        "firmimg": "2020-04-16_12-17-23_Logo_Darsser-Brauhaus-nachRAL_4c web.jpg",
+        "giftcardurl": "https://app.atento.me/merchants/5698-darsser-brauhaus-gmbh"
     }
 }
