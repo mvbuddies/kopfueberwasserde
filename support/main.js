@@ -26,7 +26,8 @@ new Vue({
                   }
                   
                 $(document).ready(function() {
-                $(".containerbox").delay(200).fadeIn(500);
+                $(".pageloader").toggleClass("is-active");
+                $(".containerbox").delay(500).fadeIn(500);
                 });
     
             })
