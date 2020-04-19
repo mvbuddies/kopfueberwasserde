@@ -24,6 +24,10 @@ new Vue({
                     Vue.set(this.filteredList, i, this.filteredList[randomIndex]);
                     Vue.set(this.filteredList, randomIndex, temp);
                   }
+                  
+                $(document).ready(function() {
+                $(".containerbox").delay(200).fadeIn(500);
+                });
             })
         },
 
