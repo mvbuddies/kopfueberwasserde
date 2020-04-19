@@ -194,16 +194,21 @@
       <div class="containerbox" style="display: none;" v-for="(firma, index) in filteredList">
         <div class="collectionboxitem5 dynamic-item"
           :style="style_div + 'left: ' + currentLeft(index) + '; top: ' + currentTop(index) + ';'">
-          <div class="boxx">
-            <div class="categorybox">
-              {{ firma.category }}
-            </div>
-            <a :href="'/support/'+firma.id" style="color: #000;">
-              <img width="289" :src="'/img/company/cards/'+firma.firmimg" loading="lazy" class="imagebox">
-              <div class="linkbox">{{ firma.firmname }}</div>
-              <p class="summarybox">{{ firma.description }}</p>
+          <a :href="'/support/'+firma.id"  style="color: #000;">
+            <div class="boxx">
+              <div class="categorybox">
+                {{ firma.category }}
+              </div>
+                <img width="289"
+                   :src="'/img/company/cards/'+firma.firmimg" loading="lazy" class="imagebox">
+                <div class="linkbox">
+                  {{ firma.firmname }}
+                </div>
+                <p class="summarybox">
+                  {{ firma.description }}
+                </p>
+              </div>
             </a>
-          </div>
         </div>
       </div>
     </div>
