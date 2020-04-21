@@ -193,7 +193,7 @@
     </section>
 
     <div class="divbox" :style="'position: relative; height: ' + calculateHeight() + ';'">
-      <div class="containerbox" style="display: none;" v-for="(firma, index) in filteredList">
+      <div class="containerbox" v-for="(firma, index) in filteredList">
         <div class="collectionboxitem5 dynamic-item"
           :style="style_div + 'left: ' + currentLeft(index) + '; top: ' + currentTop(index) + ';'">
           <a :href="'/support/'+firma.id"  style="color: #000;">

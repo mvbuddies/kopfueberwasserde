@@ -27,7 +27,6 @@ new Vue({
                   
                 $(document).ready(function() {
                 $(".pageloader").toggleClass("is-active");
-                $(".containerbox").delay(500).fadeIn(500);
                 });
             })
         },
@@ -77,7 +76,9 @@ new Vue({
     // Filter by category
 
     showAll(){
-        this.filteredList =  this.firmen
+        this.filteredList =  this.firmen(firma => {
+          return filteredList
+        })
     },
     showDienstleistung(){
         this.filteredList =  this.firmen.filter(firma => {
