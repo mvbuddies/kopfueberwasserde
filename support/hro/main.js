@@ -76,9 +76,7 @@ new Vue({
     // Filter by category
 
     showAll(){
-        this.filteredList =  this.firmen(firma => {
-          return filteredList
-        })
+      this.filteredList =  this.firmen
     },
     showDienstleistung(){
         this.filteredList =  this.firmen.filter(firma => {
