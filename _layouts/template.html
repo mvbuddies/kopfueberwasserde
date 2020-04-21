@@ -53,6 +53,7 @@ permalink: /support/0/
               et justo duo dolores et ea rebum. Stet clita kasd gubergren, 
               no sea takimata sanctus est Lorem ipsum dolor sit amet.
             </p>
+            <div id="map" style="height: 350px;"></div>
             <div class="card">
               <div class="card-content">
                 <p class="subtitle">
@@ -77,7 +78,7 @@ permalink: /support/0/
         </div>
         <div class="column">
           <div class="container has-text-centered">
-            <img src="{{site.baseurl}}/img/company/original/name.png">
+            <img src="{{site.baseurl}}/img/company/original/2020-04-13_14-12-00_skylinekleinklein.png">
           </div>
         </div>
       </div>
@@ -106,6 +107,26 @@ permalink: /support/0/
   </div>
 </section>
 
+<script src="{{site.baseurl}}/js/openlayers.js"></script>
+<script>
+    const lat            = 54.089260;
+    const lon            = 13.441510;
+    const zoom           = 18;
+
+    const fromProjection = new OpenLayers.Projection("EPSG:4326");   // Transform from WGS 1984
+    const toProjection   = new OpenLayers.Projection("EPSG:900913"); // to Spherical Mercator Projection
+    const position       = new OpenLayers.LonLat(lon, lat).transform( fromProjection, toProjection);
+
+    map = new OpenLayers.Map("map");
+    const mapnik = new OpenLayers.Layer.OSM();
+    map.addLayer(mapnik);
+
+    const markers = new OpenLayers.Layer.Markers( "Markers" );
+    map.addLayer(markers);
+    markers.addMarker(new OpenLayers.Marker(position));
+
+    map.setCenter(position, zoom);
+</script>
 
 
 
