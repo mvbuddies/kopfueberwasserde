@@ -1329,5 +1329,16 @@
         "firmurl": "",
         "firmimg": "2020-04-16_10-38-22_Ruhepol Rostock Floating 1.jpg",
         "giftcardurl": "http://ruhepol-rostock.de/gutschein/"
+    },
+    "121": {
+        "id": 170,
+        "firmname": "Der Georg mobile & individuelle Massagen",
+        "category": "Andere",
+        "description": "Hallo…ich bin Der Georg & bin in Rostock mobiler Masseur & Wellnesstrainer.",
+        "longdescription": "Entspanne Dich. Lass das Steuer los. Trudle durch die Welt Sie ist so schön.",
+        "address": "Barnstorfer Weg 23, 18057 Rostock",
+        "firmurl": "",
+        "firmimg": "2020-04-19_09-38-27_AAC657C3-ED03-4302-8B0B-B0D2C0F4FA04.jpeg",
+        "giftcardurl": "https://app.atento.me/merchants/5771-der-georg-mobile-individuelle-massagen"
     }
 }
