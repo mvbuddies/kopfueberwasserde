@@ -22,17 +22,6 @@
         "giftcardurl": "nan"
     },
     "2": {
-        "id": 3,
-        "firmname": "Tuscherei - Keramik selbst bemalen",
-        "category": "Unterhaltung",
-        "description": "Mal was ganz besonderes... Gestalte Dein eigenes Keramikstück zu Hause oder bei uns im Laden. ",
-        "longdescription": "\"Die Tuscherei ist ein Ort an dem Du in unserer schnelllebigen Zeit einfach mal rasten kannst, das Handy zur Seite legst und Dich auf diese eine Sache konzentrierst. Genieße ein leckeres Getränk, lass Deiner Kreativität freien Lauf und bemale Deine Keramik. Das ist nicht nur entspannend sondern macht auch wahnsinnig glücklich und stolz - spätestens wenn Du Dein neues Lieblingsstück in den Händen hältst.\n\nUnd Du kannst Dir die Tuscherei jetzt auch nach Hause holen #stayhome. Wir bieten To-Go Boxen zum zu Hause tuschen an. Für nähere Infos sendet uns einfach eine Email an kontakt@tuscherei.de. Gutscheine sind natürlich einlösbar. Juchu!\"",
-        "address": "Puschkinstr. 47, 19055 Schwerin",
-        "firmurl": "https://www.tuscherei.de/",
-        "firmimg": "tuscherei-keramik-selbst-bemalen.jpg",
-        "giftcardurl": "nan"
-    },
-    "3": {
         "id": 4,
         "firmname": "allsenses hair and beauty",
         "category": "Dienstleistung",
@@ -43,7 +32,7 @@
         "firmimg": "allsenses-hair-and-beauty.jpg",
         "giftcardurl": "nan"
     },
-    "4": {
+    "3": {
         "id": 5,
         "firmname": "Barfüßler",
         "category": "Einzelhandel",
@@ -54,7 +43,7 @@
         "firmimg": "barfussler.jpg",
         "giftcardurl": "nan"
     },
-    "5": {
+    "4": {
         "id": 7,
         "firmname": "Martin Rütter DOGS Schwerin",
         "category": "Dienstleistung",
@@ -65,7 +54,7 @@
         "firmimg": "martin-rutter-dogs-schwerin.jpg",
         "giftcardurl": "nan"
     },
-    "6": {
+    "5": {
         "id": 8,
         "firmname": "MOEgrafie Fotografie",
         "category": "Dienstleistung",
@@ -76,7 +65,7 @@
         "firmimg": "moegrafie-fotografie.jpg",
         "giftcardurl": "nan"
     },
-    "7": {
+    "6": {
         "id": 9,
         "firmname": "Stuv by Krikadu",
         "category": "Einzelhandel",
@@ -87,7 +76,7 @@
         "firmimg": "stuv-by-krikadu.jpg",
         "giftcardurl": "nan"
     },
-    "8": {
+    "7": {
         "id": 12,
         "firmname": "Café Stadtkind",
         "category": "Gastronomie",
@@ -98,7 +87,7 @@
         "firmimg": "cafe-stadtkind.jpg",
         "giftcardurl": "nan"
     },
-    "9": {
+    "8": {
         "id": 13,
         "firmname": "andere buchhandlung Inh. Manfred Keiper",
         "category": "Einzelhandel",
@@ -109,7 +98,7 @@
         "firmimg": "andere-buchhandlung-inh-manfred-keiper.jpg",
         "giftcardurl": "nan"
     },
-    "10": {
+    "9": {
         "id": 15,
         "firmname": "Landhotel Rittmeister",
         "category": "Gastronomie",
@@ -120,7 +109,7 @@
         "firmimg": "andhotel-rittmeister-2.png",
         "giftcardurl": "nan"
     },
-    "11": {
+    "10": {
         "id": 16,
         "firmname": "Cafe & Pension \"Am Brunnen\"",
         "category": "Gastronomie",
@@ -131,7 +120,7 @@
         "firmimg": "cafe-pension-am-brunnen.png",
         "giftcardurl": "nan"
     },
-    "12": {
+    "11": {
         "id": 18,
         "firmname": "Augenoptik + Hörakustik Geue GmbH",
         "category": "Andere",
@@ -142,7 +131,7 @@
         "firmimg": "augenoptik-horakustik-geue-gmbh.jpg",
         "giftcardurl": "nan"
     },
-    "13": {
+    "12": {
         "id": 19,
         "firmname": "Der Wollladen",
         "category": "Einzelhandel",
@@ -153,7 +142,7 @@
         "firmimg": "der-wollladen.jpg",
         "giftcardurl": "nan"
     },
-    "14": {
+    "13": {
         "id": 20,
         "firmname": "Digitaldruck Kruse",
         "category": "Dienstleistung",
@@ -164,7 +153,7 @@
         "firmimg": "digitaldruck-kruse.jpg",
         "giftcardurl": "nan"
     },
-    "15": {
+    "14": {
         "id": 11,
         "firmname": "Klönstuv",
         "category": "Gastronomie",
@@ -175,7 +164,7 @@
         "firmimg": "klonstuv.jpg",
         "giftcardurl": "https://app.atento.me/merchants/2924?in_frame=false&locale=de"
     },
-    "16": {
+    "15": {
         "id": 14,
         "firmname": "CLABUR",
         "category": "Einzelhandel",
@@ -186,7 +175,7 @@
         "firmimg": "clabur.jpg",
         "giftcardurl": "http://app.atento.me/merchants/4739-clabur"
     },
-    "17": {
+    "16": {
         "id": 17,
         "firmname": "Andrea Pagels Intercoiffure",
         "category": "Dienstleistung",
@@ -197,7 +186,7 @@
         "firmimg": "andrea-pagels-intercoiffure.png",
         "giftcardurl": "https://app.atento.me/merchants/2928?in_frame=false&locale=de"
     },
-    "18": {
+    "17": {
         "id": 21,
         "firmname": "Fernblau",
         "category": "Einzelhandel",
@@ -208,7 +197,7 @@
         "firmimg": "fernblau.jpg",
         "giftcardurl": "nan"
     },
-    "19": {
+    "18": {
         "id": 22,
         "firmname": "CLASSIC MATTERS - Oldtimer Depot Rostock",
         "category": "Unterhaltung",
@@ -219,7 +208,7 @@
         "firmimg": "classic-matters-oldtimer-depot-rostock.jpg",
         "giftcardurl": "nan"
     },
-    "20": {
+    "19": {
         "id": 23,
         "firmname": "Hochzeitsfotografie Rügen",
         "category": "Dienstleistung",
@@ -230,7 +219,7 @@
         "firmimg": "hochzeitsfotografie-rugen.jpg",
         "giftcardurl": "nan"
     },
-    "21": {
+    "20": {
         "id": 24,
         "firmname": "b sieben",
         "category": "Gastronomie",
@@ -241,7 +230,7 @@
         "firmimg": "b-sieben.jpg",
         "giftcardurl": "nan"
     },
-    "22": {
+    "21": {
         "id": 26,
         "firmname": "ALMATROS GmbH & Co. KG",
         "category": "Einzelhandel",
@@ -252,7 +241,7 @@
         "firmimg": "almatros-gmbh-co-kg.jpg",
         "giftcardurl": "nan"
     },
-    "23": {
+    "22": {
         "id": 27,
         "firmname": "hautnah bodywear - Unterwäscheboutique",
         "category": "Einzelhandel",
@@ -263,7 +252,7 @@
         "firmimg": "hautnah-bodywear-unterwascheboutique.jpg",
         "giftcardurl": "nan"
     },
-    "24": {
+    "23": {
         "id": 28,
         "firmname": "Baggerspielplatz-Rostock",
         "category": "Dienstleistung",
@@ -274,7 +263,7 @@
         "firmimg": "baggerspielplatz-rostock.png",
         "giftcardurl": "nan"
     },
-    "25": {
+    "24": {
         "id": 44,
         "firmname": "BalticFit Personal Training - Heiko Prinz",
         "category": "Dienstleistung",
@@ -285,7 +274,7 @@
         "firmimg": "balticfit-personal-training-heiko-prinz.png",
         "giftcardurl": "nan"
     },
-    "26": {
+    "25": {
         "id": 29,
         "firmname": "SHILA",
         "category": "Einzelhandel",
@@ -296,7 +285,7 @@
         "firmimg": "shila.png",
         "giftcardurl": "nan"
     },
-    "27": {
+    "26": {
         "id": 30,
         "firmname": "Luftbilder Service MV",
         "category": "Dienstleistung",
@@ -307,7 +296,7 @@
         "firmimg": "luftbilder-service-mv.png",
         "giftcardurl": "nan"
     },
-    "28": {
+    "27": {
         "id": 31,
         "firmname": "Optik Köster",
         "category": "Einzelhandel",
@@ -318,7 +307,7 @@
         "firmimg": "optik-koster.jpg",
         "giftcardurl": "nan"
     },
-    "29": {
+    "28": {
         "id": 32,
         "firmname": "Goldschmiede Meisterbertrieb Pergande",
         "category": "Einzelhandel",
@@ -329,7 +318,7 @@
         "firmimg": "goldschmiede-meisterbertrieb-pergande.jpg",
         "giftcardurl": "nan"
     },
-    "30": {
+    "29": {
         "id": 34,
         "firmname": "Kosmetik & Fußpflegepraxis Birthe Döring",
         "category": "Dienstleistung",
@@ -340,7 +329,7 @@
         "firmimg": "kosmetik-fusspflegepraxis-birthe-doring.jpg",
         "giftcardurl": "nan"
     },
-    "31": {
+    "30": {
         "id": 43,
         "firmname": "MEERWERK SPA & PHYSIO - mit HAPPINESS SHOP",
         "category": "Dienstleistung",
@@ -351,7 +340,7 @@
         "firmimg": "meerwerk-spa-physio-mit-happiness-shop.jpg",
         "giftcardurl": "nan"
     },
-    "32": {
+    "31": {
         "id": 35,
         "firmname": "Spürsinn Mode & Accessoires",
         "category": "Einzelhandel",
@@ -362,7 +351,7 @@
         "firmimg": "spursinn-mode-accessoires.jpeg",
         "giftcardurl": "nan"
     },
-    "33": {
+    "32": {
         "id": 36,
         "firmname": "Weinhandlung Schollenberger",
         "category": "Einzelhandel",
@@ -373,7 +362,7 @@
         "firmimg": "weinhandlung-schollenberger.jpg",
         "giftcardurl": "nan"
     },
-    "34": {
+    "33": {
         "id": 38,
         "firmname": "DOCK INN Hostel Warnemünde",
         "category": "Andere",
@@ -384,7 +373,7 @@
         "firmimg": "dock-inn-hostel-warnemunde.jpg",
         "giftcardurl": "nan"
     },
-    "35": {
+    "34": {
         "id": 39,
         "firmname": "Beauty Vital Concept - Marion Hilger",
         "category": "Dienstleistung",
@@ -395,7 +384,7 @@
         "firmimg": "beauty-vital-concept-marion-hilger.jpg",
         "giftcardurl": "nan"
     },
-    "36": {
+    "35": {
         "id": 40,
         "firmname": "Belloy’s Finest Ice Cream & more",
         "category": "Gastronomie",
@@ -406,7 +395,7 @@
         "firmimg": "belloys-finest-ice-cream-more.jpg",
         "giftcardurl": "nan"
     },
-    "37": {
+    "36": {
         "id": 41,
         "firmname": "Hugo Hasse Seminare",
         "category": "Dienstleistung",
@@ -417,7 +406,7 @@
         "firmimg": "hugo-hasse-seminare.jpg",
         "giftcardurl": "nan"
     },
-    "38": {
+    "37": {
         "id": 42,
         "firmname": "tisch",
         "category": "Andere",
@@ -428,7 +417,7 @@
         "firmimg": "tisch.jpg",
         "giftcardurl": "nan"
     },
-    "39": {
+    "38": {
         "id": 37,
         "firmname": "AnneO.Frisöre",
         "category": "Dienstleistung",
@@ -439,7 +428,7 @@
         "firmimg": "anneo-frisore.jpg",
         "giftcardurl": "https://app.atento.me/merchants/3920?in_frame=false&locale=de"
     },
-    "40": {
+    "39": {
         "id": 45,
         "firmname": "Bunker Rostock",
         "category": "Unterhaltung",
@@ -450,7 +439,7 @@
         "firmimg": "bunker-rostock.png",
         "giftcardurl": "nan"
     },
-    "41": {
+    "40": {
         "id": 46,
         "firmname": "Blickkontakt Kontaktlinsenstudio",
         "category": "Einzelhandel",
@@ -461,7 +450,7 @@
         "firmimg": "blickkontakt-kontaktlinsenstudio.jpg",
         "giftcardurl": "nan"
     },
-    "42": {
+    "41": {
         "id": 47,
         "firmname": "Boutique happiness",
         "category": "Einzelhandel",
@@ -472,7 +461,7 @@
         "firmimg": "boutique-happiness.jpg",
         "giftcardurl": "nan"
     },
-    "43": {
+    "42": {
         "id": 48,
         "firmname": "Abenteuer Stadtwelten",
         "category": "Unterhaltung",
@@ -483,7 +472,7 @@
         "firmimg": "abenteuer-stadtwelten.jpg",
         "giftcardurl": "nan"
     },
-    "44": {
+    "43": {
         "id": 49,
         "firmname": "Schmuckwerkstatt - kreative Entschleunigung auf dem Land ",
         "category": "Andere",
@@ -494,7 +483,7 @@
         "firmimg": "schmuckwerkstatt-kreative-entschleunigung-auf-dem-land.png",
         "giftcardurl": "nan"
     },
-    "45": {
+    "44": {
         "id": 61,
         "firmname": "Deine•Natur•Leben",
         "category": "Dienstleistung",
@@ -505,7 +494,7 @@
         "firmimg": "deine-natur-leben.png",
         "giftcardurl": "nan"
     },
-    "46": {
+    "45": {
         "id": 52,
         "firmname": "Sportshop Jump In - Ralf Klingschat e.K.",
         "category": "Einzelhandel",
@@ -516,7 +505,7 @@
         "firmimg": "sportshop-jump-in-ralf-klingschat-e-k.jpg",
         "giftcardurl": "nan"
     },
-    "47": {
+    "46": {
         "id": 53,
         "firmname": "Boutique Anziehend",
         "category": "Einzelhandel",
@@ -527,7 +516,7 @@
         "firmimg": "boutique-anziehend.jpg",
         "giftcardurl": "nan"
     },
-    "48": {
+    "47": {
         "id": 57,
         "firmname": "Brockis Hotel Stadt Hamburg",
         "category": "Andere",
@@ -538,7 +527,7 @@
         "firmimg": "brockis-hotel-stadt-hamburg.jpg",
         "giftcardurl": "nan"
     },
-    "49": {
+    "48": {
         "id": 59,
         "firmname": "ESKO Catering & Service",
         "category": "Gastronomie",
@@ -549,7 +538,7 @@
         "firmimg": "esko-catering-service.jpg",
         "giftcardurl": "nan"
     },
-    "50": {
+    "49": {
         "id": 58,
         "firmname": "Daniel's Café",
         "category": "Gastronomie",
@@ -560,7 +549,7 @@
         "firmimg": "daniels-cafe.jpg",
         "giftcardurl": "https://app.atento.me/merchants/3665?in_frame=false&locale=de"
     },
-    "51": {
+    "50": {
         "id": 51,
         "firmname": "PEGASUS HEAD- & GROWSHOP",
         "category": "Einzelhandel",
@@ -571,7 +560,7 @@
         "firmimg": "pegasus-head-growshop.jpg",
         "giftcardurl": "https://app.atento.me/merchants/3921?in_frame=false&locale=de"
     },
-    "52": {
+    "51": {
         "id": 56,
         "firmname": "KFC Rostock GmbH & Co. KG",
         "category": "Gastronomie",
@@ -582,7 +571,7 @@
         "firmimg": "kfc-rostock-gmbh-co-kg.jpg",
         "giftcardurl": "https://app.atento.me/merchants/3968?in_frame=false&locale=de"
     },
-    "53": {
+    "52": {
         "id": 62,
         "firmname": "Dornbluth",
         "category": "Dienstleistung",
@@ -593,7 +582,7 @@
         "firmimg": "dornbluth.jpg",
         "giftcardurl": "nan"
     },
-    "54": {
+    "53": {
         "id": 63,
         "firmname": "Handmade by Mona ",
         "category": "Einzelhandel",
@@ -604,7 +593,7 @@
         "firmimg": "handmade-by-mona.jpg",
         "giftcardurl": "nan"
     },
-    "55": {
+    "54": {
         "id": 64,
         "firmname": "CleverPrävent®",
         "category": "Dienstleistung",
@@ -615,7 +604,7 @@
         "firmimg": "cleverpravent-r.jpg",
         "giftcardurl": "nan"
     },
-    "56": {
+    "55": {
         "id": 66,
         "firmname": "Compagnie de Comédie in der BÜHNE 602",
         "category": "Unterhaltung",
@@ -626,7 +615,7 @@
         "firmimg": "compagnie-de-comedie-in-der-buhne-602.jpg",
         "giftcardurl": "nan"
     },
-    "57": {
+    "56": {
         "id": 67,
         "firmname": "dasWerbeStudio Langwasser",
         "category": "Dienstleistung",
@@ -637,7 +626,7 @@
         "firmimg": "daswerbestudio-langwasser.jpg",
         "giftcardurl": "nan"
     },
-    "58": {
+    "57": {
         "id": 68,
         "firmname": "Entertain Your Brain",
         "category": "Unterhaltung",
@@ -648,7 +637,7 @@
         "firmimg": "entertain-your-brain.png",
         "giftcardurl": "nan"
     },
-    "59": {
+    "58": {
         "id": 69,
         "firmname": "Hundeschule Ostseepfoten",
         "category": "Dienstleistung",
@@ -659,7 +648,7 @@
         "firmimg": "hundeschule-ostseepfoten.jpg",
         "giftcardurl": "nan"
     },
-    "60": {
+    "59": {
         "id": 80,
         "firmname": "Gaststätte Marktkrug",
         "category": "Gastronomie",
@@ -670,7 +659,7 @@
         "firmimg": "gaststatte-marktkrug.png",
         "giftcardurl": "nan"
     },
-    "61": {
+    "60": {
         "id": 81,
         "firmname": "Goldschmiede C. Stabenow Handelsgesellschaft mbH",
         "category": "Einzelhandel",
@@ -681,7 +670,7 @@
         "firmimg": "goldschmiede-c-stabenow-handelsgesellschaft-mbh.jpg",
         "giftcardurl": "nan"
     },
-    "62": {
+    "61": {
         "id": 70,
         "firmname": "dc Teamsport Nord GmbH",
         "category": "Einzelhandel",
@@ -692,7 +681,7 @@
         "firmimg": "dc-teamsport-nord-gmbh.gif",
         "giftcardurl": "nan"
     },
-    "63": {
+    "62": {
         "id": 71,
         "firmname": "SIEGL homestories Interieur",
         "category": "Einzelhandel",
@@ -703,7 +692,7 @@
         "firmimg": "siegl-homestories-interieur.png",
         "giftcardurl": "nan"
     },
-    "64": {
+    "63": {
         "id": 72,
         "firmname": "Frau Feenstaub",
         "category": "Dienstleistung",
@@ -714,7 +703,7 @@
         "firmimg": "frau-feenstaub.jpg",
         "giftcardurl": "nan"
     },
-    "65": {
+    "64": {
         "id": 74,
         "firmname": "Fritz-Reuter-Stuben",
         "category": "Gastronomie",
@@ -725,7 +714,7 @@
         "firmimg": "fritz-reuter-stuben.jpg",
         "giftcardurl": "nan"
     },
-    "66": {
+    "65": {
         "id": 76,
         "firmname": "Gutes aus Neuenrost",
         "category": "Andere",
@@ -736,7 +725,7 @@
         "firmimg": "gutes-aus-neuenrost.jpg",
         "giftcardurl": "nan"
     },
-    "67": {
+    "66": {
         "id": 73,
         "firmname": "Friseursalon Biestow",
         "category": "Dienstleistung",
@@ -747,7 +736,7 @@
         "firmimg": "friseursalon-biestow.png",
         "giftcardurl": "https://app.atento.me/merchants/3663?in_frame=false&locale=de"
     },
-    "68": {
+    "67": {
         "id": 78,
         "firmname": "Haarmanufaktur",
         "category": "Dienstleistung",
@@ -758,7 +747,7 @@
         "firmimg": "haarmanufaktur.png",
         "giftcardurl": "https://app.atento.me/merchants/3666?in_frame=false&locale=de"
     },
-    "69": {
+    "68": {
         "id": 79,
         "firmname": "Goldschmied & Juwelier Schneider",
         "category": "Einzelhandel",
@@ -769,7 +758,7 @@
         "firmimg": "goldschmied-juwelier-schneider.jpeg",
         "giftcardurl": "https://app.atento.me/merchants/3913?in_frame=false&locale=de"
     },
-    "70": {
+    "69": {
         "id": 75,
         "firmname": "Gästehaus Zum Weißen Haus",
         "category": "Andere",
@@ -780,7 +769,7 @@
         "firmimg": "gastehaus-zum-weissen-haus.jpeg",
         "giftcardurl": "http://app.atento.me/merchants/5157-gaestehaus-zum-weissen-haus"
     },
-    "71": {
+    "70": {
         "id": 82,
         "firmname": "Haltestelle Bekleidungsgeschäft",
         "category": "Einzelhandel",
@@ -791,7 +780,7 @@
         "firmimg": "haltestelle-bekleidungsgeschaft.jpg",
         "giftcardurl": "nan"
     },
-    "72": {
+    "71": {
         "id": 83,
         "firmname": "Lucky Rebel & Moonlight",
         "category": "Einzelhandel",
@@ -802,7 +791,7 @@
         "firmimg": "lucky-rebel-moonlight.jpg",
         "giftcardurl": "nan"
     },
-    "73": {
+    "72": {
         "id": 84,
         "firmname": "Hautsache",
         "category": "Dienstleistung",
@@ -813,7 +802,7 @@
         "firmimg": "hautsache.jpg",
         "giftcardurl": "nan"
     },
-    "74": {
+    "73": {
         "id": 87,
         "firmname": "Helgas Kitchen",
         "category": "Gastronomie",
@@ -824,7 +813,7 @@
         "firmimg": "helgas-kitchen.jpg",
         "giftcardurl": "nan"
     },
-    "75": {
+    "74": {
         "id": 89,
         "firmname": "Les Bummms Boys gbr",
         "category": "Unterhaltung",
@@ -835,7 +824,7 @@
         "firmimg": "les-bummms-boys-gbr.jpg",
         "giftcardurl": "nan"
     },
-    "76": {
+    "75": {
         "id": 91,
         "firmname": "Kosmetikstudio Zeitblüte",
         "category": "Dienstleistung",
@@ -846,7 +835,7 @@
         "firmimg": "kosmetikstudio-zeitblute.jpg",
         "giftcardurl": "nan"
     },
-    "77": {
+    "76": {
         "id": 92,
         "firmname": "Kreuzfahrt erleben",
         "category": "Einzelhandel",
@@ -857,7 +846,7 @@
         "firmimg": "kreuzfahrt-erleben.jpg",
         "giftcardurl": "nan"
     },
-    "78": {
+    "77": {
         "id": 93,
         "firmname": "optik-krawczyk ",
         "category": "Einzelhandel",
@@ -868,7 +857,7 @@
         "firmimg": "optik-krawczyk.jpg",
         "giftcardurl": "nan"
     },
-    "79": {
+    "78": {
         "id": 85,
         "firmname": "KIDSONLY Rostock",
         "category": "Einzelhandel",
@@ -879,7 +868,7 @@
         "firmimg": "kidsonly-rostock.jpg",
         "giftcardurl": "https://app.atento.me/merchants/3651?in_frame=false&locale=de"
     },
-    "80": {
+    "79": {
         "id": 88,
         "firmname": "Hopp`s Bunte Stube",
         "category": "Einzelhandel",
@@ -890,7 +879,7 @@
         "firmimg": "hopp-s-bunte-stube.jpg",
         "giftcardurl": "https://app.atento.me/merchants/3947?in_frame=false&locale=de"
     },
-    "81": {
+    "80": {
         "id": 86,
         "firmname": "Kleeblatt Blumenwerkstatt",
         "category": "Einzelhandel",
@@ -901,7 +890,7 @@
         "firmimg": "kleeblatt-blumenwerkstatt.png",
         "giftcardurl": "http://app.atento.me/merchants/5162-kleeblatt-blumenwerkstatt"
     },
-    "82": {
+    "81": {
         "id": 94,
         "firmname": "Musikhaus Schwerin",
         "category": "Einzelhandel",
@@ -912,7 +901,7 @@
         "firmimg": "musikhaus-schwerin.jpg",
         "giftcardurl": "nan"
     },
-    "83": {
+    "82": {
         "id": 95,
         "firmname": "Restaurant & Café Herzogliche Dampfwäscherei ",
         "category": "Gastronomie",
@@ -923,7 +912,7 @@
         "firmimg": "restaurant-cafe-herzogliche-dampfwascherei.jpg",
         "giftcardurl": "nan"
     },
-    "84": {
+    "83": {
         "id": 97,
         "firmname": "Mode Farbe Stil, Sybille Schuldt",
         "category": "Einzelhandel",
@@ -934,7 +923,7 @@
         "firmimg": "mode-farbe-stil-sybille-schuldt.jpg",
         "giftcardurl": "nan"
     },
-    "85": {
+    "84": {
         "id": 98,
         "firmname": "Pesto Peter",
         "category": "Gastronomie",
@@ -945,7 +934,7 @@
         "firmimg": "pesto-peter.png",
         "giftcardurl": "nan"
     },
-    "86": {
+    "85": {
         "id": 101,
         "firmname": "WOHNRAUM-Manufaktur EIKBOOM",
         "category": "Dienstleistung",
@@ -956,7 +945,7 @@
         "firmimg": "wohnraum-manufaktur-eikboom.jpg",
         "giftcardurl": "nan"
     },
-    "87": {
+    "86": {
         "id": 103,
         "firmname": "Supreme Surf - Beachhouse",
         "category": "Gastronomie",
@@ -967,7 +956,7 @@
         "firmimg": "supreme-surf-beachhouse.jpg",
         "giftcardurl": "nan"
     },
-    "88": {
+    "87": {
         "id": 96,
         "firmname": "Mexikanisches Restaurant \"Salsa Latino\"",
         "category": "Gastronomie",
@@ -978,7 +967,7 @@
         "firmimg": "mexikanisches-restaurant-salsa-latino.jpg",
         "giftcardurl": "https://app.atento.me/merchants/3931?in_frame=false&locale=de"
     },
-    "89": {
+    "88": {
         "id": 102,
         "firmname": "SCHUHHAUS HÖPPNER Inh. Andreas Höppner e.K.",
         "category": "Einzelhandel",
@@ -989,7 +978,7 @@
         "firmimg": "schuhhaus-hoppner-inh-andreas-hoppner-e-k.jpg",
         "giftcardurl": "http://app.atento.me/merchants/4735-schuhhaus-hoeppner-inh-andreas-hoeppner-e-k"
     },
-    "90": {
+    "89": {
         "id": 104,
         "firmname": "Ristorante Colosseo",
         "category": "Gastronomie",
@@ -1000,7 +989,7 @@
         "firmimg": "ristorante-colosseo.jpg",
         "giftcardurl": "https://app.atento.me/merchants/5305-ristorante-colosseo"
     },
-    "91": {
+    "90": {
         "id": 106,
         "firmname": "Rostocker Nachtwächter",
         "category": "Unterhaltung",
@@ -1011,7 +1000,7 @@
         "firmimg": "rostocker-nachtwachter.jpg",
         "giftcardurl": "nan"
     },
-    "92": {
+    "91": {
         "id": 107,
         "firmname": "Restaurant Käthe",
         "category": "Gastronomie",
@@ -1022,7 +1011,7 @@
         "firmimg": "restaurant-kathe.png",
         "giftcardurl": "nan"
     },
-    "93": {
+    "92": {
         "id": 108,
         "firmname": "Restaurant Lucullus",
         "category": "Gastronomie",
@@ -1033,7 +1022,7 @@
         "firmimg": "restaurant-lucullus.jpg",
         "giftcardurl": "nan"
     },
-    "94": {
+    "93": {
         "id": 109,
         "firmname": "Tanos Keramik GbR",
         "category": "Andere",
@@ -1044,7 +1033,7 @@
         "firmimg": "tanos-keramik-gbr.jpg",
         "giftcardurl": "nan"
     },
-    "95": {
+    "94": {
         "id": 110,
         "firmname": "Spielkartenfabrik Museumswerkstatt Stralsund",
         "category": "Andere",
@@ -1055,7 +1044,7 @@
         "firmimg": "spielkartenfabrik-museumswerkstatt-stralsund.jpg",
         "giftcardurl": "nan"
     },
-    "96": {
+    "95": {
         "id": 112,
         "firmname": "Sequential Art - KTV Kiezbuchhandlung",
         "category": "Einzelhandel",
@@ -1066,7 +1055,7 @@
         "firmimg": "sequential-art-ktv-kiezbuchhandlung.png",
         "giftcardurl": "nan"
     },
-    "97": {
+    "96": {
         "id": 113,
         "firmname": "VEIS - Eiscafé & Snackbar ",
         "category": "Gastronomie",
@@ -1077,7 +1066,7 @@
         "firmimg": "veis-eiscafe-snackbar.jpeg",
         "giftcardurl": "nan"
     },
-    "98": {
+    "97": {
         "id": 114,
         "firmname": "Wupatki - Der Laden mit den schönen Spielen",
         "category": "Einzelhandel",
@@ -1088,7 +1077,7 @@
         "firmimg": "wupatki-der-laden-mit-den-schonen-spielen.jpg",
         "giftcardurl": "nan"
     },
-    "99": {
+    "98": {
         "id": 115,
         "firmname": "FELSHELDEN",
         "category": "Andere",
@@ -1099,7 +1088,7 @@
         "firmimg": "felshelden.jpg",
         "giftcardurl": "nan"
     },
-    "100": {
+    "99": {
         "id": 111,
         "firmname": "Rügener Insel Genuß",
         "category": "Einzelhandel",
@@ -1110,7 +1099,7 @@
         "firmimg": "rugener-insel-genuss.jpg",
         "giftcardurl": "http://app.atento.me/merchants/4720-ruegener-insel-genuss"
     },
-    "101": {
+    "100": {
         "id": 116,
         "firmname": "TattooRitual - Dein TattooDoktor Rostock",
         "category": "Dienstleistung",
@@ -1121,7 +1110,7 @@
         "firmimg": "tattooritual-dein-tattoodoktor-rostock.jpg",
         "giftcardurl": "nan"
     },
-    "102": {
+    "101": {
         "id": 118,
         "firmname": "YOGABATI",
         "category": "Andere",
@@ -1132,7 +1121,7 @@
         "firmimg": "yogabati.jpg",
         "giftcardurl": "nan"
     },
-    "103": {
+    "102": {
         "id": 119,
         "firmname": "Café A Rebours ",
         "category": "Gastronomie",
@@ -1143,7 +1132,7 @@
         "firmimg": "cafe-a-rebours.jpg",
         "giftcardurl": "nan"
     },
-    "104": {
+    "103": {
         "id": 120,
         "firmname": "Ostseesalzgrotte und Naturheilpraxis Martina Haase",
         "category": "Dienstleistung",
@@ -1154,7 +1143,7 @@
         "firmimg": "ostseesalzgrotte-und-naturheilpraxis-martina-haase.jpg",
         "giftcardurl": "nan"
     },
-    "105": {
+    "104": {
         "id": 121,
         "firmname": "Zierart - Textildruck Rostock ",
         "category": "Dienstleistung",
@@ -1165,7 +1154,7 @@
         "firmimg": "zierart-textildruck-rostock.jpg",
         "giftcardurl": "nan"
     },
-    "106": {
+    "105": {
         "id": 122,
         "firmname": "Kerstin Zech ~ Bewusst in  Form",
         "category": "Andere",
@@ -1176,7 +1165,7 @@
         "firmimg": "kerstin-zech-bewusst-in-form.jpg",
         "giftcardurl": "nan"
     },
-    "107": {
+    "106": {
         "id": 123,
         "firmname": "Mancala Spielwaren GmbH",
         "category": "Einzelhandel",
@@ -1187,7 +1176,7 @@
         "firmimg": "mancala-spielwaren-gmbh.png",
         "giftcardurl": "nan"
     },
-    "108": {
+    "107": {
         "id": 136,
         "firmname": "Restaurant im Kamp-Theater & Bar Abgedreht",
         "category": "Gastronomie",
@@ -1198,7 +1187,7 @@
         "firmimg": "restaurant-im-kamp-theater-bar-abgedreht.jpg",
         "giftcardurl": "nan"
     },
-    "109": {
+    "108": {
         "id": 125,
         "firmname": "BARke- Das Cocktailboot",
         "category": "Gastronomie",
@@ -1209,7 +1198,7 @@
         "firmimg": "barke-das-cocktailboot.jpg",
         "giftcardurl": "nan"
     },
-    "110": {
+    "109": {
         "id": 126,
         "firmname": "Brasserie Betreibergesellschaft mbH",
         "category": "Gastronomie",
@@ -1220,7 +1209,7 @@
         "firmimg": "brasserie-betreibergesellschaft-mbh.jpg",
         "giftcardurl": "nan"
     },
-    "111": {
+    "110": {
         "id": 127,
         "firmname": "Kofahl Reisen",
         "category": "Dienstleistung",
@@ -1231,7 +1220,7 @@
         "firmimg": "kofahl-reisen.jpg",
         "giftcardurl": "nan"
     },
-    "112": {
+    "111": {
         "id": 128,
         "firmname": "Kostümverleih Klamöttchen",
         "category": "Dienstleistung",
@@ -1242,7 +1231,7 @@
         "firmimg": "kostumverleih-klamottchen.jpg",
         "giftcardurl": "nan"
     },
-    "113": {
+    "112": {
         "id": 129,
         "firmname": "Uns Tüch Moden & Schuhe ",
         "category": "Einzelhandel",
@@ -1253,7 +1242,7 @@
         "firmimg": "uns-tuch-moden-schuhe.jpg",
         "giftcardurl": "nan"
     },
-    "114": {
+    "113": {
         "id": 137,
         "firmname": "MAENNERHOBBY Brennerei",
         "category": "Einzelhandel",
@@ -1264,7 +1253,7 @@
         "firmimg": "maennerhobby-brennerei.jpg",
         "giftcardurl": "nan"
     },
-    "115": {
+    "114": {
         "id": 77,
         "firmname": "Haargalerie Rostock",
         "category": "Dienstleistung",
@@ -1275,7 +1264,7 @@
         "firmimg": "haargalerie-rostock.png",
         "giftcardurl": "https://app.atento.me/merchants/2420?in_frame=false&locale=de"
     },
-    "116": {
+    "115": {
         "id": 154,
         "firmname": "Jolly Roger Rostock",
         "category": "Andere",
@@ -1286,7 +1275,7 @@
         "firmimg": "Screenshot_20200412-124131.png",
         "giftcardurl": "https://app.atento.me/merchants/5367-jolly-roger-rostock"
     },
-    "117": {
+    "116": {
         "id": 130,
         "firmname": "Schatzinsel im EKZ Bad Doberan",
         "category": "Einzelhandel",
@@ -1297,7 +1286,7 @@
         "firmimg": "schatzinsel-im-ekz-bad-doberan.jpg",
         "giftcardurl": "nan"
     },
-    "118": {
+    "117": {
         "id": 131,
         "firmname": "Schiemannsgarn",
         "category": "Einzelhandel",
@@ -1308,7 +1297,7 @@
         "firmimg": "schiemannsgarn.jpg",
         "giftcardurl": "nan"
     },
-    "119": {
+    "118": {
         "id": 132,
         "firmname": "KÏS Store",
         "category": "Einzelhandel",
@@ -1319,7 +1308,7 @@
         "firmimg": "kis-store.jpg",
         "giftcardurl": "nan"
     },
-    "120": {
+    "119": {
         "id": 133,
         "firmname": "Alte Büdnerei Kühlungsborn",
         "category": "Gastronomie",
@@ -1330,7 +1319,7 @@
         "firmimg": "alte-budnerei-kuhlungsborn.jpg",
         "giftcardurl": "nan"
     },
-    "121": {
+    "120": {
         "id": 134,
         "firmname": "Optik Sagawe in Reutershagen",
         "category": "Einzelhandel",
@@ -1341,7 +1330,7 @@
         "firmimg": "optik-sagawe-in-reutershagen.jpg",
         "giftcardurl": "nan"
     },
-    "122": {
+    "121": {
         "id": 135,
         "firmname": "VIP Photography",
         "category": "Dienstleistung",
@@ -1352,7 +1341,7 @@
         "firmimg": "vip-photography.jpg",
         "giftcardurl": "nan"
     },
-    "123": {
+    "122": {
         "id": 138,
         "firmname": "Institut für heilende Medizin",
         "category": "Andere",
@@ -1363,7 +1352,7 @@
         "firmimg": "institut-fur-heilende-medizin.jpg",
         "giftcardurl": "nan"
     },
-    "124": {
+    "123": {
         "id": 139,
         "firmname": "Segel- und Motorbootschule Rückenwind",
         "category": "Dienstleistung",
@@ -1374,7 +1363,7 @@
         "firmimg": "segel-und-motorbootschule-ruckenwind.jpg",
         "giftcardurl": "nan"
     },
-    "125": {
+    "124": {
         "id": 141,
         "firmname": "Kosmetikstudio Ines Suhrbier",
         "category": "Dienstleistung",
@@ -1385,7 +1374,7 @@
         "firmimg": "kosmetikstudio-ines-suhrbier.jpg",
         "giftcardurl": "nan"
     },
-    "126": {
+    "125": {
         "id": 144,
         "firmname": "Salzmanufaktur MV",
         "category": "Dienstleistung",
@@ -1396,7 +1385,7 @@
         "firmimg": "salzmanufaktur-mv.jpg",
         "giftcardurl": "nan"
     },
-    "127": {
+    "126": {
         "id": 145,
         "firmname": "PRÜNKIST",
         "category": "Einzelhandel",
@@ -1407,7 +1396,7 @@
         "firmimg": "prunkist.jpg",
         "giftcardurl": "nan"
     },
-    "128": {
+    "127": {
         "id": 146,
         "firmname": "quadrosdesign",
         "category": "Dienstleistung",
@@ -1418,7 +1407,7 @@
         "firmimg": "quadrosdesign.jpg",
         "giftcardurl": "nan"
     },
-    "129": {
+    "128": {
         "id": 143,
         "firmname": "KlangKokon",
         "category": "Dienstleistung",
@@ -1429,7 +1418,7 @@
         "firmimg": "klangkokon.jpg",
         "giftcardurl": "http://app.atento.me/merchants/4727-klangkokon"
     },
-    "130": {
+    "129": {
         "id": 142,
         "firmname": "Seefahrtschule Hafen Rostock",
         "category": "Dienstleistung",
@@ -1440,7 +1429,7 @@
         "firmimg": "seefahrtschule-hafen-rostock.png",
         "giftcardurl": "http://app.atento.me/merchants/4731-seefahrtschule-hafen-rostock"
     },
-    "131": {
+    "130": {
         "id": 147,
         "firmname": "PapadoXX-Fotografie",
         "category": "Dienstleistung",
@@ -1451,18 +1440,7 @@
         "firmimg": "quadrosdesign-2.jpg",
         "giftcardurl": "nan"
     },
-    "132": {
-        "id": 148,
-        "firmname": "Das FRITZ Hotel & Restaurant",
-        "category": "Gastronomie",
-        "description": "Neben zahlreichen Spezialitäten der mecklenburgischen Küche servieren wir in unserem Restaurant vegetarische und vegane Gerichte.",
-        "longdescription": "Seit 1992 können Sie im familiengeführten Drei-Sterne-Hotel FRITZ außerordentliche Gastfreundschaft in bester Lage in Schwerin-Krebsförden genießen: Ob Geschäftstermin, Gruppenreise oder Familienurlaub – gemütliche, gepflegte Zimmer, die ruhige Umgebung und der sehr persönliche Service sorgen dafür, dass Sie sich hier ganz wie zu Hause fühlen.",
-        "address": "Dorfstraße 3 B, 19061 Schwerin",
-        "firmurl": "https://www.fritz-hotel.de/",
-        "firmimg": "das-fritz-hotel-restaurant.jpg",
-        "giftcardurl": "nan"
-    },
-    "133": {
+    "131": {
         "id": 149,
         "firmname": "DIE SCHRITTEMACHER ",
         "category": "Dienstleistung",
@@ -1473,7 +1451,7 @@
         "firmimg": "die-schrittemacher.png",
         "giftcardurl": "nan"
     },
-    "134": {
+    "132": {
         "id": 150,
         "firmname": "Marlower Kanu-& Bootsverleih",
         "category": "Dienstleistung",
@@ -1484,7 +1462,7 @@
         "firmimg": "marlower-kanu-bootsverleih.png",
         "giftcardurl": "nan"
     },
-    "135": {
+    "133": {
         "id": 151,
         "firmname": "Optik Sagawe",
         "category": "Einzelhandel",
@@ -1495,7 +1473,7 @@
         "firmimg": "optik-sagawe.jpg",
         "giftcardurl": "nan"
     },
-    "136": {
+    "134": {
         "id": 152,
         "firmname": "Wohnflair.com Bärbel Lau ",
         "category": "Einzelhandel",
@@ -1506,7 +1484,7 @@
         "firmimg": "wohnflair-com-barbel-lau.png",
         "giftcardurl": "nan"
     },
-    "137": {
+    "135": {
         "id": 153,
         "firmname": "Optik Sagawe im Rostocker Hof",
         "category": "Einzelhandel",
@@ -1517,7 +1495,7 @@
         "firmimg": "optik-sagawe-im-rostocker-hof.jpg",
         "giftcardurl": "nan"
     },
-    "138": {
+    "136": {
         "id": 54,
         "firmname": "Cado's Café & Crêperie",
         "category": "Gastronomie",
@@ -1528,7 +1506,7 @@
         "firmimg": "cados-cafe-creperie.JPG",
         "giftcardurl": "https://app.atento.me/merchants/2421?in_frame=false&locale=de"
     },
-    "139": {
+    "137": {
         "id": 10,
         "firmname": "Julika-Foto: Emotional und Echt",
         "category": "Dienstleistung",
@@ -1539,7 +1517,7 @@
         "firmimg": "julika-foto-emotional-und-echt.jpg",
         "giftcardurl": "https://app.atento.me/merchants/2422?in_frame=false&locale=de"
     },
-    "140": {
+    "138": {
         "id": 25,
         "firmname": "BACKFISCH-UDO",
         "category": "Gastronomie",
@@ -1550,7 +1528,7 @@
         "firmimg": "backfisch-udo.png",
         "giftcardurl": "https://app.atento.me/merchants/2926?in_frame=false&locale=de"
     },
-    "141": {
+    "139": {
         "id": 124,
         "firmname": "WATERSTRADT Brillen und Kontaktlinsen",
         "category": "Einzelhandel",
@@ -1561,7 +1539,7 @@
         "firmimg": "waterstradt-brillen-und-kontaktlinsen.png",
         "giftcardurl": "https://app.atento.me/merchants/3372?in_frame=false&locale=de"
     },
-    "142": {
+    "140": {
         "id": 55,
         "firmname": "Café M",
         "category": "Gastronomie",
@@ -1572,7 +1550,7 @@
         "firmimg": "cafe-m.jpg",
         "giftcardurl": "https://app.atento.me/merchants/3376?in_frame=false&locale=de"
     },
-    "143": {
+    "141": {
         "id": 60,
         "firmname": "Coffee-Bike Rostock",
         "category": "Gastronomie",
@@ -1583,7 +1561,7 @@
         "firmimg": "coffee-bike-rostock.jpg",
         "giftcardurl": "https://app.atento.me/merchants/3664?in_frame=false&locale=de"
     },
-    "144": {
+    "142": {
         "id": 105,
         "firmname": "Tally Weijl Rostock",
         "category": "Einzelhandel",
@@ -1594,7 +1572,7 @@
         "firmimg": "tally-weijl-rostock.jpg",
         "giftcardurl": "https://app.atento.me/merchants/3917?in_frame=false&locale=de"
     },
-    "145": {
+    "143": {
         "id": 50,
         "firmname": "Waldcafé & Biergarten Meyers Hausstelle",
         "category": "Gastronomie",
@@ -1605,7 +1583,7 @@
         "firmimg": "waldcafe-biergarten-meyers-hausstelle.jpg",
         "giftcardurl": "https://app.atento.me/merchants/3937?in_frame=false&locale=de"
     },
-    "146": {
+    "144": {
         "id": 65,
         "firmname": "COAAST SCHALLPLATTEN CAFÈ",
         "category": "Einzelhandel",
@@ -1616,7 +1594,7 @@
         "firmimg": "coaast-schallplatten-cafe.jpg",
         "giftcardurl": "https://app.atento.me/merchants/3941?in_frame=false&locale=de"
     },
-    "147": {
+    "145": {
         "id": 33,
         "firmname": "Pizza Hut Rostock",
         "category": "Gastronomie",
@@ -1627,7 +1605,7 @@
         "firmimg": "pizza-hut-rostock.jpg",
         "giftcardurl": "https://app.atento.me/merchants/3969?in_frame=false&locale=de"
     },
-    "148": {
+    "146": {
         "id": 140,
         "firmname": "Eiscafe Marita Hahn",
         "category": "Gastronomie",
@@ -1638,7 +1616,7 @@
         "firmimg": "eiscafe-marita-hahn.jpg",
         "giftcardurl": "http://app.atento.me/merchants/4718-eiscafe-marita-hahn"
     },
-    "149": {
+    "147": {
         "id": 99,
         "firmname": "Nordcamp",
         "category": "Einzelhandel",
@@ -1649,7 +1627,7 @@
         "firmimg": "nordcamp.jpg",
         "giftcardurl": "http://app.atento.me/merchants/4726-nordcamp"
     },
-    "150": {
+    "148": {
         "id": 6,
         "firmname": "Advent Advent",
         "category": "Einzelhandel",
@@ -1660,7 +1638,7 @@
         "firmimg": "advent-advent.jpg",
         "giftcardurl": "http://app.atento.me/merchants/4738-advent-advent"
     },
-    "151": {
+    "149": {
         "id": 100,
         "firmname": "Praxis für Energiearbeit Rostock",
         "category": "Dienstleistung",
@@ -1671,7 +1649,7 @@
         "firmimg": "praxis-fur-energiearbeit-rostock.jpg",
         "giftcardurl": "http://app.atento.me/merchants/4860-praxis-fuer-energiearbeit-rostock"
     },
-    "152": {
+    "150": {
         "id": 117,
         "firmname": "Zwanzig12 Am Strom",
         "category": "Gastronomie",
@@ -1682,7 +1660,7 @@
         "firmimg": "zwanzig12-am-strom.jpg",
         "giftcardurl": "https://www.yovite.com/Restaurant-Gutschein-R-46803227.html?REF=REST"
     },
-    "153": {
+    "151": {
         "id": 163,
         "firmname": "Restaurant Bellevue Bad Doberan",
         "category": "Gastronomie",
@@ -1693,7 +1671,7 @@
         "firmimg": "2020-04-16_10-19-40_skylinekleinklein.png",
         "giftcardurl": "https://app.atento.me/merchants/5542-restaurant-bellevue-bad-doberan"
     },
-    "154": {
+    "152": {
         "id": 159,
         "firmname": "Santa Barbara Anna",
         "category": "Andere",
@@ -1704,7 +1682,7 @@
         "firmimg": "2020-04-15_20-53-55_P1040987.jpg",
         "giftcardurl": "https://app.atento.me/merchants/5695-santa-barbara-anna"
     },
-    "155": {
+    "153": {
         "id": 158,
         "firmname": "Küstenliebe",
         "category": "Einzelhandel",
@@ -1715,7 +1693,7 @@
         "firmimg": "2020-04-15_13-29-37_IMG_5471.png",
         "giftcardurl": "https://kuestenliebeshop.de/products/geschenkgutschein"
     },
-    "156": {
+    "154": {
         "id": 160,
         "firmname": "Salon Frisko",
         "category": "Dienstleistung",
@@ -1726,7 +1704,7 @@
         "firmimg": "2020-04-16_10-10-54_skylinekleinklein.png",
         "giftcardurl": "http://app.atento.me/merchants/5540-salon-frisko"
     },
-    "157": {
+    "155": {
         "id": 156,
         "firmname": "Tattoostudio Ray Ink",
         "category": "Dienstleistung",
@@ -1737,7 +1715,7 @@
         "firmimg": "2020-04-15_08-25-48_92939431_530870777791406_2564253332939997184_n(1).jpg",
         "giftcardurl": "https://app.atento.me/merchants/5693-tattoostudio-ray-ink"
     },
-    "158": {
+    "156": {
         "id": 157,
         "firmname": "Fischuppen GbR",
         "category": "Einzelhandel",
@@ -1748,7 +1726,7 @@
         "firmimg": "2020-04-15_09-37-51_fischuppen_logo_icon_schrift.jpg",
         "giftcardurl": "https://app.atento.me/merchants/5694-fischuppen-gbr"
     },
-    "159": {
+    "157": {
         "id": 168,
         "firmname": "Yogaschule Christian Bender",
         "category": "Dienstleistung",
@@ -1759,7 +1737,7 @@
         "firmimg": "2020-04-17_06-50-52_logo_rostock-yoga_final.jpg",
         "giftcardurl": "https://app.atento.me/merchants/5700-yogaschule-christian-bender"
     },
-    "160": {
+    "158": {
         "id": 165,
         "firmname": "Tauchshop Rostock",
         "category": "Einzelhandel",
@@ -1770,7 +1748,7 @@
         "firmimg": "2020-04-16_11-40-42_Bild TS HRO.jpg",
         "giftcardurl": "https://app.atento.me/merchants/5697-tauchshop-rostock"
     },
-    "161": {
+    "159": {
         "id": 162,
         "firmname": "pro kunsthalle e.V.",
         "category": "Unterhaltung",
@@ -1781,7 +1759,7 @@
         "firmimg": "2020-04-16_10-15-17_skylinekleinklein.png",
         "giftcardurl": "https://app.atento.me/merchants/5696-pro-kunsthalle-e-v"
     },
-    "162": {
+    "160": {
         "id": 167,
         "firmname": "Brötchenexpress Rostock",
         "category": "Gastronomie",
@@ -1792,7 +1770,7 @@
         "firmimg": "2020-04-16_14-05-37_Banner01.jpg",
         "giftcardurl": "https://app.atento.me/merchants/5699-broetchenexpress-rostock"
     },
-    "163": {
+    "161": {
         "id": 155,
         "firmname": "Darß-Festspiele e.V.",
         "category": "Unterhaltung",
@@ -1803,7 +1781,7 @@
         "firmimg": "2020-04-14_20-45-03_DSC04859 (Mittel).jpg",
         "giftcardurl": "https://www.darss-festspiele.de/karten/gutscheine/"
     },
-    "164": {
+    "162": {
         "id": 164,
         "firmname": "RUHEPOL ROSTOCK",
         "category": "Dienstleistung",
@@ -1814,7 +1792,7 @@
         "firmimg": "2020-04-16_10-38-22_Ruhepol Rostock Floating 1.jpg",
         "giftcardurl": "http://ruhepol-rostock.de/gutschein/"
     },
-    "165": {
+    "163": {
         "id": 166,
         "firmname": "Darßer Brauhaus GmbH",
         "category": "Gastronomie",
@@ -1825,7 +1803,18 @@
         "firmimg": "2020-04-16_12-17-23_Logo_Darsser-Brauhaus-nachRAL_4c web.jpg",
         "giftcardurl": "https://app.atento.me/merchants/5698-darsser-brauhaus-gmbh"
     },
-    "166": {
+    "164": {
+        "id": 148,
+        "firmname": "Das FRITZ Hotel & Restaurant",
+        "category": "Gastronomie",
+        "description": "Neben zahlreichen Spezialitäten der mecklenburgischen Küche servieren wir in unserem Restaurant vegetarische und vegane Gerichte.",
+        "longdescription": "Seit 1992 können Sie im familiengeführten Drei-Sterne-Hotel FRITZ außerordentliche Gastfreundschaft in bester Lage in Schwerin-Krebsförden genießen: Ob Geschäftstermin, Gruppenreise oder Familienurlaub – gemütliche, gepflegte Zimmer, die ruhige Umgebung und der sehr persönliche Service sorgen dafür, dass Sie sich hier ganz wie zu Hause fühlen.",
+        "address": "Dorfstraße 3 B, 19061 Schwerin",
+        "firmurl": "https://www.fritz-hotel.de/",
+        "firmimg": "das-fritz-hotel-restaurant.jpg",
+        "giftcardurl": "http://app.atento.me/merchants/5158-das-fritz-hotel-restaurant"
+    },
+    "165": {
         "id": 170,
         "firmname": "Der Georg mobile & individuelle Massagen",
         "category": "Andere",
@@ -1835,5 +1824,16 @@
         "firmurl": "",
         "firmimg": "2020-04-19_09-38-27_AAC657C3-ED03-4302-8B0B-B0D2C0F4FA04.jpeg",
         "giftcardurl": "https://app.atento.me/merchants/5771-der-georg-mobile-individuelle-massagen"
+    },
+    "166": {
+        "id": 3,
+        "firmname": "Tuscherei - Keramik selbst bemalen",
+        "category": "Unterhaltung",
+        "description": "Mal was ganz besonderes... Gestalte Dein eigenes Keramikstück zu Hause oder bei uns im Laden.",
+        "longdescription": "\"Die Tuscherei ist ein Ort an dem Du in unserer schnelllebigen Zeit einfach mal rasten kannst, das Handy zur Seite legst und Dich auf diese eine Sache konzentrierst. Genieße ein leckeres Getränk, lass Deiner Kreativität freien Lauf und bemale Deine Keramik. Das ist nicht nur entspannend sondern macht auch wahnsinnig glücklich und stolz - spätestens wenn Du Dein neues Lieblingsstück in den Händen hältst.\r\n\r\nUnd Du kannst Dir die Tuscherei jetzt auch nach Hause holen #stayhome. Wir bieten To-Go Boxen zum zu Hause tuschen an. Für nähere Infos sendet uns einfach eine Email an kontakt@tuscherei.de. Gutscheine sind natürlich einlösbar. Juchu!\"",
+        "address": "Puschkinstr. 47, 19055 Schwerin",
+        "firmurl": "https://www.tuscherei.de/",
+        "firmimg": "tuscherei-keramik-selbst-bemalen.jpg",
+        "giftcardurl": "https://tuscherei.firstvoucher.com/"
     }
 }
