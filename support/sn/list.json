@@ -1,16 +1,5 @@
 {
     "0": {
-        "id": 3,
-        "firmname": "Tuscherei - Keramik selbst bemalen",
-        "category": "Unterhaltung",
-        "description": "Mal was ganz besonderes... Gestalte Dein eigenes Keramikstück zu Hause oder bei uns im Laden. ",
-        "longdescription": "\"Die Tuscherei ist ein Ort an dem Du in unserer schnelllebigen Zeit einfach mal rasten kannst, das Handy zur Seite legst und Dich auf diese eine Sache konzentrierst. Genieße ein leckeres Getränk, lass Deiner Kreativität freien Lauf und bemale Deine Keramik. Das ist nicht nur entspannend sondern macht auch wahnsinnig glücklich und stolz - spätestens wenn Du Dein neues Lieblingsstück in den Händen hältst.\n\nUnd Du kannst Dir die Tuscherei jetzt auch nach Hause holen #stayhome. Wir bieten To-Go Boxen zum zu Hause tuschen an. Für nähere Infos sendet uns einfach eine Email an kontakt@tuscherei.de. Gutscheine sind natürlich einlösbar. Juchu!\"",
-        "address": "Puschkinstr. 47, 19055 Schwerin",
-        "firmurl": "https://www.tuscherei.de/",
-        "firmimg": "tuscherei-keramik-selbst-bemalen.jpg",
-        "giftcardurl": "nan"
-    },
-    "1": {
         "id": 8,
         "firmname": "MOEgrafie Fotografie",
         "category": "Dienstleistung",
@@ -21,7 +10,7 @@
         "firmimg": "moegrafie-fotografie.jpg",
         "giftcardurl": "nan"
     },
-    "2": {
+    "1": {
         "id": 42,
         "firmname": "tisch",
         "category": "Andere",
@@ -32,7 +21,7 @@
         "firmimg": "tisch.jpg",
         "giftcardurl": "nan"
     },
-    "3": {
+    "2": {
         "id": 75,
         "firmname": "Gästehaus Zum Weißen Haus",
         "category": "Andere",
@@ -43,7 +32,7 @@
         "firmimg": "gastehaus-zum-weissen-haus.jpeg",
         "giftcardurl": "http://app.atento.me/merchants/5157-gaestehaus-zum-weissen-haus"
     },
-    "4": {
+    "3": {
         "id": 94,
         "firmname": "Musikhaus Schwerin",
         "category": "Einzelhandel",
@@ -54,7 +43,7 @@
         "firmimg": "musikhaus-schwerin.jpg",
         "giftcardurl": "nan"
     },
-    "5": {
+    "4": {
         "id": 95,
         "firmname": "Restaurant & Café Herzogliche Dampfwäscherei ",
         "category": "Gastronomie",
@@ -65,7 +54,7 @@
         "firmimg": "restaurant-cafe-herzogliche-dampfwascherei.jpg",
         "giftcardurl": "nan"
     },
-    "6": {
+    "5": {
         "id": 142,
         "firmname": "Seefahrtschule Hafen Rostock",
         "category": "Dienstleistung",
@@ -76,7 +65,7 @@
         "firmimg": "seefahrtschule-hafen-rostock.png",
         "giftcardurl": "http://app.atento.me/merchants/4731-seefahrtschule-hafen-rostock"
     },
-    "7": {
+    "6": {
         "id": 148,
         "firmname": "Das FRITZ Hotel & Restaurant",
         "category": "Gastronomie",
@@ -85,6 +74,17 @@
         "address": "Dorfstraße 3 B, 19061 Schwerin",
         "firmurl": "https://www.fritz-hotel.de/",
         "firmimg": "das-fritz-hotel-restaurant.jpg",
-        "giftcardurl": "nan"
+        "giftcardurl": "http://app.atento.me/merchants/5158-das-fritz-hotel-restaurant"
+    },
+    "7": {
+        "id": 3,
+        "firmname": "Tuscherei - Keramik selbst bemalen",
+        "category": "Unterhaltung",
+        "description": "Mal was ganz besonderes... Gestalte Dein eigenes Keramikstück zu Hause oder bei uns im Laden.",
+        "longdescription": "\"Die Tuscherei ist ein Ort an dem Du in unserer schnelllebigen Zeit einfach mal rasten kannst, das Handy zur Seite legst und Dich auf diese eine Sache konzentrierst. Genieße ein leckeres Getränk, lass Deiner Kreativität freien Lauf und bemale Deine Keramik. Das ist nicht nur entspannend sondern macht auch wahnsinnig glücklich und stolz - spätestens wenn Du Dein neues Lieblingsstück in den Händen hältst.\r\n\r\nUnd Du kannst Dir die Tuscherei jetzt auch nach Hause holen #stayhome. Wir bieten To-Go Boxen zum zu Hause tuschen an. Für nähere Infos sendet uns einfach eine Email an kontakt@tuscherei.de. Gutscheine sind natürlich einlösbar. Juchu!\"",
+        "address": "Puschkinstr. 47, 19055 Schwerin",
+        "firmurl": "https://www.tuscherei.de/",
+        "firmimg": "tuscherei-keramik-selbst-bemalen.jpg",
+        "giftcardurl": "https://tuscherei.firstvoucher.com/"
     }
 }
