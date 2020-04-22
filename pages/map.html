@@ -1,0 +1,90 @@
+---
+layout: defaultmap
+permalink: /map/
+---
+
+<div id="mapdiv" style="width: 100%; height: 90%;"></div>
+
+<script src="/js/openlayers.js"></script>
+<script>
+  //http://harrywood.co.uk/maps/examples/openlayers/marker-popups.view.html
+  function readTextFile(file, callback) {
+    var rawFile = new XMLHttpRequest();
+    rawFile.overrideMimeType("application/json");
+    rawFile.open("GET", file, true);
+    rawFile.onreadystatechange = function () {
+      if (rawFile.readyState === 4 && rawFile.status == "200") {
+        callback(rawFile.responseText);
+      }
+    };
+    rawFile.send(null);
+  }
+
+  //usage:
+  readTextFile("list.json", function (text) {
+    var data = JSON.parse(text);
+    console.log(data);
+
+    var size = Object.keys(data).length;
+    console.log("size", size);
+
+    map = new OpenLayers.Map("mapdiv");
+    map.addLayer(new OpenLayers.Layer.OSM());
+
+    epsg4326 = new OpenLayers.Projection("EPSG:4326"); //WGS 1984 projection
+    projectTo = map.getProjectionObject(); //The map projection (Spherical Mercator)
+
+    var lonLat = new OpenLayers.LonLat(12.20219, 53.753888).transform(
+      epsg4326,
+      projectTo
+    );
+
+    var zoom = 9;
+    map.setCenter(lonLat, zoom);
+
+    var vectorLayer = new OpenLayers.Layer.Vector("Overlay");
+
+    console.log("test", data[0].lon);
+    console.log("laenge", data.index);
+
+    for (let i = 0; i < size; i++) {
+      console.log(data[i]);
+      // Define markers as "features" of the vector layer:
+      var feature = new OpenLayers.Feature.Vector(
+        new OpenLayers.Geometry.Point(data[i].lon, data[i].lat).transform(
+          epsg4326,
+          projectTo
+        ),
+        { description: data[i].firmurl },
+        {
+          externalGraphic: "/img/site/marker.png",
+          graphicHeight: 40,
+          graphicWidth: 40,
+          graphicXOffset: -20,
+          graphicYOffset: -40,
+        }
+      );
+      vectorLayer.addFeatures(feature);
+    }
+    
+
+    map.addLayer(vectorLayer);
+
+    //Add a selector control to the vectorLayer with popup functions
+    var controls = {
+      selector: new OpenLayers.Control.SelectFeature(vectorLayer, {
+        onSelect: createPopup
+      }),
+    };
+
+    function createPopup(feature) {
+      window.open(feature.attributes.description, "_blank");
+      //feature.popup.closeOnMove = true;;
+    }
+
+
+
+    map.addControl(controls["selector"]);
+    controls["selector"].activate();
+  });
+</script>
