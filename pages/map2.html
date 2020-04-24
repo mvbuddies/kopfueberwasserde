@@ -1,0 +1,39 @@
+---
+layout: defaultmap
+permalink: /map2/
+---
+<div id="map" style="position: absolute; top: 80; bottom: 0; left: 0; right: 0;"></div>
+<script>
+  function readTextFile(file, callback) {
+    var rawFile = new XMLHttpRequest();
+    rawFile.overrideMimeType("application/json");
+    rawFile.open("GET", file, true);
+    rawFile.onreadystatechange = function () {
+      if (rawFile.readyState === 4 && rawFile.status == "200") {
+        callback(rawFile.responseText);
+      }
+    };
+    rawFile.send(null);
+  }
+
+  readTextFile("/map/list.json", function (text) {
+    var data = JSON.parse(text);
+    console.log(data);
+
+    const size = Object.keys(data).length;console.log("size", size);
+    const map = L.map("map").setView([53.753888, 12.20219], 9);
+
+    L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+      attribution:
+        '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+    }).addTo(map);
+
+    for (let i = 0; i < size; i++) {
+      L.marker([data[i].lat, data[i].lon])
+        .addTo(map)
+        .bindPopup("<a href='/support/"+data[i].id+"/' target='_blank'><b>"+data[i].firmname+"</b></a><br>"
+                  +data[i].description
+                  +"<br><a href='/support/"+data[i].id+"/' target='_blank'><b>Unterstützen</b></a>")
+    }
+  });
+</script>
