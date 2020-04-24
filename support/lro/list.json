@@ -11,17 +11,6 @@
         "giftcardurl": "nan"
     },
     "1": {
-        "id": 47,
-        "firmname": "Boutique happiness",
-        "category": "Einzelhandel",
-        "description": " Mode für die sportliche, elegante Frau ",
-        "longdescription": "In meiner Boutique können Sie gerne Gutscheine kaufen, die nach der Wiedereröffnung , mit einer Wertsteigerung von 20% eingelöst werden können. Sie unterstützen mich damit finanziell und aber auch moralisch. Ich freue mich , wenn ich neue Stammkundinnen gewinnen kann. Als Dankeschön , lade ich Sie herzlichst zu unserer nächsten Modenschau ein. Sie werden immer von uns bestmöglich beraten, so das Sie zufrieden und sich auf den  nächsten Besuch für Ihr Lieblingsteil freuen, sowie viele unserer Stammkundinnen",
-        "address": "Mollistr.23, 18209 Bad Doberan",
-        "firmurl": "https://www.happinessboutique.com/de/",
-        "firmimg": "boutique-happiness.jpg",
-        "giftcardurl": "nan"
-    },
-    "2": {
         "id": 53,
         "firmname": "Boutique Anziehend",
         "category": "Einzelhandel",
@@ -32,7 +21,7 @@
         "firmimg": "boutique-anziehend.jpg",
         "giftcardurl": "nan"
     },
-    "3": {
+    "2": {
         "id": 64,
         "firmname": "CleverPrävent®",
         "category": "Dienstleistung",
@@ -43,7 +32,7 @@
         "firmimg": "cleverpravent-r.jpg",
         "giftcardurl": "nan"
     },
-    "4": {
+    "3": {
         "id": 71,
         "firmname": "SIEGL homestories Interieur",
         "category": "Einzelhandel",
@@ -54,7 +43,7 @@
         "firmimg": "siegl-homestories-interieur.png",
         "giftcardurl": "nan"
     },
-    "5": {
+    "4": {
         "id": 84,
         "firmname": "Hautsache",
         "category": "Dienstleistung",
@@ -65,7 +54,7 @@
         "firmimg": "hautsache.jpg",
         "giftcardurl": "nan"
     },
-    "6": {
+    "5": {
         "id": 91,
         "firmname": "Kosmetikstudio Zeitblüte",
         "category": "Dienstleistung",
@@ -76,7 +65,7 @@
         "firmimg": "kosmetikstudio-zeitblute.jpg",
         "giftcardurl": "nan"
     },
-    "7": {
+    "6": {
         "id": 120,
         "firmname": "Ostseesalzgrotte und Naturheilpraxis Martina Haase",
         "category": "Dienstleistung",
@@ -87,18 +76,7 @@
         "firmimg": "ostseesalzgrotte-und-naturheilpraxis-martina-haase.jpg",
         "giftcardurl": "nan"
     },
-    "8": {
-        "id": 130,
-        "firmname": "Schatzinsel im EKZ Bad Doberan",
-        "category": "Einzelhandel",
-        "description": "Fachgeschäft für Schulbedarf, Geschenke, Basteln, Partyausstattung (mit Spielgeräte- und Hüpfburgverleih)",
-        "longdescription": "Wir leben Service und wir lieben frische Ideen. Wir sind der Postkartenshop mit den besten Karten für wirklich alle Anlässe, Nordbrief Partner, Heliumballonfüllstation, Buchhüllen-Einschweißservice, Zuckertütenbefüller, Ostsee-Antiquariat und der Geschenkeladen mit über 1000 unkonventionellen Ideen für Männer, Frauen und Kinder! Wir sind kein Billigladen, aber wir arbeiten immer für das beste Verhältnis von Preis und Leistung.\n\nWir führen starke und sehr coole Marken bei Geschenken, Schreibwaren, Büchern und Spielzeug, wie Coppenrath Bücher und Geschenke, STAMPS Uhren, Brunnen, Lamy, Faber Castell, Hahnemühle,  Stabilo, Lego, Schleich, Siku, Living Puppets, Steiff, Haba, Invento, Herbertz, Depesche (Top Model), Ravensburger, Oetinger, Carlsen und ganz viele Andere. \n\nUnsere Abteilung Ostsee-Antiquariat ist noch im Aufbau, hat aber bereits über 1.500 Bücher von Anno dazumal 1578 bis in die Moderne. Themenschwerpunkte sind Ostsee, Mecklenburg, Seefahrt, Fliegerei. Wir haben aber auch eine außergewöhnliche Kollektion schöner grafischer Bücher aus dem Jugendstil und schöne Kinderbücher aus der DDR. Unsere antiquarischen Bücher sind nicht spottbillig, weil sie sehr besonders sind. Aber unsere Preise liegen stets im unteren Bereich der vergleichbaren Angebote im Internet. Wir kaufen nur sehr spezialisiert an.",
-        "address": "Am Handelspark 5, 18209 Bad Doberan",
-        "firmurl": "https://www.schatzinsel-bad-doberan.de",
-        "firmimg": "schatzinsel-im-ekz-bad-doberan.jpg",
-        "giftcardurl": "nan"
-    },
-    "9": {
+    "7": {
         "id": 133,
         "firmname": "Alte Büdnerei Kühlungsborn",
         "category": "Gastronomie",
@@ -109,18 +87,7 @@
         "firmimg": "alte-budnerei-kuhlungsborn.jpg",
         "giftcardurl": "nan"
     },
-    "10": {
-        "id": 140,
-        "firmname": "Eiscafe Marita Hahn",
-        "category": "Gastronomie",
-        "description": "Produktion und Verkauf von Eis und Torten",
-        "longdescription": "Das Eiscafe Marita Hahn wurde am 07.Mai 1993 eröffnet. Wir produzieren und verkaufen Eis\r\nTorten und bieten zahlreiche Kaffeespezialitäten in unseren beiden Eiscafes in Klueß und in Güstrow an. Durch die Coronakrise mussten wir beide Eiscafes schließen und unsere zur\r\nZeit 10 Mitarbeiter in Kurzarbeit schicken. Ab dem 06.04.2020 wollen wir unser Ausserhausangebot  für ganze Torten und Eisbecher nach telefonischer Vorbestellung aktivieren. Ein Verkauf von Eis in der Waffel ist zur Zeit nicht möglich.",
-        "address": "Tetrower Chaussee 25, 18273 Güstrow",
-        "firmurl": "",
-        "firmimg": "eiscafe-marita-hahn.jpg",
-        "giftcardurl": "http://app.atento.me/merchants/4718-eiscafe-marita-hahn"
-    },
-    "11": {
+    "8": {
         "id": 163,
         "firmname": "Restaurant Bellevue Bad Doberan",
         "category": "Gastronomie",
@@ -131,7 +98,51 @@
         "firmimg": "2020-04-16_10-19-40_skylinekleinklein.png",
         "giftcardurl": "https://app.atento.me/merchants/5542-restaurant-bellevue-bad-doberan"
     },
+    "9": {
+        "id": 173,
+        "firmname": "De Duvenschlag",
+        "category": "Einzelhandel",
+        "description": "Wohnaccessoires, Geschenke, Mode, Kleinmöbel und weitere geschmackvolle Deko-Artikel,",
+        "longdescription": "In unserem  idyllischem \"Taubenschlag\" präsentieren wir Ihnen auf 70m² purer  Wohlfühlfläche handverlesene und individuell gestaltete Wohnaccessoires, Geschenke, Kleinmöbel und weitere geschmackvolle Deko-Artikel, die Ihr persönliches Wohnambiente nachhaltig steigern werden. Lassen Sie sich inspirieren und überzeugen Sie sich selbst - \"Kiek'n se ma rin\", wir freuen uns darauf Sie zu inspirieren.  Bis Bald - Ihr \"Duvenschlag\"-Team.",
+        "address": "In den Hörn 2, 18239 Bad Doberan",
+        "firmurl": "https://de-duvenschlag.mv-handelt.de",
+        "firmimg": "2020-04-24_10-19-55_400dpiLogo.jpg",
+        "giftcardurl": "https://de-duvenschlag.mv-handelt.de/Gutscheine"
+    },
+    "10": {
+        "id": 47,
+        "firmname": "Boutique happiness",
+        "category": "Einzelhandel",
+        "description": " Mode für die sportliche, elegante Frau ",
+        "longdescription": "In meiner Boutique können Sie gerne Gutscheine kaufen, die nach der Wiedereröffnung , mit einer Wertsteigerung von 20% eingelöst werden können. Sie unterstützen mich damit finanziell und aber auch moralisch. Ich freue mich , wenn ich neue Stammkundinnen gewinnen kann. Als Dankeschön , lade ich Sie herzlichst zu unserer nächsten Modenschau ein. Sie werden immer von uns bestmöglich beraten, so das Sie zufrieden und sich auf den  nächsten Besuch für Ihr Lieblingsteil freuen, sowie viele unserer Stammkundinnen",
+        "address": "Mollistr.23, 18209 Bad Doberan",
+        "firmurl": "https://www.happinessboutique.com/de/",
+        "firmimg": "boutique-happiness.jpg",
+        "giftcardurl": "nan"
+    },
+    "11": {
+        "id": 130,
+        "firmname": "Schatzinsel im EKZ Bad Doberan",
+        "category": "Einzelhandel",
+        "description": "Fachgeschäft für Schulbedarf, Geschenke, Basteln, Partyausstattung (mit Spielgeräte- und Hüpfburgverleih)",
+        "longdescription": "Wir leben Service und wir lieben frische Ideen. Wir sind der Postkartenshop mit den besten Karten für wirklich alle Anlässe, Nordbrief Partner, Heliumballonfüllstation, Buchhüllen-Einschweißservice, Zuckertütenbefüller, Ostsee-Antiquariat und der Geschenkeladen mit über 1000 unkonventionellen Ideen für Männer, Frauen und Kinder! Wir sind kein Billigladen, aber wir arbeiten immer für das beste Verhältnis von Preis und Leistung.\n\nWir führen starke und sehr coole Marken bei Geschenken, Schreibwaren, Büchern und Spielzeug, wie Coppenrath Bücher und Geschenke, STAMPS Uhren, Brunnen, Lamy, Faber Castell, Hahnemühle,  Stabilo, Lego, Schleich, Siku, Living Puppets, Steiff, Haba, Invento, Herbertz, Depesche (Top Model), Ravensburger, Oetinger, Carlsen und ganz viele Andere. \n\nUnsere Abteilung Ostsee-Antiquariat ist noch im Aufbau, hat aber bereits über 1.500 Bücher von Anno dazumal 1578 bis in die Moderne. Themenschwerpunkte sind Ostsee, Mecklenburg, Seefahrt, Fliegerei. Wir haben aber auch eine außergewöhnliche Kollektion schöner grafischer Bücher aus dem Jugendstil und schöne Kinderbücher aus der DDR. Unsere antiquarischen Bücher sind nicht spottbillig, weil sie sehr besonders sind. Aber unsere Preise liegen stets im unteren Bereich der vergleichbaren Angebote im Internet. Wir kaufen nur sehr spezialisiert an.",
+        "address": "Am Handelspark 5, 18209 Bad Doberan",
+        "firmurl": "https://www.schatzinsel-bad-doberan.de",
+        "firmimg": "schatzinsel-im-ekz-bad-doberan.jpg",
+        "giftcardurl": "nan"
+    },
     "12": {
+        "id": 140,
+        "firmname": "Eiscafe Marita Hahn",
+        "category": "Gastronomie",
+        "description": "Produktion und Verkauf von Eis und Torten",
+        "longdescription": "Das Eiscafe Marita Hahn wurde am 07.Mai 1993 eröffnet. Wir produzieren und verkaufen Eis\r\nTorten und bieten zahlreiche Kaffeespezialitäten in unseren beiden Eiscafes in Klueß und in Güstrow an. Durch die Coronakrise mussten wir beide Eiscafes schließen und unsere zur\r\nZeit 10 Mitarbeiter in Kurzarbeit schicken. Ab dem 06.04.2020 wollen wir unser Ausserhausangebot  für ganze Torten und Eisbecher nach telefonischer Vorbestellung aktivieren. Ein Verkauf von Eis in der Waffel ist zur Zeit nicht möglich.",
+        "address": "Tetrower Chaussee 25, 18273 Güstrow",
+        "firmurl": "",
+        "firmimg": "eiscafe-marita-hahn.jpg",
+        "giftcardurl": "http://app.atento.me/merchants/4718-eiscafe-marita-hahn"
+    },
+    "13": {
         "id": 156,
         "firmname": "Tattoostudio Ray Ink",
         "category": "Dienstleistung",
@@ -142,7 +153,7 @@
         "firmimg": "2020-04-15_08-25-48_92939431_530870777791406_2564253332939997184_n(1).jpg",
         "giftcardurl": "https://app.atento.me/merchants/5693-tattoostudio-ray-ink"
     },
-    "13": {
+    "14": {
         "id": 172,
         "firmname": "AHOI! Rügen Bade- und Erlebniswelt",
         "category": "Andere",
@@ -152,16 +163,5 @@
         "firmurl": "https://www.ahoi-ruegen.com/",
         "firmimg": "2020-04-24_08-52-41_Inselparadies_1.jpg",
         "giftcardurl": "https://ahoi-ruegen-badewelt.reservix.de/events"
-    },
-    "14": {
-        "id": 173,
-        "firmname": "De Duvenschlag",
-        "category": "Einzelhandel",
-        "description": "Wohnaccessoires, Geschenke, Mode, Kleinmöbel und weitere geschmackvolle Deko-Artikel,",
-        "longdescription": "In unserem  idyllischem \"Taubenschlag\" präsentieren wir Ihnen auf 70m² purer  Wohlfühlfläche handverlesene und individuell gestaltete Wohnaccessoires, Geschenke, Kleinmöbel und weitere geschmackvolle Deko-Artikel, die Ihr persönliches Wohnambiente nachhaltig steigern werden. Lassen Sie sich inspirieren und überzeugen Sie sich selbst - \"Kiek'n se ma rin\", wir freuen uns darauf Sie zu inspirieren.  Bis Bald - Ihr \"Duvenschlag\"-Team.",
-        "address": "In den Hörn 2, 18239 Bad Doberan",
-        "firmurl": "https://de-duvenschlag.mv-handelt.de",
-        "firmimg": "2020-04-24_10-19-55_400dpiLogo.jpg",
-        "giftcardurl": "https://de-duvenschlag.mv-handelt.de/Gutscheine"
     }
 }
