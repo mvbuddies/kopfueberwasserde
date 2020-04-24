@@ -1835,5 +1835,38 @@
         "firmurl": "https://www.tuscherei.de/",
         "firmimg": "tuscherei-keramik-selbst-bemalen.jpg",
         "giftcardurl": "https://tuscherei.firstvoucher.com/"
+    },
+    "167": {
+        "id": 172,
+        "firmname": "AHOI! Rügen Bade- und Erlebniswelt",
+        "category": "Andere",
+        "description": "AHOI! RÜGEN, die Bade- und Saunawelt im Seepark Sellin, bietet Badefreuden für die ganze Familie – und das zu jeder Jahreszeit!",
+        "longdescription": "Die Bade- und Erlebniswelt ist von der B196, Ortsdurchfahrt Sellin zu erreichen. Sie leigt im Seepark gegenüber dem Großparkplatz Sellin nur 200 Meter entfernt. \r\n\r\nDie öffentlichen Busse auf Mönchgut und Sellin nutzen Sie mit einer gültigen Kur- oder Einwohnerkarte aus den Mönchguter Gemeinden kostenfrei.\r\nBad: Haltestelle Sellin Ost, Linie 20, 24\r\n\r\nMit dem \"Rasender Roland\": Kleinbahnhof Sellin Ost",
+        "address": "Badstraße 1, 18586 Ostseebad Sellin",
+        "firmurl": "https://www.ahoi-ruegen.com/",
+        "firmimg": "2020-04-24_08-52-41_Inselparadies_1.jpg",
+        "giftcardurl": "https://ahoi-ruegen-badewelt.reservix.de/events"
+    },
+    "168": {
+        "id": 173,
+        "firmname": "De Duvenschlag",
+        "category": "Einzelhandel",
+        "description": "Wohnaccessoires, Geschenke, Mode, Kleinmöbel und weitere geschmackvolle Deko-Artikel,",
+        "longdescription": "In unserem  idyllischem \"Taubenschlag\" präsentieren wir Ihnen auf 70m² purer  Wohlfühlfläche handverlesene und individuell gestaltete Wohnaccessoires, Geschenke, Kleinmöbel und weitere geschmackvolle Deko-Artikel, die Ihr persönliches Wohnambiente nachhaltig steigern werden. Lassen Sie sich inspirieren und überzeugen Sie sich selbst - \"Kiek'n se ma rin\", wir freuen uns darauf Sie zu inspirieren.  Bis Bald - Ihr \"Duvenschlag\"-Team.",
+        "address": "In den Hörn 2, 18239 Bad Doberan",
+        "firmurl": "https://de-duvenschlag.mv-handelt.de",
+        "firmimg": "2020-04-24_10-19-55_400dpiLogo.jpg",
+        "giftcardurl": "https://de-duvenschlag.mv-handelt.de/Gutscheine"
+    },
+    "169": {
+        "id": 171,
+        "firmname": "Jin Shin Jyutsu® - Silke Krüger",
+        "category": "Dienstleistung",
+        "description": "Entspannen - Wohlfühlen - Auftanken mit der japanischen\r\nKunst des Jin Shin Jyutsu®",
+        "longdescription": "Jin Shin Jyutsu® ist japanisch und bedeutet \r\ndie Kunst des Schöpfers durch den wissenden, mitfühlenden Menschen.\r\n\r\nJin Shin Jyutsu® gleicht das Energiesystem des Körpers aus, fördert die Selbstheilungskräfte und sorgt für Gesundheit und Wohlbefinden.\r\n \r\nEs ist eine wertvolle und bedeutsame Ergänzung zu herkömmlichen Heilmethoden, sowohl als Selbsthilfe oder durch eine/n ausgebildete/n Praktiker/in.\r\n\r\nGutscheine sind möglich für \r\n* Einzeltermine (ca. 60 min)\r\n* Jin Shin Jytusu ®- Kur \r\n* Selbsthilfeseminare  \r\n\r\nAnwendungsbeispiele aus meiner Praxis:\r\n( Verspannungen Rücken, Nacken,Schulter, Knie ..., Stärkung des Immunsystems und der         Selbstheilungskräfte bei z.Bsp. Krebstherapien,\r\ntiefe Entspannung bei Streß im Job oder Privatleben \r\noder einfach nur zum Genießen )\r\n\r\nBei Fragen rufen Sie mich gern an,\r\nansonsten sage ich \"Dankeschön\" und freue mich auf ein baldiges Kennenlernen :)\r\nHerzliche Grüße\r\nSilke Krüger",
+        "address": "Prolliussteig 1, 23923 Schönberg",
+        "firmurl": "",
+        "firmimg": "2020-04-21_15-55-20_IMG-20190503-WA0003_2_1_1_1.jpg",
+        "giftcardurl": "https://app.atento.me/merchants/5891-jin-shin-jyutsu-silke-krueger"
     }
 }

@@ -141,5 +141,27 @@
         "firmurl": "https://www.rayink.de/",
         "firmimg": "2020-04-15_08-25-48_92939431_530870777791406_2564253332939997184_n(1).jpg",
         "giftcardurl": "https://app.atento.me/merchants/5693-tattoostudio-ray-ink"
+    },
+    "13": {
+        "id": 172,
+        "firmname": "AHOI! Rügen Bade- und Erlebniswelt",
+        "category": "Andere",
+        "description": "AHOI! RÜGEN, die Bade- und Saunawelt im Seepark Sellin, bietet Badefreuden für die ganze Familie – und das zu jeder Jahreszeit!",
+        "longdescription": "Die Bade- und Erlebniswelt ist von der B196, Ortsdurchfahrt Sellin zu erreichen. Sie leigt im Seepark gegenüber dem Großparkplatz Sellin nur 200 Meter entfernt. \r\n\r\nDie öffentlichen Busse auf Mönchgut und Sellin nutzen Sie mit einer gültigen Kur- oder Einwohnerkarte aus den Mönchguter Gemeinden kostenfrei.\r\nBad: Haltestelle Sellin Ost, Linie 20, 24\r\n\r\nMit dem \"Rasender Roland\": Kleinbahnhof Sellin Ost",
+        "address": "Badstraße 1, 18586 Ostseebad Sellin",
+        "firmurl": "https://www.ahoi-ruegen.com/",
+        "firmimg": "2020-04-24_08-52-41_Inselparadies_1.jpg",
+        "giftcardurl": "https://ahoi-ruegen-badewelt.reservix.de/events"
+    },
+    "14": {
+        "id": 173,
+        "firmname": "De Duvenschlag",
+        "category": "Einzelhandel",
+        "description": "Wohnaccessoires, Geschenke, Mode, Kleinmöbel und weitere geschmackvolle Deko-Artikel,",
+        "longdescription": "In unserem  idyllischem \"Taubenschlag\" präsentieren wir Ihnen auf 70m² purer  Wohlfühlfläche handverlesene und individuell gestaltete Wohnaccessoires, Geschenke, Kleinmöbel und weitere geschmackvolle Deko-Artikel, die Ihr persönliches Wohnambiente nachhaltig steigern werden. Lassen Sie sich inspirieren und überzeugen Sie sich selbst - \"Kiek'n se ma rin\", wir freuen uns darauf Sie zu inspirieren.  Bis Bald - Ihr \"Duvenschlag\"-Team.",
+        "address": "In den Hörn 2, 18239 Bad Doberan",
+        "firmurl": "https://de-duvenschlag.mv-handelt.de",
+        "firmimg": "2020-04-24_10-19-55_400dpiLogo.jpg",
+        "giftcardurl": "https://de-duvenschlag.mv-handelt.de/Gutscheine"
     }
 }
