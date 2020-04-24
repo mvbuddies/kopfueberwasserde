@@ -29,11 +29,15 @@ permalink: /map/
     }).addTo(map);
 
     for (let i = 0; i < size; i++) {
-      L.marker([data[i].lat, data[i].lon])
+      if(data[i].lat === 0.0){
+
+      }else{
+        L.marker([data[i].lat, data[i].lon])
         .addTo(map)
         .bindPopup("<a href='/support/"+data[i].id+"/' target='_blank'><b>"+data[i].firmname+"</b></a><br>"
                   +data[i].description
                   +"<br><a href='/support/"+data[i].id+"/' target='_blank'><b>Unterstützen</b></a>")
+      }      
     }
   });
 </script>
