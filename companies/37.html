@@ -49,6 +49,7 @@ redirect_from: /kampagne/tisch
             <p class="pdefault">
               Im tisch findest du neben ruhigen Arbeitsplätzen auch die Möglichkeit Dich mit einem Kaffee wach zu halten, Deine Termine in entspannter Umgebung abzuhalten und spannende Events und Menschen kennen zu lernen. Ich stelle den Laden ebenfalls Kreativen, Organisationen, Macher*innen oder Firmen zur Verfügung, um auf ihre Projekte aufmerksam zu machen. Der Raum ist flexibel und clean gehalten, damit jeder auf seine Kosten kommen kann. In den Abendstunden finden eigenes initiierte Events statt oder Du mietest den Raum für deine Pläne einfach selbst. Ob mit Business oder Ohne - so oder so ein Besuch Wert!
             </p>
+          <div id="map" style="height: 350px;"></div>
           <div class="card">
             <div class="card-content">
               <p class="subtitle">
@@ -106,4 +107,27 @@ redirect_from: /kampagne/tisch
     </div>
   </div>
 </section>
+
+<script src="/js/leaflet.js"></script>
+<script>
+  const lat = 0;
+  const lon = 0;
+  const zoom = 16;
+
+  if(lat === 0.0){
+    document.getElementById('map').style.display="none";
+  }else{
+    const map = L.map("map").setView([lat, lon], zoom);
+
+  L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+    attribution:
+      '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+  }).addTo(map);
+
+  L.marker([lat, lon])
+    .addTo(map)
+    .bindPopup("<b>A pretty CSS3 popup.</b><br>"+
+              "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.")
+  }  
+</script>
 

@@ -51,6 +51,7 @@ redirect_from: /kampagne/beauty-vital-concept-marion-hilger
 Mit einem Gutschein für Beauty Vital Concept schenken Sie sich und Ihren Lieben eine kleine Auszeit nach dieser für uns alle schwierigen Phase. Die sympathischen Mitarbeiter werden sich mit individueller Zuwendung und Professionalität auf Ihre Bedürfnisse einstellen, Sie über Ihre Möglichkeiten beraten und Ihnen Ihre perfekte Pflege zusammenstellen.
 Den Gutscheinwert können Sie sowohl für Behandlungen nach vorheriger Terminvereinbarung aber auch gern für den Kauf unserer beliebten BABOR-Produkte einlösen.
             </p>
+          <div id="map" style="height: 350px;"></div>
           <div class="card">
             <div class="card-content">
               <p class="subtitle">
@@ -108,4 +109,27 @@ Den Gutscheinwert können Sie sowohl für Behandlungen nach vorheriger Terminver
     </div>
   </div>
 </section>
+
+<script src="/js/leaflet.js"></script>
+<script>
+  const lat = 0;
+  const lon = 0;
+  const zoom = 16;
+
+  if(lat === 0.0){
+    document.getElementById('map').style.display="none";
+  }else{
+    const map = L.map("map").setView([lat, lon], zoom);
+
+  L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+    attribution:
+      '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+  }).addTo(map);
+
+  L.marker([lat, lon])
+    .addTo(map)
+    .bindPopup("<b>A pretty CSS3 popup.</b><br>"+
+              "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.")
+  }  
+</script>
 

@@ -49,6 +49,7 @@ redirect_from: /kampagne/andhotel-rittmeister-2
             <p class="pdefault">
               &quot;Das Restaurant im Landhotel Rittmeister steht für hochwertige Küche mit frischen Produkten aus der Region und im Wechsel der Jahreszeiten. Anspruchsvolle und kreative Zubereitung von traditionellen, mecklenburgischen und modernen Gerichten. Eigenständige Aromatik durch Kräuter, edle Weine, feine Destillate. Keine vorgefertigten Gerichte. Kochen ist Handwerk, in unserer Küche wird alles selbst zubereitet. Wir beziehen einen Großteil der Produkte aus der Region und nach Saison. Unsere Lieferanten sind zum Beispiel die Warnow-Schäferei in Wahrstorf, der Jagdbetrieb Peters in Groß Stove, Ostsee-Fischer, die Müritz-Fischer, sowie andere regionale Produzenten. Wir verwenden nur Eier aus Freilandhaltung, Fische aus Stellnetzfang und legen bei unseren Lieferanten Wert auf nachhaltig produzierte Lebensmittel. Wir verwenden duftende Kräuter aus unserem eigenen Garten und Wildkräuter von den umliegenden Wiesen. Wir backen Kuchen, stellen Marmeladen und eigene Pestos her. Unser Restaurant wird empfohlen vom Slow Food Genussführer. Unsere große Weinauswahl gehört zu den umfangreichsten der Stadt und hat ihren Schwerpunkt bei Winzern aus Deutschland. Nicht zuletzt stehen edle Destillate und fruchtige Liköre aus der eigenen Brennerei zur Auswahl. In unserer Zigarren-Lounge genießt man feinste Habanos und andere Zigarren. Das stilvolle Interieur unseres Hauses bietet den passenden Rahmen für eine genußvolle Auszeit im kleinen Kreise oder die private Feier in großer Runde. Die aktuelle Karte und umfangreiche Büffet- und Menüvorschläge finden Sie auf den nächsten Seiten. Neben dem Hauptrestaurant stehen die Destille und das Kaminzimmer für separate Veranstaltungen zur Auswahl. Für größere Veranstaltungen kann der Hotelsaal genutzt werden. Bei schönem Wetter sitzt man gerne im lauschigen Restaurantgarten unter großen Lindenbäumen.&quot;
             </p>
+          <div id="map" style="height: 350px;"></div>
           <div class="card">
             <div class="card-content">
               <p class="subtitle">
@@ -106,4 +107,27 @@ redirect_from: /kampagne/andhotel-rittmeister-2
     </div>
   </div>
 </section>
+
+<script src="/js/leaflet.js"></script>
+<script>
+  const lat = 0;
+  const lon = 0;
+  const zoom = 16;
+
+  if(lat === 0.0){
+    document.getElementById('map').style.display="none";
+  }else{
+    const map = L.map("map").setView([lat, lon], zoom);
+
+  L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+    attribution:
+      '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+  }).addTo(map);
+
+  L.marker([lat, lon])
+    .addTo(map)
+    .bindPopup("<b>A pretty CSS3 popup.</b><br>"+
+              "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.")
+  }  
+</script>
 

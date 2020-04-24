@@ -50,6 +50,7 @@ redirect_from: /kampagne/institut-fur-heilende-medizin
               Mit dem Institut ist ein Ort entstanden, der einen Raum für persönliche Entwicklung und Heilung eröffnet. Heilung bedeutet die Rückkehr zur Ganzheit in ein lebendiges Hier und Jetzt. Entspannung ist Medizin und lebensnotwendig.
 Das Institut ist Anbieter verschiedener Seminar zum Thema Heilfasten, Autogenes Training, Stressbewältigung, Chinesischer Medizin oder Ganzheitsmedizin. Dafür kannst Du den Gutschein nutzen oder verschenken.
             </p>
+          <div id="map" style="height: 350px;"></div>
           <div class="card">
             <div class="card-content">
               <p class="subtitle">
@@ -107,4 +108,27 @@ Das Institut ist Anbieter verschiedener Seminar zum Thema Heilfasten, Autogenes 
     </div>
   </div>
 </section>
+
+<script src="/js/leaflet.js"></script>
+<script>
+  const lat = 0;
+  const lon = 0;
+  const zoom = 16;
+
+  if(lat === 0.0){
+    document.getElementById('map').style.display="none";
+  }else{
+    const map = L.map("map").setView([lat, lon], zoom);
+
+  L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+    attribution:
+      '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+  }).addTo(map);
+
+  L.marker([lat, lon])
+    .addTo(map)
+    .bindPopup("<b>A pretty CSS3 popup.</b><br>"+
+              "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.")
+  }  
+</script>
 
