@@ -1,5 +1,4 @@
 _site/
-!_site/_redirects
 .sass-cache/
 .jekyll-metadata
 .jekyll-cache/*
