@@ -49,6 +49,7 @@ redirect_from: /kampagne/prunkist
             <p class="pdefault">
               216 qm &quot;Baumarkt für Frauen&quot;- mittlerweile sind aber auch viele kreative Männer unsere Kunden. Wir fürhen hochwertige Wollqualitäten und Garne zur Weiterverarbeitung für Lieblingsstücke vom Pulloverbis zur Macramé-Blumenampel. Patchwork- und Dekostoffe, Handarbeitsstoffe und alles, was an Kurzwaren dazugehört, findet mann bei uns; www.pruenkist.de gibt einen Eindruck. Wir sind seit 27 Jahren am Markt und seit 1998 auf der nördlichen RÜCKseite der Langen Straße zu finden und werden auch diese Krise überstehen- gemeinsam mit allen, die die Hände nicht stillhalten können!
             </p>
+          <div id="map" style="height: 350px;"></div>
           <div class="card">
             <div class="card-content">
               <p class="subtitle">
@@ -106,4 +107,27 @@ redirect_from: /kampagne/prunkist
     </div>
   </div>
 </section>
+
+<script src="/js/leaflet.js"></script>
+<script>
+  const lat = 0;
+  const lon = 0;
+  const zoom = 16;
+
+  if(lat === 0.0){
+    document.getElementById('map').style.display="none";
+  }else{
+    const map = L.map("map").setView([lat, lon], zoom);
+
+  L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+    attribution:
+      '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+  }).addTo(map);
+
+  L.marker([lat, lon])
+    .addTo(map)
+    .bindPopup("<b>A pretty CSS3 popup.</b><br>"+
+              "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.")
+  }  
+</script>
 

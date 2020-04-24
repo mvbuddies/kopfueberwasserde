@@ -50,6 +50,7 @@ redirect_from: /kampagne/oikos-fairtrade-ecofashion
               &quot;Hallo ihr Lieben, 
 danke für euer Interesse den lokalen Einzelhandel zu unterstützen! Bei uns bekommt ihr vegane Sneaker sowie nachhaltige Mode für Sie &amp; Ihn von der Unterhose bis zur Wetterjacke. Unsere Gutscheine findet Ihr Online in unserem Blog-Beitrag. Unser gesamtes saisonales Sortiment ist ebenfalls online einsehbar. Im Moment arbeiten wir an unserer ersten eigenen T-Shirt Kollektion, die wir im Mai veröffentlichen wollen und die bereits am 10. April in den Vorverkauf gehen sollen. Also bleibt gespannt und vor allem bleibt in Verbindung. :)&quot;
             </p>
+          <div id="map" style="height: 350px;"></div>
           <div class="card">
             <div class="card-content">
               <p class="subtitle">
@@ -107,4 +108,27 @@ danke für euer Interesse den lokalen Einzelhandel zu unterstützen! Bei uns bek
     </div>
   </div>
 </section>
+
+<script src="/js/leaflet.js"></script>
+<script>
+  const lat = 0;
+  const lon = 0;
+  const zoom = 16;
+
+  if(lat === 0.0){
+    document.getElementById('map').style.display="none";
+  }else{
+    const map = L.map("map").setView([lat, lon], zoom);
+
+  L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+    attribution:
+      '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+  }).addTo(map);
+
+  L.marker([lat, lon])
+    .addTo(map)
+    .bindPopup("<b>A pretty CSS3 popup.</b><br>"+
+              "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.")
+  }  
+</script>
 

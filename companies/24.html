@@ -49,6 +49,7 @@ redirect_from: /kampagne/balticfit-personal-training-heiko-prinz
             <p class="pdefault">
               Ich bin freiberuflicher Fitnesslehrer und biete neben Personal Fitness Training und Athletiktraining für Sportvereine auch StandUpPaddling- und Inlineskating-Kurse an. Außerdem verleihe ich aufblasbare StandUpPaddling-Boards, u.a. auch ein XXL-iSUP für bis zu 8 Erwachsene. Mit den SUPs sind auch Teambildende Veranstaltungen möglich. Ich benötige eure Unterstützung, um dieses Angebot in der Region auch weiterhin anbieten zu können.
             </p>
+          <div id="map" style="height: 350px;"></div>
           <div class="card">
             <div class="card-content">
               <p class="subtitle">
@@ -106,4 +107,27 @@ redirect_from: /kampagne/balticfit-personal-training-heiko-prinz
     </div>
   </div>
 </section>
+
+<script src="/js/leaflet.js"></script>
+<script>
+  const lat = 0;
+  const lon = 0;
+  const zoom = 16;
+
+  if(lat === 0.0){
+    document.getElementById('map').style.display="none";
+  }else{
+    const map = L.map("map").setView([lat, lon], zoom);
+
+  L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+    attribution:
+      '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+  }).addTo(map);
+
+  L.marker([lat, lon])
+    .addTo(map)
+    .bindPopup("<b>A pretty CSS3 popup.</b><br>"+
+              "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.")
+  }  
+</script>
 

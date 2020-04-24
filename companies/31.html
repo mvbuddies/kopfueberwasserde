@@ -50,6 +50,7 @@ redirect_from: /kampagne/spursinn-mode-accessoires
               Guten Tag, hier ist Daniela Meisel, die Ladeninhaberin vom Spürsinn - Mode &amp; Accessoires. 
 Ein individueller Modeladen für die Frau mit gemütlichem, skandinavischem Flair zum Wohlfühlen.Ich habe den Spürsinn am 03.Mai 2008 im Friedhofsweg in Rostock gegründet. Seit dem 1. September 2012 sind wir in der Kröpeliner Str. 24 (in der Rungestraße gelegen) zu finden. Auch wir sind durch die vorübergehenden Ladenschließungen seit dem 18.03.2020 betroffen und sind sehr dankbar über eine Unterstützung in dieser außergewöhnlichen Zeit. Ich sende Ihnen/Euch gern Gutscheine nach Wunschbetrag per Post zu. Diese sind im Spürsinn nach Wiedereröffnung sofort und wie schon immer, zeitlich unbegrenzt einlösbar. Wir freuen uns über einen baldigen Besuch im Spürsinn und auf unserer Facebook Seite (Spürsinn Rostock) oder Instagram (spuersinnrostock) sind nun täglich neue Outfits zu sehen.
             </p>
+          <div id="map" style="height: 350px;"></div>
           <div class="card">
             <div class="card-content">
               <p class="subtitle">
@@ -107,4 +108,27 @@ Ein individueller Modeladen für die Frau mit gemütlichem, skandinavischem Flai
     </div>
   </div>
 </section>
+
+<script src="/js/leaflet.js"></script>
+<script>
+  const lat = 0;
+  const lon = 0;
+  const zoom = 16;
+
+  if(lat === 0.0){
+    document.getElementById('map').style.display="none";
+  }else{
+    const map = L.map("map").setView([lat, lon], zoom);
+
+  L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+    attribution:
+      '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+  }).addTo(map);
+
+  L.marker([lat, lon])
+    .addTo(map)
+    .bindPopup("<b>A pretty CSS3 popup.</b><br>"+
+              "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.")
+  }  
+</script>
 
