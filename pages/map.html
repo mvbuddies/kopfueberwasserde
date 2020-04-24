@@ -2,6 +2,7 @@
 layout: defaultmap
 permalink: /map/
 ---
+<div class="pageloader is-link is-active"><span class="title">Map wird geladen...</span></div>
 <div id="map" style="position: absolute; top: 80; bottom: 0; left: 0; right: 0;"></div>
 <script src="/js/leaflet.js"></script>
 <script>
@@ -41,4 +42,9 @@ permalink: /map/
       }      
     }
   });
+</script>
+<script>
+  $(document).ready(function() {
+                $(".pageloader").toggleClass("is-active");
+                });
 </script>
