@@ -560,18 +560,18 @@
         "description": "Ich bin ganzheitliche Ernährungsberaterin und bringe Dich mit dem kleinsten mobilen Fitnessstudio der Welt in Schwung"
     },
     "80": {
-        "id": 123,
-        "lon": 12.1221563,
-        "lat": 54.0884656,
-        "firmname": "Mancala Spielwaren GmbH",
-        "description": "Wir sind ein Spielzeugladen."
-    },
-    "81": {
         "id": 136,
         "lon": 11.9028659,
         "lat": 54.1070216,
         "firmname": "Restaurant im Kamp-Theater & Bar Abgedreht",
         "description": "Burger , Ribs, Steaks, internationale & leichte Küche "
+    },
+    "81": {
+        "id": 123,
+        "lon": 12.1221563,
+        "lat": 54.0884656,
+        "firmname": "Mancala Spielwaren GmbH",
+        "description": "Wir sind ein Spielzeugladen."
     },
     "82": {
         "id": 126,
@@ -826,18 +826,18 @@
         "description": "Hallo…ich bin Der Georg & bin in Rostock mobiler Masseur & Wellnesstrainer."
     },
     "118": {
-        "id": 3,
-        "lon": 11.4158077,
-        "lat": 53.6297143,
-        "firmname": "Tuscherei - Keramik selbst bemalen",
-        "description": "Mal was ganz besonderes... Gestalte Dein eigenes Keramikstück zu Hause oder bei uns im Laden."
-    },
-    "119": {
         "id": 171,
         "lon": 10.9253492,
         "lat": 53.8441126,
         "firmname": "Jin Shin Jyutsu® - Silke Krüger",
         "description": "Entspannen - Wohlfühlen - Auftanken mit der japanischen\r\nKunst des Jin Shin Jyutsu®"
+    },
+    "119": {
+        "id": 3,
+        "lon": 11.4158077,
+        "lat": 53.6297143,
+        "firmname": "Tuscherei - Keramik selbst bemalen",
+        "description": "Mal was ganz besonderes... Gestalte Dein eigenes Keramikstück zu Hause oder bei uns im Laden."
     },
     "120": {
         "id": 1,
