@@ -560,18 +560,18 @@
         "description": "Ich bin ganzheitliche Ernährungsberaterin und bringe Dich mit dem kleinsten mobilen Fitnessstudio der Welt in Schwung"
     },
     "80": {
-        "id": 123,
-        "lon": 12.1221563,
-        "lat": 54.0884656,
-        "firmname": "Mancala Spielwaren GmbH",
-        "description": "Wir sind ein Spielzeugladen."
-    },
-    "81": {
         "id": 136,
         "lon": 11.9028659,
         "lat": 54.1070216,
         "firmname": "Restaurant im Kamp-Theater & Bar Abgedreht",
         "description": "Burger , Ribs, Steaks, internationale & leichte Küche "
+    },
+    "81": {
+        "id": 123,
+        "lon": 12.1221563,
+        "lat": 54.0884656,
+        "firmname": "Mancala Spielwaren GmbH",
+        "description": "Wir sind ein Spielzeugladen."
     },
     "82": {
         "id": 126,
