@@ -826,18 +826,18 @@
         "description": "Hallo…ich bin Der Georg & bin in Rostock mobiler Masseur & Wellnesstrainer."
     },
     "118": {
-        "id": 3,
-        "lon": 11.4158077,
-        "lat": 53.6297143,
-        "firmname": "Tuscherei - Keramik selbst bemalen",
-        "description": "Mal was ganz besonderes... Gestalte Dein eigenes Keramikstück zu Hause oder bei uns im Laden."
-    },
-    "119": {
         "id": 171,
         "lon": 10.9253492,
         "lat": 53.8441126,
         "firmname": "Jin Shin Jyutsu® - Silke Krüger",
         "description": "Entspannen - Wohlfühlen - Auftanken mit der japanischen\r\nKunst des Jin Shin Jyutsu®"
+    },
+    "119": {
+        "id": 3,
+        "lon": 11.4158077,
+        "lat": 53.6297143,
+        "firmname": "Tuscherei - Keramik selbst bemalen",
+        "description": "Mal was ganz besonderes... Gestalte Dein eigenes Keramikstück zu Hause oder bei uns im Laden."
     },
     "120": {
         "id": 1,
