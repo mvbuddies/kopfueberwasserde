@@ -1340,5 +1340,16 @@
         "firmurl": "https://kunsthallerostock.de/",
         "firmimg": "2020-04-16_10-15-17_skylinekleinklein.png",
         "giftcardurl": "https://app.atento.me/merchants/5696-pro-kunsthalle-e-v"
+    },
+    "122": {
+        "id": 175,
+        "firmname": "Restaurant Klock 8",
+        "category": "Dienstleistung",
+        "description": "Das Restaurant \"Klock 8\" am Barnsdorfer Wald erwartet Dich mit einem Gastraum vom 100 Personen, Wintergarten und sonnigen Außenbereich.",
+        "longdescription": "Unser szeniges Restaurant Klock 8 bietet alles, was man sich von gepflegter Speisegastronomie bis zum leckeren Cocktail vorstellt. In unserem Studiohaus voller Geschichte, unter den Bäumen des Barnstofer Waldes, sind wir Ihre Location für Ihr Dinner oder Ihre Feier.",
+        "address": "Tiergartenallee 1, 18059 Rostock",
+        "firmurl": "http://www.lt-club.de",
+        "firmimg": "2020-05-04_12-46-33_Klock8-FB-2019-06.jpg",
+        "giftcardurl": "https://app.atento.me/merchants/6103-restaurant-klock-8"
     }
 }

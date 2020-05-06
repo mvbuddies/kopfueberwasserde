@@ -1,0 +1,139 @@
+---
+layout: company
+permalink: /support/178/
+lang: de_DE
+title: 'Parkhotel Rügen Betriebs GmbH'
+description: 'Kaufe Gutscheine von Parkhotel Rügen Betriebs GmbH'
+redirect_from: 
+---
+
+    
+<section class="hero">
+  <div class="hero-body">
+    <div class="container">
+      <h1 class="title">
+        Parkhotel Rügen Betriebs GmbH
+        <br>
+        <span class="tag">
+          Andere
+        </span>
+        <span class="tag">
+          Ludwigslust-Parchim
+        </span>
+      </h1>
+      <h2 class="subtitle">
+        4 Sterne Parkhotel Rügen - Hotel - Restaurant - Bar - Wellnessbereich
+      </h2>
+      <a 
+        id="gift" 
+        href="https://parkhotel-ruegen.de/preise/gutscheine" 
+        target="_blank" class="button is-medium is-link is-hidden-mobile">
+        Gutschein kaufen ¹ ² ³
+      </a>
+      <a 
+        id="giftmobile" 
+        href="https://parkhotel-ruegen.de/preise/gutscheine" 
+        target="_blank" class="button is-medium is-link is-hidden-tablet" 
+        style="padding:30px;white-space: pre-line;">Gutschein kaufen ¹ ² ³
+      </a>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="content">
+      <div class="columns">
+        <div class="column">
+          <div class="container">
+            <p class="pdefault">
+              Das 4 Sterne Parkhotel Rügen empfängt Sie herzlich in Bergen auf der beliebten Ostseeinsel Rügen! 154 Zimmer unterschiedlicher Kategorie garantieren Ihnen einen angenehmen und erholsamen Aufenthalt.
+Vom Parkhotel Rügen sind es nur wenige Kilometer zu den schönsten Stränden, den Rad- und Wanderwegen oder den Störtebeker - Festspielen. 
+Moderne Wellnesseinrichtungen im Parkhotel Rügen laden zur Entspannung ein. Es erwartet Sie eine breite Palette an Beautyprogrammen oder Massagen. Erholsame Stunden finden Sie auch in der Sauna und dem Dampfbad. Ein gut ausgestatteter Fitnessraum steht ebenfalls zu Ihrer Verfügung. 
+Tanken Sie neue Energie und lassen Sie den Alltag hinter sich!
+Kulinarisch bietet das Parkhotel Spezialitäten aus der Region. Besonders beliebt ist das  hochwertige Frühstücksbuffet. An der Live-Koch-Station bereitet Ihnen unsere Frühstücksköche gern frische Eierspeisen zu. 
+
+Und wann kommen Sie in unser gemütliches Hotel auf Rügen?
+            </p>
+          <div id="map" style="height: 350px;"></div>
+          <div class="card">
+            <div class="card-content">
+              <p class="subtitle">
+                Stralsunder Chaussee 1, 18528 Bergen auf Rügen
+              </p>
+            </div>
+            <footer class="card-footer">
+              <p class="card-footer-item">
+                <span>
+                  Auf <a href="https://www.google.com/maps/search/?api=1&query=Stralsunder Chaussee 1, 18528 Bergen auf Rügen/" target="_blank">Google Maps</a> ³ ansehen
+                </span>
+              </p>
+            </footer>
+          </div>
+          <br>
+          <div class="subjects">
+            <a href="http://www.parkhotel-ruegen.de" 
+               target="_blank" class="button is-medium">
+               Schau bei uns vorbei ³
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="column">
+        <div class="container has-text-centered">
+          <img src="/img/company/original/2020-05-05_13-48-16_aussen nacht.jpg"></div>
+        </div>
+      </div>
+    </div>
+      <span>
+        <br>¹ Kopf Über Wasser ist ein NonProfit-Projekt. Unser Partner Atento 
+        muss jedoch leider einen minimalen Aufpreis, für die Service-Gebühren, 
+        die entstehen, verlangen. Bei standardmäßigen Online-Shops werden diese Gebühren, 
+        von den Anbietern getragen. Wir haben uns jedoch dafür entschieden, 
+        dass die Unternehmen den vollen Betrag der Gutscheine erhalten sollen - wir 
+        hoffen auf ihr Verständnis. Einige Unternehmen verlinken hier auch einen 
+        Link zu ihrer eigenen Online-Aktion. Auch hierfür übernimmt Kopf Über Wasser 
+        keine rechtliche Verantwortung.
+
+        <br>² Dein gekaufter Gutschein gilt nur für dieses Unternehmen. 
+        Der Gutscheinkauf findet auf einer externen Seite statt, wir 
+        entbinden uns von jeglicher rechtlichen Haftungspflicht. 
+        Beachte das aktuell dein Ort aufgrund von gesetzlichen Bestimmungen 
+        geschlossen ist. Aufgrund der womöglich langen Zeit der Schließung 
+        ist es möglich, dass das Unternehmen insolvent gehen könnte. 
+        Es besteht somit grundsätzlich das Risiko, dass es nicht möglich sein 
+        wird deinen Gutschein einzulösen. Wir (Kopf Über Wasser) schließen 
+        jegliche Haftung aus und betonen, dass das Vertragsverhältnis zwischen dir, 
+        dem Gutscheinkäufer, und dem gutscheinanbietenden Unternehmen 
+        (z.B. einem Restaurant) besteht.
+      
+        <br>³ Die über den Link erreichbare Webseite entspricht möglicherweise 
+        nicht unseren Sicherheitsstandards. Wir übernehmen keine Haftung für etwaige Schäden.
+      </span>
+    </div>
+  </div>
+</section>
+
+<script src="/js/leaflet.js"></script>
+<script>
+  const lat = 0;
+  const lon = 0;
+  const zoom = 16;
+
+  if(lat === 0.0){
+    document.getElementById('map').style.display="none";
+  }else{
+    const map = L.map("map").setView([lat, lon], zoom);
+
+  L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+    attribution:
+      '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+  }).addTo(map);
+
+  L.marker([lat, lon])
+    .addTo(map)
+    .bindPopup("<b>Parkhotel Rügen Betriebs GmbH</b><br>"+
+              "4 Sterne Parkhotel Rügen - Hotel - Restaurant - Bar - Wellnessbereich")
+  }  
+</script>
+

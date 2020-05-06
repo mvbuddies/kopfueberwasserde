@@ -31,5 +31,16 @@
         "firmurl": "https://www.optik-krawczyk.de/",
         "firmimg": "optik-krawczyk.jpg",
         "giftcardurl": "nan"
+    },
+    "3": {
+        "id": 178,
+        "firmname": "Parkhotel Rügen Betriebs GmbH",
+        "category": "Andere",
+        "description": "4 Sterne Parkhotel Rügen - Hotel - Restaurant - Bar - Wellnessbereich",
+        "longdescription": "Das 4 Sterne Parkhotel Rügen empfängt Sie herzlich in Bergen auf der beliebten Ostseeinsel Rügen! 154 Zimmer unterschiedlicher Kategorie garantieren Ihnen einen angenehmen und erholsamen Aufenthalt.\r\nVom Parkhotel Rügen sind es nur wenige Kilometer zu den schönsten Stränden, den Rad- und Wanderwegen oder den Störtebeker - Festspielen. \r\nModerne Wellnesseinrichtungen im Parkhotel Rügen laden zur Entspannung ein. Es erwartet Sie eine breite Palette an Beautyprogrammen oder Massagen. Erholsame Stunden finden Sie auch in der Sauna und dem Dampfbad. Ein gut ausgestatteter Fitnessraum steht ebenfalls zu Ihrer Verfügung. \r\nTanken Sie neue Energie und lassen Sie den Alltag hinter sich!\r\nKulinarisch bietet das Parkhotel Spezialitäten aus der Region. Besonders beliebt ist das  hochwertige Frühstücksbuffet. An der Live-Koch-Station bereitet Ihnen unsere Frühstücksköche gern frische Eierspeisen zu. \r\n\r\nUnd wann kommen Sie in unser gemütliches Hotel auf Rügen?",
+        "address": "Stralsunder Chaussee 1, 18528 Bergen auf Rügen",
+        "firmurl": "http://www.parkhotel-ruegen.de",
+        "firmimg": "2020-05-05_13-48-16_aussen nacht.jpg",
+        "giftcardurl": "https://parkhotel-ruegen.de/preise/gutscheine"
     }
 }

@@ -1868,5 +1868,38 @@
         "firmurl": "https://www.ahoi-ruegen.com/",
         "firmimg": "2020-04-24_08-52-41_Inselparadies_1.jpg",
         "giftcardurl": "https://ahoi-ruegen-badewelt.reservix.de/events"
+    },
+    "170": {
+        "id": 175,
+        "firmname": "Restaurant Klock 8",
+        "category": "Dienstleistung",
+        "description": "Das Restaurant \"Klock 8\" am Barnsdorfer Wald erwartet Dich mit einem Gastraum vom 100 Personen, Wintergarten und sonnigen Außenbereich.",
+        "longdescription": "Unser szeniges Restaurant Klock 8 bietet alles, was man sich von gepflegter Speisegastronomie bis zum leckeren Cocktail vorstellt. In unserem Studiohaus voller Geschichte, unter den Bäumen des Barnstofer Waldes, sind wir Ihre Location für Ihr Dinner oder Ihre Feier.",
+        "address": "Tiergartenallee 1, 18059 Rostock",
+        "firmurl": "http://www.lt-club.de",
+        "firmimg": "2020-05-04_12-46-33_Klock8-FB-2019-06.jpg",
+        "giftcardurl": "https://app.atento.me/merchants/6103-restaurant-klock-8"
+    },
+    "171": {
+        "id": 178,
+        "firmname": "Parkhotel Rügen Betriebs GmbH",
+        "category": "Andere",
+        "description": "4 Sterne Parkhotel Rügen - Hotel - Restaurant - Bar - Wellnessbereich",
+        "longdescription": "Das 4 Sterne Parkhotel Rügen empfängt Sie herzlich in Bergen auf der beliebten Ostseeinsel Rügen! 154 Zimmer unterschiedlicher Kategorie garantieren Ihnen einen angenehmen und erholsamen Aufenthalt.\r\nVom Parkhotel Rügen sind es nur wenige Kilometer zu den schönsten Stränden, den Rad- und Wanderwegen oder den Störtebeker - Festspielen. \r\nModerne Wellnesseinrichtungen im Parkhotel Rügen laden zur Entspannung ein. Es erwartet Sie eine breite Palette an Beautyprogrammen oder Massagen. Erholsame Stunden finden Sie auch in der Sauna und dem Dampfbad. Ein gut ausgestatteter Fitnessraum steht ebenfalls zu Ihrer Verfügung. \r\nTanken Sie neue Energie und lassen Sie den Alltag hinter sich!\r\nKulinarisch bietet das Parkhotel Spezialitäten aus der Region. Besonders beliebt ist das  hochwertige Frühstücksbuffet. An der Live-Koch-Station bereitet Ihnen unsere Frühstücksköche gern frische Eierspeisen zu. \r\n\r\nUnd wann kommen Sie in unser gemütliches Hotel auf Rügen?",
+        "address": "Stralsunder Chaussee 1, 18528 Bergen auf Rügen",
+        "firmurl": "http://www.parkhotel-ruegen.de",
+        "firmimg": "2020-05-05_13-48-16_aussen nacht.jpg",
+        "giftcardurl": "https://parkhotel-ruegen.de/preise/gutscheine"
+    },
+    "172": {
+        "id": 174,
+        "firmname": "Alpakahof am Iserberg",
+        "category": "Andere",
+        "description": "Alpakawanderung durch die Landschaft in Nordwestmecklenburg",
+        "longdescription": "Wir wandern mit unseren schönen Tieren durch die Schönheit von MV. Die Wanderung dauert ca. 2 Stunden und man erfährt in dieser Zeit viel über Alpakas und die Schönheiten am Wanderweg. Wir wandern in kleinen Gruppen bis zu 6 Personen, es sei denn, Sie sind eine Familie, dann auch bis zu 10 Personen.\r\nnach der Wanderung besuchen wir unsere Stutenherde und werfen einen Blick in den Hofladen wo man viel über die Alpakafaser erfährt.\r\nDie Wanderung kostet pro Person 30€ und der Termin kann per Mail, oder telefonisch gemacht werden.",
+        "address": "Dorfstraße 10, 23936 Hamberge",
+        "firmurl": "http://www.iserbergalpaka.de",
+        "firmimg": "2020-05-03_17-56-21_alpaka-wanderung-15.jpg",
+        "giftcardurl": "https://app.atento.me/merchants/6102-alpakahof-am-iserberg"
     }
 }
