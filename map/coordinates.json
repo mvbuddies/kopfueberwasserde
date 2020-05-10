@@ -28,18 +28,18 @@
         "description": "Die Hundeschule für Menschen!"
     },
     "4": {
-        "id": 8,
-        "lon": 11.3996764,
-        "lat": 53.638031,
-        "firmname": "MOEgrafie Fotografie",
-        "description": "Wir sind ein Fotografenteam und wir stehen für moderne und lebendige Fotografie"
-    },
-    "5": {
         "id": 12,
         "lon": 12.1189179,
         "lat": 54.0886461,
         "firmname": "Café Stadtkind",
         "description": "DAS Wohnzimmer der KTV. Wir stehen für Burger, Fladenbrote, Cocktails und Gin. Aber auch Rum, Whisk(e)y, Tequila, Obstbrände, Mezcal....."
+    },
+    "5": {
+        "id": 8,
+        "lon": 11.3996764,
+        "lat": 53.638031,
+        "firmname": "MOEgrafie Fotografie",
+        "description": "Wir sind ein Fotografenteam und wir stehen für moderne und lebendige Fotografie"
     },
     "6": {
         "id": 15,
@@ -1055,5 +1055,47 @@
         "lat": 54.372995,
         "firmname": "AHOI! Rügen Bade- und Erlebniswelt",
         "description": "AHOI! RÜGEN, die Bade- und Saunawelt im Seepark Sellin, bietet Badefreuden für die ganze Familie – und das zu jeder Jahreszeit!"
+    },
+    "151": {
+        "id": 175,
+        "lon": 12.102299,
+        "lat": 54.0808245,
+        "firmname": "Restaurant Klock 8",
+        "description": "Das Restaurant \"Klock 8\" am Barnsdorfer Wald erwartet Dich mit einem Gastraum vom 100 Personen, Wintergarten und sonnigen Außenbereich."
+    },
+    "152": {
+        "id": 176,
+        "lon": 13.4655637,
+        "lat": 53.8249677,
+        "firmname": "WEINGESTEIN",
+        "description": "Durch Drehen und wenden, durch fühlen und ausschauen entsteht ein Gedanke aus einem Unikat der Natur ein Unikat für uns zu erschaffen."
+    },
+    "153": {
+        "id": 177,
+        "lon": 12.6841435,
+        "lat": 54.4362738,
+        "firmname": "Sports-Line-Dost",
+        "description": "Sports-Line-Dost im Ostseeheilbad Zingst\r\n  Sportliche Mode für Damen und Herren"
+    },
+    "154": {
+        "id": 174,
+        "lon": 11.23789405,
+        "lat": 53.87428055,
+        "firmname": "Alpakahof am Iserberg",
+        "description": "Alpakawanderung durch die Landschaft in Nordwestmecklenburg"
+    },
+    "155": {
+        "id": 178,
+        "lon": 13.42595022785,
+        "lat": 54.41250445,
+        "firmname": "Parkhotel Rügen Betriebs GmbH",
+        "description": "4 Sterne Parkhotel Rügen - Hotel - Restaurant - Bar - Wellnessbereich"
+    },
+    "156": {
+        "id": 180,
+        "lon": 11.9385405,
+        "lat": 53.824039,
+        "firmname": "Naturheilpraxis und Massageatelier Madlen Knaack",
+        "description": "im Kloster Rühn und NaturheilGut Karow\r\nganzheitliche Massagen/Körperarbeit, \r\nPflanzenheilkunde, Naturheilverfahren und \r\nWundbehandlungen"
     }
 }

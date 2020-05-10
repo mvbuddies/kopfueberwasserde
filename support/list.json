@@ -44,17 +44,6 @@
         "giftcardurl": "nan"
     },
     "4": {
-        "id": 8,
-        "firmname": "MOEgrafie Fotografie",
-        "category": "Dienstleistung",
-        "description": "Wir sind ein Fotografenteam und wir stehen für moderne und lebendige Fotografie",
-        "longdescription": "Ich bin ein \"Menschenfotograf\" und begleite seit 20 Jahren tolle Familien, Paare und Unternehmen mit meinen Kameras <3. Man kann bei uns seit jeher Gutscheine für tolle Photoshootings kaufen und diese dann in unvergessliche Fotos und \"MOEmente\" eintauschen. ",
-        "address": "Clara Zetkin Strasse 51a, 19288 Schwerin",
-        "firmurl": "https://www.moegrafie.de",
-        "firmimg": "moegrafie-fotografie.jpg",
-        "giftcardurl": "nan"
-    },
-    "5": {
         "id": 12,
         "firmname": "Café Stadtkind",
         "category": "Gastronomie",
@@ -64,6 +53,17 @@
         "firmurl": "http://www.stadtkind-hro.de",
         "firmimg": "cafe-stadtkind.jpg",
         "giftcardurl": "nan"
+    },
+    "5": {
+        "id": 8,
+        "firmname": "MOEgrafie Fotografie",
+        "category": "Dienstleistung",
+        "description": "Wir sind ein Fotografenteam und wir stehen für moderne und lebendige Fotografie",
+        "longdescription": "Ich bin ein \"Menschenfotograf\" und begleite seit 20 Jahren tolle Familien, Paare und Unternehmen mit meinen Kameras <3. Man kann bei uns seit jeher Gutscheine für tolle Photoshootings kaufen und diese dann in unvergessliche Fotos und \"MOEmente\" eintauschen.",
+        "address": "Clara Zetkin Strasse 51a, 19288 Ludwigslust",
+        "firmurl": "https://www.moegrafie.de",
+        "firmimg": "moegrafie-fotografie.jpg",
+        "giftcardurl": "http://www.moegrafie.de/shop"
     },
     "6": {
         "id": 15,
@@ -451,17 +451,6 @@
         "giftcardurl": "nan"
     },
     "41": {
-        "id": 63,
-        "firmname": "Handmade by Mona ",
-        "category": "Einzelhandel",
-        "description": "Handmade by mona ist ein Einzelunternehmen mit Sitz in Laage. Bei mir findet ihr bestickte Taschen, Kinderbekleidung, personalisierte Geburtsgeschenke",
-        "longdescription": "Handmade by mona ist mein ein und alles. Ich liebe meinen Job denn das nähen ist seid 2013 eine Leidenschaft. Diese momentane Situation ist einfach sehr schwierig da ich den Laden am 27.04.2020 erst 1 Jahr habe. Aber den Kopf in den Sand stecken ist keine Option und daher wird jede Chance genutzt um noch bekannter zu werden und damit man einfach nicht vergessen wird. \n\nBei mir findet ihr Hochwertig bestickte Taschen für Damen in drei größen, Kinder-und Babybekleidung von 56-152: Pumpis, Hoodies, Strampler, Ballonkleider uwm, vereinzeln auch Damensachen z.b. XXL Halstücher, personalisierte Geburtsgeschenke, Accessiores uwm.\n\nVieles ist schon im Onlineshop eingestellt: http://www.handmade-by-mona.de \nAber auch auf Facebook kann man mir folgen: http://www.facebook.com/handmadebymona \n\nMeine Gutscheine sind 3 Jahre gültig und können vorort in Laage eingelöst werden oder per Mail: monas-kinderwelt@gmx.de \n\nZusammen schaffen wir das.",
-        "address": "Bressener Str. 13a , 18299 Rostock",
-        "firmurl": "http://www.handmade-by-mona.de",
-        "firmimg": "handmade-by-mona.jpg",
-        "giftcardurl": "nan"
-    },
-    "42": {
         "id": 64,
         "firmname": "CleverPrävent®",
         "category": "Dienstleistung",
@@ -472,7 +461,7 @@
         "firmimg": "cleverpravent-r.jpg",
         "giftcardurl": "nan"
     },
-    "43": {
+    "42": {
         "id": 66,
         "firmname": "Compagnie de Comédie in der BÜHNE 602",
         "category": "Unterhaltung",
@@ -483,7 +472,7 @@
         "firmimg": "compagnie-de-comedie-in-der-buhne-602.jpg",
         "giftcardurl": "nan"
     },
-    "44": {
+    "43": {
         "id": 67,
         "firmname": "dasWerbeStudio Langwasser",
         "category": "Dienstleistung",
@@ -494,7 +483,7 @@
         "firmimg": "daswerbestudio-langwasser.jpg",
         "giftcardurl": "nan"
     },
-    "45": {
+    "44": {
         "id": 68,
         "firmname": "Entertain Your Brain",
         "category": "Unterhaltung",
@@ -505,7 +494,7 @@
         "firmimg": "entertain-your-brain.png",
         "giftcardurl": "nan"
     },
-    "46": {
+    "45": {
         "id": 80,
         "firmname": "Gaststätte Marktkrug",
         "category": "Gastronomie",
@@ -516,7 +505,7 @@
         "firmimg": "gaststatte-marktkrug.png",
         "giftcardurl": "nan"
     },
-    "47": {
+    "46": {
         "id": 81,
         "firmname": "Goldschmiede C. Stabenow Handelsgesellschaft mbH",
         "category": "Einzelhandel",
@@ -527,7 +516,7 @@
         "firmimg": "goldschmiede-c-stabenow-handelsgesellschaft-mbh.jpg",
         "giftcardurl": "nan"
     },
-    "48": {
+    "47": {
         "id": 70,
         "firmname": "dc Teamsport Nord GmbH",
         "category": "Einzelhandel",
@@ -538,7 +527,7 @@
         "firmimg": "dc-teamsport-nord-gmbh.gif",
         "giftcardurl": "nan"
     },
-    "49": {
+    "48": {
         "id": 71,
         "firmname": "SIEGL homestories Interieur",
         "category": "Einzelhandel",
@@ -549,7 +538,7 @@
         "firmimg": "siegl-homestories-interieur.png",
         "giftcardurl": "nan"
     },
-    "50": {
+    "49": {
         "id": 72,
         "firmname": "Frau Feenstaub",
         "category": "Dienstleistung",
@@ -560,7 +549,7 @@
         "firmimg": "frau-feenstaub.jpg",
         "giftcardurl": "nan"
     },
-    "51": {
+    "50": {
         "id": 76,
         "firmname": "Gutes aus Neuenrost",
         "category": "Andere",
@@ -571,7 +560,7 @@
         "firmimg": "gutes-aus-neuenrost.jpg",
         "giftcardurl": "nan"
     },
-    "52": {
+    "51": {
         "id": 73,
         "firmname": "Friseursalon Biestow",
         "category": "Dienstleistung",
@@ -582,7 +571,7 @@
         "firmimg": "friseursalon-biestow.png",
         "giftcardurl": "https://app.atento.me/merchants/3663?in_frame=false&locale=de"
     },
-    "53": {
+    "52": {
         "id": 78,
         "firmname": "Haarmanufaktur",
         "category": "Dienstleistung",
@@ -593,7 +582,7 @@
         "firmimg": "haarmanufaktur.png",
         "giftcardurl": "https://app.atento.me/merchants/3666?in_frame=false&locale=de"
     },
-    "54": {
+    "53": {
         "id": 75,
         "firmname": "Gästehaus Zum Weißen Haus",
         "category": "Andere",
@@ -604,7 +593,7 @@
         "firmimg": "gastehaus-zum-weissen-haus.jpeg",
         "giftcardurl": "http://app.atento.me/merchants/5157-gaestehaus-zum-weissen-haus"
     },
-    "55": {
+    "54": {
         "id": 82,
         "firmname": "Haltestelle Bekleidungsgeschäft",
         "category": "Einzelhandel",
@@ -615,7 +604,7 @@
         "firmimg": "haltestelle-bekleidungsgeschaft.jpg",
         "giftcardurl": "nan"
     },
-    "56": {
+    "55": {
         "id": 83,
         "firmname": "Lucky Rebel & Moonlight",
         "category": "Einzelhandel",
@@ -626,7 +615,7 @@
         "firmimg": "lucky-rebel-moonlight.jpg",
         "giftcardurl": "nan"
     },
-    "57": {
+    "56": {
         "id": 84,
         "firmname": "Hautsache",
         "category": "Dienstleistung",
@@ -637,7 +626,7 @@
         "firmimg": "hautsache.jpg",
         "giftcardurl": "nan"
     },
-    "58": {
+    "57": {
         "id": 87,
         "firmname": "Helgas Kitchen",
         "category": "Gastronomie",
@@ -648,7 +637,7 @@
         "firmimg": "helgas-kitchen.jpg",
         "giftcardurl": "nan"
     },
-    "59": {
+    "58": {
         "id": 89,
         "firmname": "Les Bummms Boys gbr",
         "category": "Unterhaltung",
@@ -659,7 +648,7 @@
         "firmimg": "les-bummms-boys-gbr.jpg",
         "giftcardurl": "nan"
     },
-    "60": {
+    "59": {
         "id": 91,
         "firmname": "Kosmetikstudio Zeitblüte",
         "category": "Dienstleistung",
@@ -670,7 +659,7 @@
         "firmimg": "kosmetikstudio-zeitblute.jpg",
         "giftcardurl": "nan"
     },
-    "61": {
+    "60": {
         "id": 92,
         "firmname": "Kreuzfahrt erleben",
         "category": "Einzelhandel",
@@ -681,7 +670,7 @@
         "firmimg": "kreuzfahrt-erleben.jpg",
         "giftcardurl": "nan"
     },
-    "62": {
+    "61": {
         "id": 93,
         "firmname": "optik-krawczyk ",
         "category": "Einzelhandel",
@@ -692,7 +681,7 @@
         "firmimg": "optik-krawczyk.jpg",
         "giftcardurl": "nan"
     },
-    "63": {
+    "62": {
         "id": 86,
         "firmname": "Kleeblatt Blumenwerkstatt",
         "category": "Einzelhandel",
@@ -703,7 +692,7 @@
         "firmimg": "kleeblatt-blumenwerkstatt.png",
         "giftcardurl": "http://app.atento.me/merchants/5162-kleeblatt-blumenwerkstatt"
     },
-    "64": {
+    "63": {
         "id": 94,
         "firmname": "Musikhaus Schwerin",
         "category": "Einzelhandel",
@@ -714,7 +703,7 @@
         "firmimg": "musikhaus-schwerin.jpg",
         "giftcardurl": "nan"
     },
-    "65": {
+    "64": {
         "id": 95,
         "firmname": "Restaurant & Café Herzogliche Dampfwäscherei ",
         "category": "Gastronomie",
@@ -725,7 +714,7 @@
         "firmimg": "restaurant-cafe-herzogliche-dampfwascherei.jpg",
         "giftcardurl": "nan"
     },
-    "66": {
+    "65": {
         "id": 97,
         "firmname": "Mode Farbe Stil, Sybille Schuldt",
         "category": "Einzelhandel",
@@ -736,7 +725,7 @@
         "firmimg": "mode-farbe-stil-sybille-schuldt.jpg",
         "giftcardurl": "nan"
     },
-    "67": {
+    "66": {
         "id": 98,
         "firmname": "Pesto Peter",
         "category": "Gastronomie",
@@ -747,7 +736,7 @@
         "firmimg": "pesto-peter.png",
         "giftcardurl": "nan"
     },
-    "68": {
+    "67": {
         "id": 101,
         "firmname": "WOHNRAUM-Manufaktur EIKBOOM",
         "category": "Dienstleistung",
@@ -758,7 +747,7 @@
         "firmimg": "wohnraum-manufaktur-eikboom.jpg",
         "giftcardurl": "nan"
     },
-    "69": {
+    "68": {
         "id": 103,
         "firmname": "Supreme Surf - Beachhouse",
         "category": "Gastronomie",
@@ -769,18 +758,7 @@
         "firmimg": "supreme-surf-beachhouse.jpg",
         "giftcardurl": "nan"
     },
-    "70": {
-        "id": 96,
-        "firmname": "Mexikanisches Restaurant \"Salsa Latino\"",
-        "category": "Gastronomie",
-        "description": "Mexikanisches Restaurant",
-        "longdescription": "Wir haben eine sehr leckere mexikanische Küche und mit Gutscheinen, die nach Öffnung eingelöst werden, haben wir jetzt eine große Hilfe. Vielen Dank.",
-        "address": "Wylichstraße 2a, 18609 Rostock",
-        "firmurl": "",
-        "firmimg": "mexikanisches-restaurant-salsa-latino.jpg",
-        "giftcardurl": "https://app.atento.me/merchants/3931?in_frame=false&locale=de"
-    },
-    "71": {
+    "69": {
         "id": 102,
         "firmname": "SCHUHHAUS HÖPPNER Inh. Andreas Höppner e.K.",
         "category": "Einzelhandel",
@@ -791,7 +769,7 @@
         "firmimg": "schuhhaus-hoppner-inh-andreas-hoppner-e-k.jpg",
         "giftcardurl": "http://app.atento.me/merchants/4735-schuhhaus-hoeppner-inh-andreas-hoeppner-e-k"
     },
-    "72": {
+    "70": {
         "id": 104,
         "firmname": "Ristorante Colosseo",
         "category": "Gastronomie",
@@ -802,7 +780,18 @@
         "firmimg": "ristorante-colosseo.jpg",
         "giftcardurl": "https://app.atento.me/merchants/5305-ristorante-colosseo"
     },
-    "73": {
+    "71": {
+        "id": 96,
+        "firmname": "Mexikanisches Restaurant \"Salsa Latino\"",
+        "category": "Gastronomie",
+        "description": "Mexikanisches Restaurant",
+        "longdescription": "Wir haben eine sehr leckere mexikanische Küche und mit Gutscheinen, die nach Öffnung eingelöst werden, haben wir jetzt eine große Hilfe. Vielen Dank.",
+        "address": "Wylichstraße 2a, 18609 Rostock",
+        "firmurl": "",
+        "firmimg": "mexikanisches-restaurant-salsa-latino.jpg",
+        "giftcardurl": "https://app.atento.me/merchants/3931?in_frame=false&locale=de"
+    },
+    "72": {
         "id": 106,
         "firmname": "Rostocker Nachtwächter",
         "category": "Unterhaltung",
@@ -813,7 +802,7 @@
         "firmimg": "rostocker-nachtwachter.jpg",
         "giftcardurl": "nan"
     },
-    "74": {
+    "73": {
         "id": 107,
         "firmname": "Restaurant Käthe",
         "category": "Gastronomie",
@@ -824,7 +813,7 @@
         "firmimg": "restaurant-kathe.png",
         "giftcardurl": "nan"
     },
-    "75": {
+    "74": {
         "id": 108,
         "firmname": "Restaurant Lucullus",
         "category": "Gastronomie",
@@ -835,7 +824,7 @@
         "firmimg": "restaurant-lucullus.jpg",
         "giftcardurl": "nan"
     },
-    "76": {
+    "75": {
         "id": 110,
         "firmname": "Spielkartenfabrik Museumswerkstatt Stralsund",
         "category": "Andere",
@@ -846,7 +835,7 @@
         "firmimg": "spielkartenfabrik-museumswerkstatt-stralsund.jpg",
         "giftcardurl": "nan"
     },
-    "77": {
+    "76": {
         "id": 112,
         "firmname": "Sequential Art - KTV Kiezbuchhandlung",
         "category": "Einzelhandel",
@@ -857,7 +846,7 @@
         "firmimg": "sequential-art-ktv-kiezbuchhandlung.png",
         "giftcardurl": "nan"
     },
-    "78": {
+    "77": {
         "id": 113,
         "firmname": "VEIS - Eiscafé & Snackbar ",
         "category": "Gastronomie",
@@ -868,7 +857,7 @@
         "firmimg": "veis-eiscafe-snackbar.jpeg",
         "giftcardurl": "nan"
     },
-    "79": {
+    "78": {
         "id": 114,
         "firmname": "Wupatki - Der Laden mit den schönen Spielen",
         "category": "Einzelhandel",
@@ -879,7 +868,7 @@
         "firmimg": "wupatki-der-laden-mit-den-schonen-spielen.jpg",
         "giftcardurl": "nan"
     },
-    "80": {
+    "79": {
         "id": 115,
         "firmname": "FELSHELDEN",
         "category": "Andere",
@@ -890,7 +879,7 @@
         "firmimg": "felshelden.jpg",
         "giftcardurl": "nan"
     },
-    "81": {
+    "80": {
         "id": 111,
         "firmname": "Rügener Insel Genuß",
         "category": "Einzelhandel",
@@ -901,7 +890,7 @@
         "firmimg": "rugener-insel-genuss.jpg",
         "giftcardurl": "http://app.atento.me/merchants/4720-ruegener-insel-genuss"
     },
-    "82": {
+    "81": {
         "id": 118,
         "firmname": "YOGABATI",
         "category": "Andere",
@@ -912,7 +901,7 @@
         "firmimg": "yogabati.jpg",
         "giftcardurl": "nan"
     },
-    "83": {
+    "82": {
         "id": 119,
         "firmname": "Café A Rebours ",
         "category": "Gastronomie",
@@ -923,7 +912,7 @@
         "firmimg": "cafe-a-rebours.jpg",
         "giftcardurl": "nan"
     },
-    "84": {
+    "83": {
         "id": 120,
         "firmname": "Ostseesalzgrotte und Naturheilpraxis Martina Haase",
         "category": "Dienstleistung",
@@ -934,7 +923,7 @@
         "firmimg": "ostseesalzgrotte-und-naturheilpraxis-martina-haase.jpg",
         "giftcardurl": "nan"
     },
-    "85": {
+    "84": {
         "id": 121,
         "firmname": "Zierart - Textildruck Rostock ",
         "category": "Dienstleistung",
@@ -945,7 +934,7 @@
         "firmimg": "zierart-textildruck-rostock.jpg",
         "giftcardurl": "nan"
     },
-    "86": {
+    "85": {
         "id": 122,
         "firmname": "Kerstin Zech ~ Bewusst in  Form",
         "category": "Andere",
@@ -956,7 +945,7 @@
         "firmimg": "kerstin-zech-bewusst-in-form.jpg",
         "giftcardurl": "nan"
     },
-    "87": {
+    "86": {
         "id": 136,
         "firmname": "Restaurant im Kamp-Theater & Bar Abgedreht",
         "category": "Gastronomie",
@@ -967,7 +956,7 @@
         "firmimg": "restaurant-im-kamp-theater-bar-abgedreht.jpg",
         "giftcardurl": "nan"
     },
-    "88": {
+    "87": {
         "id": 123,
         "firmname": "Mancala Spielwaren GmbH",
         "category": "Einzelhandel",
@@ -978,7 +967,7 @@
         "firmimg": "mancala-spielwaren-gmbh.png",
         "giftcardurl": "https://app.atento.me/merchants/3155?in_frame=false&locale=de"
     },
-    "89": {
+    "88": {
         "id": 126,
         "firmname": "Brasserie Betreibergesellschaft mbH",
         "category": "Gastronomie",
@@ -989,7 +978,7 @@
         "firmimg": "brasserie-betreibergesellschaft-mbh.jpg",
         "giftcardurl": "nan"
     },
-    "90": {
+    "89": {
         "id": 127,
         "firmname": "Kofahl Reisen",
         "category": "Dienstleistung",
@@ -1000,7 +989,7 @@
         "firmimg": "kofahl-reisen.jpg",
         "giftcardurl": "nan"
     },
-    "91": {
+    "90": {
         "id": 128,
         "firmname": "Kostümverleih Klamöttchen",
         "category": "Dienstleistung",
@@ -1011,18 +1000,7 @@
         "firmimg": "kostumverleih-klamottchen.jpg",
         "giftcardurl": "nan"
     },
-    "92": {
-        "id": 129,
-        "firmname": "Uns Tüch Moden & Schuhe ",
-        "category": "Einzelhandel",
-        "description": "Wir handeln seit 26 Jahren in Born a. Darß mit Damen - und Herrenmode sowie Schuhen unterschiedlicher Marken so z. B. bei den Damen Betty Barclay, R..",
-        "longdescription": "Wir handeln seit 26 Jahren mit Damen- und Herrenmode sowie Schuhen unterschiedlicher Marken in Born a.Darß.",
-        "address": "Bäderstrasse 7, 18375 Rostock",
-        "firmurl": "https://www.mode-darss.de",
-        "firmimg": "uns-tuch-moden-schuhe.jpg",
-        "giftcardurl": "nan"
-    },
-    "93": {
+    "91": {
         "id": 137,
         "firmname": "MAENNERHOBBY Brennerei",
         "category": "Einzelhandel",
@@ -1033,7 +1011,7 @@
         "firmimg": "maennerhobby-brennerei.jpg",
         "giftcardurl": "nan"
     },
-    "94": {
+    "92": {
         "id": 77,
         "firmname": "Haargalerie Rostock",
         "category": "Dienstleistung",
@@ -1044,7 +1022,7 @@
         "firmimg": "haargalerie-rostock.png",
         "giftcardurl": "https://app.atento.me/merchants/2420?in_frame=false&locale=de"
     },
-    "95": {
+    "93": {
         "id": 154,
         "firmname": "Jolly Roger Rostock",
         "category": "Andere",
@@ -1055,7 +1033,18 @@
         "firmimg": "Screenshot_20200412-124131.png",
         "giftcardurl": "https://app.atento.me/merchants/5367-jolly-roger-rostock"
     },
-    "96": {
+    "94": {
+        "id": 129,
+        "firmname": "Uns Tüch Moden & Schuhe ",
+        "category": "Einzelhandel",
+        "description": "Wir handeln seit 26 Jahren in Born a. Darß mit Damen - und Herrenmode sowie Schuhen unterschiedlicher Marken so z. B. bei den Damen Betty Barclay, R..",
+        "longdescription": "Wir handeln seit 26 Jahren mit Damen- und Herrenmode sowie Schuhen unterschiedlicher Marken in Born a.Darß.",
+        "address": "Bäderstrasse 7, 18375 Rostock",
+        "firmurl": "https://www.mode-darss.de",
+        "firmimg": "uns-tuch-moden-schuhe.jpg",
+        "giftcardurl": "nan"
+    },
+    "95": {
         "id": 131,
         "firmname": "Schiemannsgarn",
         "category": "Einzelhandel",
@@ -1066,7 +1055,7 @@
         "firmimg": "schiemannsgarn.jpg",
         "giftcardurl": "nan"
     },
-    "97": {
+    "96": {
         "id": 132,
         "firmname": "KÏS Store",
         "category": "Einzelhandel",
@@ -1077,7 +1066,7 @@
         "firmimg": "kis-store.jpg",
         "giftcardurl": "nan"
     },
-    "98": {
+    "97": {
         "id": 133,
         "firmname": "Alte Büdnerei Kühlungsborn",
         "category": "Gastronomie",
@@ -1088,7 +1077,7 @@
         "firmimg": "alte-budnerei-kuhlungsborn.jpg",
         "giftcardurl": "nan"
     },
-    "99": {
+    "98": {
         "id": 134,
         "firmname": "Optik Sagawe in Reutershagen",
         "category": "Einzelhandel",
@@ -1099,7 +1088,7 @@
         "firmimg": "optik-sagawe-in-reutershagen.jpg",
         "giftcardurl": "nan"
     },
-    "100": {
+    "99": {
         "id": 135,
         "firmname": "VIP Photography",
         "category": "Dienstleistung",
@@ -1110,7 +1099,7 @@
         "firmimg": "vip-photography.jpg",
         "giftcardurl": "nan"
     },
-    "101": {
+    "100": {
         "id": 139,
         "firmname": "Segel- und Motorbootschule Rückenwind",
         "category": "Dienstleistung",
@@ -1121,7 +1110,7 @@
         "firmimg": "segel-und-motorbootschule-ruckenwind.jpg",
         "giftcardurl": "nan"
     },
-    "102": {
+    "101": {
         "id": 141,
         "firmname": "Kosmetikstudio Ines Suhrbier",
         "category": "Dienstleistung",
@@ -1132,7 +1121,7 @@
         "firmimg": "kosmetikstudio-ines-suhrbier.jpg",
         "giftcardurl": "nan"
     },
-    "103": {
+    "102": {
         "id": 144,
         "firmname": "Salzmanufaktur MV",
         "category": "Dienstleistung",
@@ -1143,18 +1132,7 @@
         "firmimg": "salzmanufaktur-mv.jpg",
         "giftcardurl": "nan"
     },
-    "104": {
-        "id": 145,
-        "firmname": "PRÜNKIST",
-        "category": "Einzelhandel",
-        "description": "Wolle,Garne,Zubehör- Wir bieten alles, um Kreativität ausleben zu können. ",
-        "longdescription": "216 qm \"Baumarkt für Frauen\"- mittlerweile sind aber auch viele kreative Männer unsere Kunden. Wir fürhen hochwertige Wollqualitäten und Garne zur Weiterverarbeitung für Lieblingsstücke vom Pulloverbis zur Macramé-Blumenampel. Patchwork- und Dekostoffe, Handarbeitsstoffe und alles, was an Kurzwaren dazugehört, findet mann bei uns; www.pruenkist.de gibt einen Eindruck. Wir sind seit 27 Jahren am Markt und seit 1998 auf der nördlichen RÜCKseite der Langen Straße zu finden und werden auch diese Krise überstehen- gemeinsam mit allen, die die Hände nicht stillhalten können!",
-        "address": "Lange Str. 9-11 Rückseite, 18055 Rostock",
-        "firmurl": "https://pruenkist.de",
-        "firmimg": "prunkist.jpg",
-        "giftcardurl": "nan"
-    },
-    "105": {
+    "103": {
         "id": 146,
         "firmname": "quadrosdesign",
         "category": "Dienstleistung",
@@ -1165,7 +1143,7 @@
         "firmimg": "quadrosdesign.jpg",
         "giftcardurl": "nan"
     },
-    "106": {
+    "104": {
         "id": 143,
         "firmname": "KlangKokon",
         "category": "Dienstleistung",
@@ -1176,7 +1154,7 @@
         "firmimg": "klangkokon.jpg",
         "giftcardurl": "http://app.atento.me/merchants/4727-klangkokon"
     },
-    "107": {
+    "105": {
         "id": 142,
         "firmname": "Seefahrtschule Hafen Rostock",
         "category": "Dienstleistung",
@@ -1187,7 +1165,7 @@
         "firmimg": "seefahrtschule-hafen-rostock.png",
         "giftcardurl": "http://app.atento.me/merchants/4731-seefahrtschule-hafen-rostock"
     },
-    "108": {
+    "106": {
         "id": 149,
         "firmname": "DIE SCHRITTEMACHER ",
         "category": "Dienstleistung",
@@ -1198,7 +1176,7 @@
         "firmimg": "die-schrittemacher.png",
         "giftcardurl": "nan"
     },
-    "109": {
+    "107": {
         "id": 151,
         "firmname": "Optik Sagawe",
         "category": "Einzelhandel",
@@ -1209,7 +1187,7 @@
         "firmimg": "optik-sagawe.jpg",
         "giftcardurl": "nan"
     },
-    "110": {
+    "108": {
         "id": 152,
         "firmname": "Wohnflair.com Bärbel Lau ",
         "category": "Einzelhandel",
@@ -1220,7 +1198,7 @@
         "firmimg": "wohnflair-com-barbel-lau.png",
         "giftcardurl": "nan"
     },
-    "111": {
+    "109": {
         "id": 153,
         "firmname": "Optik Sagawe im Rostocker Hof",
         "category": "Einzelhandel",
@@ -1231,7 +1209,7 @@
         "firmimg": "optik-sagawe-im-rostocker-hof.jpg",
         "giftcardurl": "nan"
     },
-    "112": {
+    "110": {
         "id": 54,
         "firmname": "Cado's Café & Crêperie",
         "category": "Gastronomie",
@@ -1242,7 +1220,7 @@
         "firmimg": "cados-cafe-creperie.JPG",
         "giftcardurl": "https://app.atento.me/merchants/2421?in_frame=false&locale=de"
     },
-    "113": {
+    "111": {
         "id": 25,
         "firmname": "BACKFISCH-UDO",
         "category": "Gastronomie",
@@ -1250,10 +1228,10 @@
         "longdescription": "Wir liegen seit 1993 am Alten Strom in Warnemünde und verkaufen Backfische ohne Beine mit Schlafzimmer freundlicher Knobisoße, für nur leicht schwebende Bettdecke. Auch an Rollmöpsen , links oder rechts gerollt, Bismarck lieblich oder sauer mangelt es nicht.\r\nWarme und kalte Fischspezialitäten in frisch gebackenen Brötchen",
         "address": "Alter Strom Kutter, 18119 Rostock",
         "firmurl": "",
-        "firmimg": "backfisch-udo.png",
+        "firmimg": "Logo_B_U_1.jpg",
         "giftcardurl": "https://app.atento.me/merchants/2926?in_frame=false&locale=de"
     },
-    "114": {
+    "112": {
         "id": 55,
         "firmname": "Café M",
         "category": "Gastronomie",
@@ -1264,7 +1242,7 @@
         "firmimg": "cafe-m.jpg",
         "giftcardurl": "https://app.atento.me/merchants/3376?in_frame=false&locale=de"
     },
-    "115": {
+    "113": {
         "id": 60,
         "firmname": "Coffee-Bike Rostock",
         "category": "Gastronomie",
@@ -1275,7 +1253,7 @@
         "firmimg": "coffee-bike-rostock.jpg",
         "giftcardurl": "https://app.atento.me/merchants/3664?in_frame=false&locale=de"
     },
-    "116": {
+    "114": {
         "id": 105,
         "firmname": "Tally Weijl Rostock",
         "category": "Einzelhandel",
@@ -1286,7 +1264,7 @@
         "firmimg": "tally-weijl-rostock.jpg",
         "giftcardurl": "https://app.atento.me/merchants/3917?in_frame=false&locale=de"
     },
-    "117": {
+    "115": {
         "id": 50,
         "firmname": "Waldcafé & Biergarten Meyers Hausstelle",
         "category": "Gastronomie",
@@ -1297,18 +1275,7 @@
         "firmimg": "waldcafe-biergarten-meyers-hausstelle.jpg",
         "giftcardurl": "https://app.atento.me/merchants/3937?in_frame=false&locale=de"
     },
-    "118": {
-        "id": 65,
-        "firmname": "COAAST SCHALLPLATTEN CAFÈ",
-        "category": "Einzelhandel",
-        "description": "Coaast ist ein Schallplattenladen mit integriertem Cafè",
-        "longdescription": "zu erwerben sind Gutscheine für das gesamte Warensortiment sowie den Gastronomiebereich. Die Gutscheine sind unbegrenzt gültig und werden mit Rechnung portofrei versandt.",
-        "address": "Am Leuchturm 4, 18119 Rostock",
-        "firmurl": "",
-        "firmimg": "coaast-schallplatten-cafe.jpg",
-        "giftcardurl": "https://app.atento.me/merchants/3941?in_frame=false&locale=de"
-    },
-    "119": {
+    "116": {
         "id": 33,
         "firmname": "Pizza Hut Rostock",
         "category": "Gastronomie",
@@ -1319,7 +1286,18 @@
         "firmimg": "pizza-hut-rostock.jpg",
         "giftcardurl": "https://app.atento.me/merchants/3969?in_frame=false&locale=de"
     },
-    "120": {
+    "117": {
+        "id": 65,
+        "firmname": "COAAST SCHALLPLATTEN CAFÈ",
+        "category": "Einzelhandel",
+        "description": "Coaast ist ein Schallplattenladen mit integriertem Cafè",
+        "longdescription": "zu erwerben sind Gutscheine für das gesamte Warensortiment sowie den Gastronomiebereich. Die Gutscheine sind unbegrenzt gültig und werden mit Rechnung portofrei versandt.",
+        "address": "Am Leuchturm 4, 18119 Rostock",
+        "firmurl": "",
+        "firmimg": "coaast-schallplatten-cafe.jpg",
+        "giftcardurl": "https://app.atento.me/merchants/3941?in_frame=false&locale=de"
+    },
+    "118": {
         "id": 99,
         "firmname": "Nordcamp",
         "category": "Einzelhandel",
@@ -1330,18 +1308,7 @@
         "firmimg": "nordcamp.jpg",
         "giftcardurl": "http://app.atento.me/merchants/4726-nordcamp"
     },
-    "121": {
-        "id": 6,
-        "firmname": "Advent Advent",
-        "category": "Einzelhandel",
-        "description": "Advent Advent - der kleine Weihnachtsmarkt",
-        "longdescription": "Hier gibt es das ganze Jahr weihnachtliche Artikel und Leuchtsterne.",
-        "address": "Industriestrukturen. 10, 18069 Rostock",
-        "firmurl": "",
-        "firmimg": "advent-advent.jpg",
-        "giftcardurl": "http://app.atento.me/merchants/4738-advent-advent"
-    },
-    "122": {
+    "119": {
         "id": 117,
         "firmname": "Zwanzig12 Am Strom",
         "category": "Gastronomie",
@@ -1352,7 +1319,7 @@
         "firmimg": "zwanzig12-am-strom.jpg",
         "giftcardurl": "https://www.yovite.com/Restaurant-Gutschein-R-46803227.html?REF=REST"
     },
-    "123": {
+    "120": {
         "id": 163,
         "firmname": "Restaurant Bellevue Bad Doberan",
         "category": "Gastronomie",
@@ -1363,7 +1330,7 @@
         "firmimg": "2020-04-16_10-19-40_skylinekleinklein.png",
         "giftcardurl": "https://app.atento.me/merchants/5542-restaurant-bellevue-bad-doberan"
     },
-    "124": {
+    "121": {
         "id": 158,
         "firmname": "Küstenliebe",
         "category": "Einzelhandel",
@@ -1374,7 +1341,7 @@
         "firmimg": "2020-04-15_13-29-37_IMG_5471.png",
         "giftcardurl": "https://kuestenliebeshop.de/products/geschenkgutschein"
     },
-    "125": {
+    "122": {
         "id": 160,
         "firmname": "Salon Frisko",
         "category": "Dienstleistung",
@@ -1385,18 +1352,18 @@
         "firmimg": "2020-04-16_10-10-54_skylinekleinklein.png",
         "giftcardurl": "http://app.atento.me/merchants/5540-salon-frisko"
     },
-    "126": {
-        "id": 157,
-        "firmname": "Fischuppen GbR",
+    "123": {
+        "id": 6,
+        "firmname": "Advent Advent",
         "category": "Einzelhandel",
-        "description": "Ihr Laden für Regionales. Handgefertigtes, Maritimes aus der Region.",
-        "longdescription": "Bei uns findet ihr Produkte von Menschen aus der Region die außergewöhnliche individuelle maritime Produkte fertigen. Außerdem haben wir geilen Küstenstoff zum Schnökern, Tragen und gut finden.\r\nSchaut gern mal rein.\r\nOnline für Euch erreichbar.",
-        "address": "Kirchweg 38, 18565 Hiddensee OT Kloster",
-        "firmurl": "http://www.fischuppen.de",
-        "firmimg": "2020-04-15_09-37-51_fischuppen_logo_icon_schrift.jpg",
-        "giftcardurl": "https://app.atento.me/merchants/5694-fischuppen-gbr"
+        "description": "Advent Advent - der kleine Weihnachtsmarkt",
+        "longdescription": "Hier gibt es das ganze Jahr weihnachtliche Artikel und Leuchtsterne.",
+        "address": "Industriestrukturen. 10, 18069 Rostock",
+        "firmurl": "",
+        "firmimg": "advent-advent.jpg",
+        "giftcardurl": "http://app.atento.me/merchants/4738-advent-advent"
     },
-    "127": {
+    "124": {
         "id": 168,
         "firmname": "Yogaschule Christian Bender",
         "category": "Dienstleistung",
@@ -1407,7 +1374,7 @@
         "firmimg": "2020-04-17_06-50-52_logo_rostock-yoga_final.jpg",
         "giftcardurl": "https://app.atento.me/merchants/5700-yogaschule-christian-bender"
     },
-    "128": {
+    "125": {
         "id": 165,
         "firmname": "Tauchshop Rostock",
         "category": "Einzelhandel",
@@ -1418,7 +1385,7 @@
         "firmimg": "2020-04-16_11-40-42_Bild TS HRO.jpg",
         "giftcardurl": "https://app.atento.me/merchants/5697-tauchshop-rostock"
     },
-    "129": {
+    "126": {
         "id": 167,
         "firmname": "Brötchenexpress Rostock",
         "category": "Gastronomie",
@@ -1429,7 +1396,18 @@
         "firmimg": "2020-04-16_14-05-37_Banner01.jpg",
         "giftcardurl": "https://app.atento.me/merchants/5699-broetchenexpress-rostock"
     },
-    "130": {
+    "127": {
+        "id": 157,
+        "firmname": "Fischuppen GbR",
+        "category": "Einzelhandel",
+        "description": "Ihr Laden für Regionales. Handgefertigtes, Maritimes aus der Region.",
+        "longdescription": "Bei uns findet ihr Produkte von Menschen aus der Region die außergewöhnliche individuelle maritime Produkte fertigen. Außerdem haben wir geilen Küstenstoff zum Schnökern, Tragen und gut finden.\r\nSchaut gern mal rein.\r\nOnline für Euch erreichbar.",
+        "address": "Kirchweg 38, 18565 Hiddensee OT Kloster",
+        "firmurl": "http://www.fischuppen.de",
+        "firmimg": "2020-04-15_09-37-51_fischuppen_logo_icon_schrift.jpg",
+        "giftcardurl": "https://app.atento.me/merchants/5694-fischuppen-gbr"
+    },
+    "128": {
         "id": 164,
         "firmname": "RUHEPOL ROSTOCK",
         "category": "Dienstleistung",
@@ -1440,7 +1418,7 @@
         "firmimg": "2020-04-16_10-38-22_Ruhepol Rostock Floating 1.jpg",
         "giftcardurl": "http://ruhepol-rostock.de/gutschein/"
     },
-    "131": {
+    "129": {
         "id": 148,
         "firmname": "Das FRITZ Hotel & Restaurant",
         "category": "Gastronomie",
@@ -1451,7 +1429,7 @@
         "firmimg": "das-fritz-hotel-restaurant.jpg",
         "giftcardurl": "http://app.atento.me/merchants/5158-das-fritz-hotel-restaurant"
     },
-    "132": {
+    "130": {
         "id": 170,
         "firmname": "Der Georg mobile & individuelle Massagen",
         "category": "Andere",
@@ -1462,7 +1440,7 @@
         "firmimg": "2020-04-19_09-38-27_AAC657C3-ED03-4302-8B0B-B0D2C0F4FA04.jpeg",
         "giftcardurl": "https://app.atento.me/merchants/5771-der-georg-mobile-individuelle-massagen"
     },
-    "133": {
+    "131": {
         "id": 171,
         "firmname": "Jin Shin Jyutsu® - Silke Krüger",
         "category": "Dienstleistung",
@@ -1473,7 +1451,7 @@
         "firmimg": "2020-04-21_15-55-20_IMG-20190503-WA0003_2_1_1_1.jpg",
         "giftcardurl": "https://app.atento.me/merchants/5891-jin-shin-jyutsu-silke-krueger"
     },
-    "134": {
+    "132": {
         "id": 3,
         "firmname": "Tuscherei - Keramik selbst bemalen",
         "category": "Unterhaltung",
@@ -1484,7 +1462,7 @@
         "firmimg": "entdecken.jpg",
         "giftcardurl": "https://tuscherei.firstvoucher.com/"
     },
-    "135": {
+    "133": {
         "id": 1,
         "firmname": "Oikos fairtrade ecofashion",
         "category": "Einzelhandel",
@@ -1495,7 +1473,7 @@
         "firmimg": "oikos-fairtrade-ecofashion.jpg",
         "giftcardurl": "nan"
     },
-    "136": {
+    "134": {
         "id": 9,
         "firmname": "Stuv by Krikadu",
         "category": "Einzelhandel",
@@ -1506,29 +1484,7 @@
         "firmimg": "stuv-by-krikadu.jpg",
         "giftcardurl": "nan"
     },
-    "137": {
-        "id": 13,
-        "firmname": "andere buchhandlung Inh. Manfred Keiper",
-        "category": "Einzelhandel",
-        "description": "Wir sind die Buchhandlung in Rostocks Kiez - der \"KTV\" (Kröpeliner Tor-Vorstadt) ",
-        "longdescription": "Unser Ladengeschäft ist in Zeiten von Corona geschlossen, aber wir arbeiten: Via Webshop, Mail, Telefon können Sie Bücher bestellen, wir liefern aus - mit Fahrrad, Auto und notfalls per Lieferdienst - und wengistens einen Teil unserer Umsatzausfälle zu kompensieren und zu überleben. Auch Büchergutscheine kann man in unserem Webshop www.anderebuchhandlung.de bestellen. Lesungen können im Moment nicht stattfinden, aber am 07.04.20 führen wir mit Christian Ansehl unsere erste Online-Lesung durch. Nach Corona soll es bei uns im Laden weitergehen mit interessanten Buchtiteln, Lesungen und der 30 Jahr-Feier im Herbst 2020.",
-        "address": "Wismarsche Str. 6/7, 18057 Roctock",
-        "firmurl": "https://www.anderebuchhandlung.de/",
-        "firmimg": "andere-buchhandlung-inh-manfred-keiper.jpg",
-        "giftcardurl": "nan"
-    },
-    "138": {
-        "id": 23,
-        "firmname": "Hochzeitsfotografie Rügen",
-        "category": "Dienstleistung",
-        "description": "Wir bieten Hochzeitsfotografie, After-Wedding-Shootings, Paar-und Familienfotos im natürlichen Stil.",
-        "longdescription": "Wir sind Anja und Dirk, selbst ein Paar, ...wir lieben die Fotografie und erzählen Eure Hochzeit in einzigartigen, emotionalen Bildern . Wir bieten Euch auch After-Wedding-Shootings in entspannter Atmosphäre, Paar- oder Familienfotos in der Natur, am Strand,... wo ihr mögt. Die Gutscheine verrechnen wir Euch mit dem jeweiligen Shooting, welches Ihr bei uns bucht. Wir wünschen uns so sehr, unsere Arbeit weiter führen zu können und Eure besonderen Momente in einer einzigartigen Bildergeschichte zu erzählen... wir freuen uns riesig über Eure Unterstützung!",
-        "address": "Schillstr. 38, 18439 Rostock",
-        "firmurl": "http://xn--hochzeitsfotografie-rgen-gtc.de/",
-        "firmimg": "hochzeitsfotografie-rugen.jpg",
-        "giftcardurl": "nan"
-    },
-    "139": {
+    "135": {
         "id": 26,
         "firmname": "ALMATROS GmbH & Co. KG",
         "category": "Einzelhandel",
@@ -1539,7 +1495,7 @@
         "firmimg": "almatros-gmbh-co-kg.jpg",
         "giftcardurl": "nan"
     },
-    "140": {
+    "136": {
         "id": 173,
         "firmname": "De Duvenschlag",
         "category": "Einzelhandel",
@@ -1550,7 +1506,29 @@
         "firmimg": "2020-04-24_10-19-55_400dpiLogo.jpg",
         "giftcardurl": "https://de-duvenschlag.mv-handelt.de/Gutscheine"
     },
-    "141": {
+    "137": {
+        "id": 23,
+        "firmname": "Hochzeitsfotografie Rügen",
+        "category": "Dienstleistung",
+        "description": "Wir bieten Hochzeitsfotografie, After-Wedding-Shootings, Paar-und Familienfotos im natürlichen Stil.",
+        "longdescription": "Wir sind Anja und Dirk, selbst ein Paar, ...wir lieben die Fotografie und erzählen Eure Hochzeit in einzigartigen, emotionalen Bildern . Wir bieten Euch auch After-Wedding-Shootings in entspannter Atmosphäre, Paar- oder Familienfotos in der Natur, am Strand,... wo ihr mögt. Die Gutscheine verrechnen wir Euch mit dem jeweiligen Shooting, welches Ihr bei uns bucht. Wir wünschen uns so sehr, unsere Arbeit weiter führen zu können und Eure besonderen Momente in einer einzigartigen Bildergeschichte zu erzählen... wir freuen uns riesig über Eure Unterstützung!",
+        "address": "Schillstr. 38, 18439 Rostock",
+        "firmurl": "http://xn--hochzeitsfotografie-rgen-gtc.de/",
+        "firmimg": "hochzeitsfotografie-rugen.jpg",
+        "giftcardurl": "nan"
+    },
+    "138": {
+        "id": 13,
+        "firmname": "andere buchhandlung Inh. Manfred Keiper",
+        "category": "Einzelhandel",
+        "description": "Wir sind die Buchhandlung in Rostocks Kiez - der \"KTV\" (Kröpeliner Tor-Vorstadt) ",
+        "longdescription": "Unser Ladengeschäft ist in Zeiten von Corona geschlossen, aber wir arbeiten: Via Webshop, Mail, Telefon können Sie Bücher bestellen, wir liefern aus - mit Fahrrad, Auto und notfalls per Lieferdienst - und wengistens einen Teil unserer Umsatzausfälle zu kompensieren und zu überleben. Auch Büchergutscheine kann man in unserem Webshop www.anderebuchhandlung.de bestellen. Lesungen können im Moment nicht stattfinden, aber am 07.04.20 führen wir mit Christian Ansehl unsere erste Online-Lesung durch. Nach Corona soll es bei uns im Laden weitergehen mit interessanten Buchtiteln, Lesungen und der 30 Jahr-Feier im Herbst 2020.",
+        "address": "Wismarsche Str. 6/7, 18057 Roctock",
+        "firmurl": "https://www.anderebuchhandlung.de/",
+        "firmimg": "andere-buchhandlung-inh-manfred-keiper.jpg",
+        "giftcardurl": "nan"
+    },
+    "139": {
         "id": 31,
         "firmname": "Optik Köster",
         "category": "Einzelhandel",
@@ -1561,7 +1539,7 @@
         "firmimg": "optik-koster.jpg",
         "giftcardurl": "nan"
     },
-    "142": {
+    "140": {
         "id": 38,
         "firmname": "DOCK INN Hostel Warnemünde",
         "category": "Andere",
@@ -1572,7 +1550,7 @@
         "firmimg": "dock-inn-hostel-warnemunde.jpg",
         "giftcardurl": "nan"
     },
-    "143": {
+    "141": {
         "id": 46,
         "firmname": "Blickkontakt Kontaktlinsenstudio",
         "category": "Einzelhandel",
@@ -1583,7 +1561,7 @@
         "firmimg": "blickkontakt-kontaktlinsenstudio.jpg",
         "giftcardurl": "nan"
     },
-    "144": {
+    "142": {
         "id": 47,
         "firmname": "Boutique happiness",
         "category": "Einzelhandel",
@@ -1594,7 +1572,7 @@
         "firmimg": "boutique-happiness.jpg",
         "giftcardurl": "nan"
     },
-    "145": {
+    "143": {
         "id": 48,
         "firmname": "Abenteuer Stadtwelten",
         "category": "Unterhaltung",
@@ -1605,7 +1583,7 @@
         "firmimg": "abenteuer-stadtwelten.jpg",
         "giftcardurl": "nan"
     },
-    "146": {
+    "144": {
         "id": 52,
         "firmname": "Sportshop Jump In - Ralf Klingschat e.K.",
         "category": "Einzelhandel",
@@ -1616,7 +1594,7 @@
         "firmimg": "sportshop-jump-in-ralf-klingschat-e-k.jpg",
         "giftcardurl": "nan"
     },
-    "147": {
+    "145": {
         "id": 51,
         "firmname": "PEGASUS HEAD- & GROWSHOP",
         "category": "Einzelhandel",
@@ -1627,7 +1605,7 @@
         "firmimg": "pegasus-head-growshop.jpg",
         "giftcardurl": "https://app.atento.me/merchants/3921?in_frame=false&locale=de"
     },
-    "148": {
+    "146": {
         "id": 69,
         "firmname": "Hundeschule Ostseepfoten",
         "category": "Dienstleistung",
@@ -1638,7 +1616,7 @@
         "firmimg": "hundeschule-ostseepfoten.jpg",
         "giftcardurl": "nan"
     },
-    "149": {
+    "147": {
         "id": 74,
         "firmname": "Fritz-Reuter-Stuben",
         "category": "Gastronomie",
@@ -1649,7 +1627,7 @@
         "firmimg": "fritz-reuter-stuben.jpg",
         "giftcardurl": "nan"
     },
-    "150": {
+    "148": {
         "id": 79,
         "firmname": "Goldschmied & Juwelier Schneider",
         "category": "Einzelhandel",
@@ -1660,7 +1638,7 @@
         "firmimg": "goldschmied-juwelier-schneider.jpeg",
         "giftcardurl": "https://app.atento.me/merchants/3913?in_frame=false&locale=de"
     },
-    "151": {
+    "149": {
         "id": 85,
         "firmname": "KIDSONLY Rostock",
         "category": "Einzelhandel",
@@ -1671,7 +1649,7 @@
         "firmimg": "kidsonly-rostock.jpg",
         "giftcardurl": "https://app.atento.me/merchants/3651?in_frame=false&locale=de"
     },
-    "152": {
+    "150": {
         "id": 88,
         "firmname": "Hopp`s Bunte Stube",
         "category": "Einzelhandel",
@@ -1682,18 +1660,7 @@
         "firmimg": "hopp-s-bunte-stube.jpg",
         "giftcardurl": "https://app.atento.me/merchants/3947?in_frame=false&locale=de"
     },
-    "153": {
-        "id": 109,
-        "firmname": "Tanos Keramik GbR",
-        "category": "Andere",
-        "description": "Wir bieten in unserer Werkstatt Töpferkurse, Kindergeburtstage, Keramik und Schmuck aus eigener Herstellung.",
-        "longdescription": "Ihr könnt in unserer kleinen Keramikwerkstatt Gutscheine für Töpferkurse kaufen, die ihr später einlöst. Im Moment können und dürfen wir keine Kurse anbieten, weshalb der Gutscheinverkauf hilft, unser Unternehmen und damit das Einkommen unserer Familie zu erhalten.",
-        "address": "Lange Straße 13, Oberkante, 18055 Rostock",
-        "firmurl": "https://tanoskeramik.de/",
-        "firmimg": "tanos-keramik-gbr.jpg",
-        "giftcardurl": "nan"
-    },
-    "154": {
+    "151": {
         "id": 150,
         "firmname": "Marlower Kanu-& Bootsverleih",
         "category": "Dienstleistung",
@@ -1704,7 +1671,7 @@
         "firmimg": "marlower-kanu-bootsverleih.png",
         "giftcardurl": "nan"
     },
-    "155": {
+    "152": {
         "id": 116,
         "firmname": "TattooRitual - Dein TattooDoktor Rostock",
         "category": "Dienstleistung",
@@ -1715,7 +1682,7 @@
         "firmimg": "tattooritual-dein-tattoodoktor-rostock.jpg",
         "giftcardurl": "nan"
     },
-    "156": {
+    "153": {
         "id": 125,
         "firmname": "BARke- Das Cocktailboot",
         "category": "Gastronomie",
@@ -1726,7 +1693,7 @@
         "firmimg": "barke-das-cocktailboot.jpg",
         "giftcardurl": "nan"
     },
-    "157": {
+    "154": {
         "id": 130,
         "firmname": "Schatzinsel im EKZ Bad Doberan",
         "category": "Einzelhandel",
@@ -1737,7 +1704,7 @@
         "firmimg": "schatzinsel-im-ekz-bad-doberan.jpg",
         "giftcardurl": "nan"
     },
-    "158": {
+    "155": {
         "id": 138,
         "firmname": "Institut für heilende Medizin",
         "category": "Andere",
@@ -1748,7 +1715,7 @@
         "firmimg": "institut-fur-heilende-medizin.jpg",
         "giftcardurl": "nan"
     },
-    "159": {
+    "156": {
         "id": 147,
         "firmname": "PapadoXX-Fotografie",
         "category": "Dienstleistung",
@@ -1759,7 +1726,7 @@
         "firmimg": "quadrosdesign-2.jpg",
         "giftcardurl": "nan"
     },
-    "160": {
+    "157": {
         "id": 10,
         "firmname": "Julika-Foto: Emotional und Echt",
         "category": "Dienstleistung",
@@ -1770,7 +1737,7 @@
         "firmimg": "julika-foto-emotional-und-echt.jpg",
         "giftcardurl": "https://app.atento.me/merchants/2422?in_frame=false&locale=de"
     },
-    "161": {
+    "158": {
         "id": 124,
         "firmname": "WATERSTRADT Brillen und Kontaktlinsen",
         "category": "Einzelhandel",
@@ -1780,6 +1747,39 @@
         "firmurl": "",
         "firmimg": "waterstradt-brillen-und-kontaktlinsen.png",
         "giftcardurl": "https://app.atento.me/merchants/3372?in_frame=false&locale=de"
+    },
+    "159": {
+        "id": 100,
+        "firmname": "Praxis für Energiearbeit Rostock",
+        "category": "Dienstleistung",
+        "description": "Anfangen, wo der Verstand aufhört. Geh mit Mut zur Veränderung in DEIN Leben! Finde Vertrauen in Deinen Kompass und in Deine Fähigkeiten.",
+        "longdescription": "Ich bin Katharina Elisabeth Poser und arbeite mit Energie.\r\nIch setze bei meiner Arbeit mit Dir da an, wo Dein Verstand an seine Grenzen kommen. Das heißt, ich trainiere mit Dir in Seminaren Deine Intuition, damit Du diese ganz bewusst und als Deinen inneren Kompass einsetzen kannst.\r\nAls Genius Coach schaffe ich darüber hinaus Klarheit und tiefes Verständnis für Deine individuellen Gaben und Besonderheiten. Ich helfe Dir, in vermeintlichen Schwächen Deine Stärken zu erkennen und diese als solche zu nutzen. Im zwischenmenschlichen Kontext ermöglicht das Coaching System, Konfliktpotentiale mit anderen schon im Voraus zu erkennen und in Teams die Teammitglieder entsprechend ihrer natürlichen Gaben einzusetzen.\r\nFür das körperliche und seelische Wohl lade ich Dich zu energetischen Behandlungen mit Reiki, der Wirbelsäulenaufrichtung oder Quantenheilung ein. Sie stärken Deine Selbstheilungskräfte, harmonisieren und bringen Dich in innere Ruhe und Ausgeglichenheit.",
+        "address": "Strempelstraße 3, 18057 Rostock",
+        "firmurl": "http://www.katharinaposer.com",
+        "firmimg": "praxis-fur-energiearbeit-rostock.jpg",
+        "giftcardurl": "http://app.atento.me/merchants/4860-praxis-fuer-energiearbeit-rostock"
+    },
+    "160": {
+        "id": 159,
+        "firmname": "Santa Barbara Anna",
+        "category": "Andere",
+        "description": "Der Traditionssegler Santa Barbara Anna lädt Mitsegler zu Törns auf der Ostsee ein, um dieses maritime Erbe hautnah erleben zu können.",
+        "longdescription": "Die \"Santa Barbara Anna\" ist der Rostocker Traditionssegler. Wir halten das fast 70-jährige Schiff mit viel ehrenamtlicher Arbeit seeklar, damit diese maritime Tradition auch zukünftig hautnah erlebbar bleibt.\r\n\r\nDurch Corona fehlen uns die Einnahmen aus Segeltörns; die Kosten für Material, Werkzeug, Versicherungen, Liegegebühren, Werkstattmiete, sicherheitsrelevante Zertifizierungen usw. laufen trotzdem immer weiter auf.\r\n\r\nDurch den Kauf eines Gutscheins für eine Fahrt auf der Santa Barbara Anna hilfst Du uns, diese schwierige Phase besser zu überstehen. Ob und wann in diesem Jahr noch Törns möglich sind, können wir zum jetzigen Zeitpunkt noch überhaupt nicht sagen. Rechne bitte damit, dass die Gutscheine erst in der Saison 2021 eingelöst werden können! Es gibt in jedem (normalen) Jahr mehrere, über den Sommer verteilte Einzelbucher-Törns. Auch wenn wir noch keine genauen Termine nennen können, wird sich bestimmt auch für Dich eine Möglichkeit zur Mitfahrt finden!\r\n\r\nZum Schluss noch ein dickes Dankeschön an die Jungs, die diese Seite auf die Beine gestellt haben! Ganz große Aktion! Hoffentlich wird damit vielen Firmen und Vereinen geholfen!",
+        "address": "Stadthafen 83E, 18055 Rostock",
+        "firmurl": "https://santa-barbara-anna.de",
+        "firmimg": "2020-04-15_20-53-55_P1040987.jpg",
+        "giftcardurl": "https://app.atento.me/merchants/5695-santa-barbara-anna"
+    },
+    "161": {
+        "id": 156,
+        "firmname": "Tattoostudio Ray Ink",
+        "category": "Dienstleistung",
+        "description": "Ein kleines Tattoo & Art Studio in Bad Doberan",
+        "longdescription": "Das Tattoostudio Ray Ink , ist ein kleiner Tattooladen in Bad Doberan, mitten in der Mollistraße.\r\n\r\nIhr wolltet schon immer ein Tattoo oder eine Leimwandzeichnung haben, könnt aber kein Motiv im Internet finden? oder wollt ein individuelles ?\r\n\r\nKein Problem !\r\n\r\nBei uns habt ihr Privatsphäre von der Beratung bis hin zum fertigen Motiv.\r\nWir helfen euch, bei der Motivgestaltung und stehen euch bei jeder Frage zur Verfügung. Selbst nach dem Termin werdet ihr noch von uns schriftlich bei Fragen zur Abheilung betreut.\r\n\r\nSchon während ihr darauf wartet, dass es losgehen könnt habt ihr einen Prima Blick auf die Mollibahn. Es gibt gratis Kaffee und Süßigkeiten die euch den Termin versüßen.\r\n\r\nWir freuen uns auf euch !",
+        "address": "Mollistraße 12, 18209 Bad Doberan",
+        "firmurl": "https://www.rayink.de/",
+        "firmimg": "2020-04-15_08-25-48_92939431_530870777791406_2564253332939997184_n(1).jpg",
+        "giftcardurl": "https://app.atento.me/merchants/5693-tattoostudio-ray-ink"
     },
     "162": {
         "id": 140,
@@ -1793,39 +1793,6 @@
         "giftcardurl": "http://app.atento.me/merchants/4718-eiscafe-marita-hahn"
     },
     "163": {
-        "id": 100,
-        "firmname": "Praxis für Energiearbeit Rostock",
-        "category": "Dienstleistung",
-        "description": "Anfangen, wo der Verstand aufhört. Geh mit Mut zur Veränderung in DEIN Leben! Finde Vertrauen in Deinen Kompass und in Deine Fähigkeiten.",
-        "longdescription": "Ich bin Katharina Elisabeth Poser und arbeite mit Energie.\r\nIch setze bei meiner Arbeit mit Dir da an, wo Dein Verstand an seine Grenzen kommen. Das heißt, ich trainiere mit Dir in Seminaren Deine Intuition, damit Du diese ganz bewusst und als Deinen inneren Kompass einsetzen kannst.\r\nAls Genius Coach schaffe ich darüber hinaus Klarheit und tiefes Verständnis für Deine individuellen Gaben und Besonderheiten. Ich helfe Dir, in vermeintlichen Schwächen Deine Stärken zu erkennen und diese als solche zu nutzen. Im zwischenmenschlichen Kontext ermöglicht das Coaching System, Konfliktpotentiale mit anderen schon im Voraus zu erkennen und in Teams die Teammitglieder entsprechend ihrer natürlichen Gaben einzusetzen.\r\nFür das körperliche und seelische Wohl lade ich Dich zu energetischen Behandlungen mit Reiki, der Wirbelsäulenaufrichtung oder Quantenheilung ein. Sie stärken Deine Selbstheilungskräfte, harmonisieren und bringen Dich in innere Ruhe und Ausgeglichenheit.",
-        "address": "Strempelstraße 3, 18057 Rostock",
-        "firmurl": "http://www.katharinaposer.com",
-        "firmimg": "praxis-fur-energiearbeit-rostock.jpg",
-        "giftcardurl": "http://app.atento.me/merchants/4860-praxis-fuer-energiearbeit-rostock"
-    },
-    "164": {
-        "id": 159,
-        "firmname": "Santa Barbara Anna",
-        "category": "Andere",
-        "description": "Der Traditionssegler Santa Barbara Anna lädt Mitsegler zu Törns auf der Ostsee ein, um dieses maritime Erbe hautnah erleben zu können.",
-        "longdescription": "Die \"Santa Barbara Anna\" ist der Rostocker Traditionssegler. Wir halten das fast 70-jährige Schiff mit viel ehrenamtlicher Arbeit seeklar, damit diese maritime Tradition auch zukünftig hautnah erlebbar bleibt.\r\n\r\nDurch Corona fehlen uns die Einnahmen aus Segeltörns; die Kosten für Material, Werkzeug, Versicherungen, Liegegebühren, Werkstattmiete, sicherheitsrelevante Zertifizierungen usw. laufen trotzdem immer weiter auf.\r\n\r\nDurch den Kauf eines Gutscheins für eine Fahrt auf der Santa Barbara Anna hilfst Du uns, diese schwierige Phase besser zu überstehen. Ob und wann in diesem Jahr noch Törns möglich sind, können wir zum jetzigen Zeitpunkt noch überhaupt nicht sagen. Rechne bitte damit, dass die Gutscheine erst in der Saison 2021 eingelöst werden können! Es gibt in jedem (normalen) Jahr mehrere, über den Sommer verteilte Einzelbucher-Törns. Auch wenn wir noch keine genauen Termine nennen können, wird sich bestimmt auch für Dich eine Möglichkeit zur Mitfahrt finden!\r\n\r\nZum Schluss noch ein dickes Dankeschön an die Jungs, die diese Seite auf die Beine gestellt haben! Ganz große Aktion! Hoffentlich wird damit vielen Firmen und Vereinen geholfen!",
-        "address": "Stadthafen 83E, 18055 Rostock",
-        "firmurl": "https://santa-barbara-anna.de",
-        "firmimg": "2020-04-15_20-53-55_P1040987.jpg",
-        "giftcardurl": "https://app.atento.me/merchants/5695-santa-barbara-anna"
-    },
-    "165": {
-        "id": 156,
-        "firmname": "Tattoostudio Ray Ink",
-        "category": "Dienstleistung",
-        "description": "Ein kleines Tattoo & Art Studio in Bad Doberan",
-        "longdescription": "Das Tattoostudio Ray Ink , ist ein kleiner Tattooladen in Bad Doberan, mitten in der Mollistraße.\r\n\r\nIhr wolltet schon immer ein Tattoo oder eine Leimwandzeichnung haben, könnt aber kein Motiv im Internet finden? oder wollt ein individuelles ?\r\n\r\nKein Problem !\r\n\r\nBei uns habt ihr Privatsphäre von der Beratung bis hin zum fertigen Motiv.\r\nWir helfen euch, bei der Motivgestaltung und stehen euch bei jeder Frage zur Verfügung. Selbst nach dem Termin werdet ihr noch von uns schriftlich bei Fragen zur Abheilung betreut.\r\n\r\nSchon während ihr darauf wartet, dass es losgehen könnt habt ihr einen Prima Blick auf die Mollibahn. Es gibt gratis Kaffee und Süßigkeiten die euch den Termin versüßen.\r\n\r\nWir freuen uns auf euch !",
-        "address": "Mollistraße 12, 18209 Bad Doberan",
-        "firmurl": "https://www.rayink.de/",
-        "firmimg": "2020-04-15_08-25-48_92939431_530870777791406_2564253332939997184_n(1).jpg",
-        "giftcardurl": "https://app.atento.me/merchants/5693-tattoostudio-ray-ink"
-    },
-    "166": {
         "id": 162,
         "firmname": "pro kunsthalle e.V.",
         "category": "Unterhaltung",
@@ -1836,7 +1803,7 @@
         "firmimg": "2020-04-16_10-15-17_skylinekleinklein.png",
         "giftcardurl": "https://app.atento.me/merchants/5696-pro-kunsthalle-e-v"
     },
-    "167": {
+    "164": {
         "id": 155,
         "firmname": "Darß-Festspiele e.V.",
         "category": "Unterhaltung",
@@ -1847,7 +1814,7 @@
         "firmimg": "2020-04-14_20-45-03_DSC04859 (Mittel).jpg",
         "giftcardurl": "https://www.darss-festspiele.de/karten/gutscheine/"
     },
-    "168": {
+    "165": {
         "id": 166,
         "firmname": "Darßer Brauhaus GmbH",
         "category": "Gastronomie",
@@ -1858,7 +1825,7 @@
         "firmimg": "2020-04-16_12-17-23_Logo_Darsser-Brauhaus-nachRAL_4c web.jpg",
         "giftcardurl": "https://app.atento.me/merchants/5698-darsser-brauhaus-gmbh"
     },
-    "169": {
+    "166": {
         "id": 172,
         "firmname": "AHOI! Rügen Bade- und Erlebniswelt",
         "category": "Andere",
@@ -1869,7 +1836,7 @@
         "firmimg": "2020-04-24_08-52-41_Inselparadies_1.jpg",
         "giftcardurl": "https://ahoi-ruegen-badewelt.reservix.de/events"
     },
-    "170": {
+    "167": {
         "id": 175,
         "firmname": "Restaurant Klock 8",
         "category": "Dienstleistung",
@@ -1880,16 +1847,49 @@
         "firmimg": "2020-05-04_12-46-33_Klock8-FB-2019-06.jpg",
         "giftcardurl": "https://app.atento.me/merchants/6103-restaurant-klock-8"
     },
-    "171": {
-        "id": 178,
-        "firmname": "Parkhotel Rügen Betriebs GmbH",
+    "168": {
+        "id": 176,
+        "firmname": "WEINGESTEIN",
         "category": "Andere",
-        "description": "4 Sterne Parkhotel Rügen - Hotel - Restaurant - Bar - Wellnessbereich",
-        "longdescription": "Das 4 Sterne Parkhotel Rügen empfängt Sie herzlich in Bergen auf der beliebten Ostseeinsel Rügen! 154 Zimmer unterschiedlicher Kategorie garantieren Ihnen einen angenehmen und erholsamen Aufenthalt.\r\nVom Parkhotel Rügen sind es nur wenige Kilometer zu den schönsten Stränden, den Rad- und Wanderwegen oder den Störtebeker - Festspielen. \r\nModerne Wellnesseinrichtungen im Parkhotel Rügen laden zur Entspannung ein. Es erwartet Sie eine breite Palette an Beautyprogrammen oder Massagen. Erholsame Stunden finden Sie auch in der Sauna und dem Dampfbad. Ein gut ausgestatteter Fitnessraum steht ebenfalls zu Ihrer Verfügung. \r\nTanken Sie neue Energie und lassen Sie den Alltag hinter sich!\r\nKulinarisch bietet das Parkhotel Spezialitäten aus der Region. Besonders beliebt ist das  hochwertige Frühstücksbuffet. An der Live-Koch-Station bereitet Ihnen unsere Frühstücksköche gern frische Eierspeisen zu. \r\n\r\nUnd wann kommen Sie in unser gemütliches Hotel auf Rügen?",
-        "address": "Stralsunder Chaussee 1, 18528 Bergen auf Rügen",
-        "firmurl": "http://www.parkhotel-ruegen.de",
-        "firmimg": "2020-05-05_13-48-16_aussen nacht.jpg",
-        "giftcardurl": "https://parkhotel-ruegen.de/preise/gutscheine"
+        "description": "Durch Drehen und wenden, durch fühlen und ausschauen entsteht ein Gedanke aus einem Unikat der Natur ein Unikat für uns zu erschaffen.",
+        "longdescription": "Steine sind Zeitzeugen, die uns überdauern und Botschaften unterschiedlicher Zeitepochen transportieren. Die Widerstandsfähigkeit von Naturstein und der Wille ihn neu zu interpretieren, ist meine Herausforderung aus jeder meiner Arbeiten ein Unikat zu gestalten.\r\nIn Kombination mit den Verschiedensten Materien wie Holz oder Edelstahl und einer langen Auseinandersetzung bekommt der Naturstein ein ganz neue Interpretation und bleibt in sich immer ein Unikat.",
+        "address": "Krien-Horst 8, 17391 Krien",
+        "firmurl": "http://www.weingestein.de",
+        "firmimg": "2020-05-05_08-40-57_73335D57-B0C2-476C-B28B-2EB726296620.jpeg",
+        "giftcardurl": "https://app.atento.me/merchants/6120-weingestein"
+    },
+    "169": {
+        "id": 63,
+        "firmname": "Handmade by Mona ",
+        "category": "Einzelhandel",
+        "description": "Handmade by mona ist ein Einzelunternehmen mit Sitz in Laage. Bei mir findet ihr bestickte Taschen, Kinderbekleidung, personalisierte Geburtsgeschenke",
+        "longdescription": "Handmade by mona ist mein ein und alles. Ich liebe meinen Job denn das nähen ist seid 2013 eine Leidenschaft. Diese momentane Situation ist einfach sehr schwierig da ich den Laden am 27.04.2020 erst 1 Jahr habe. Aber den Kopf in den Sand stecken ist keine Option und daher wird jede Chance genutzt um noch bekannter zu werden und damit man einfach nicht vergessen wird. \n\nBei mir findet ihr Hochwertig bestickte Taschen für Damen in drei größen, Kinder-und Babybekleidung von 56-152: Pumpis, Hoodies, Strampler, Ballonkleider uwm, vereinzeln auch Damensachen z.b. XXL Halstücher, personalisierte Geburtsgeschenke, Accessiores uwm.\n\nVieles ist schon im Onlineshop eingestellt: http://www.handmade-by-mona.de \nAber auch auf Facebook kann man mir folgen: http://www.facebook.com/handmadebymona \n\nMeine Gutscheine sind 3 Jahre gültig und können vorort in Laage eingelöst werden oder per Mail: monas-kinderwelt@gmx.de \n\nZusammen schaffen wir das.",
+        "address": "Bressener Str. 13a , 18299 Rostock",
+        "firmurl": "http://www.handmade-by-mona.de",
+        "firmimg": "handmade-by-mona.jpg",
+        "giftcardurl": "nan"
+    },
+    "170": {
+        "id": 177,
+        "firmname": "Sports-Line-Dost",
+        "category": "Einzelhandel",
+        "description": "Sports-Line-Dost im Ostseeheilbad Zingst\r\n  Sportliche Mode für Damen und Herren",
+        "longdescription": "Ob für den Urlaub oder für zu hause  wir haben die passende Bekleidung für Sie.\r\nLifestyle oder Funktion, unsere Produkte werden Sie überzeugen. Wandern,laufen oder Radeln bei Wind,Regen oder Sonne lassen Sie sich von uns einkleiden für alle Ihre Aktivitäten. Badebekleidung und Schuhe runden das Bild ab. Wir führen Mode für Sie und Ihn von  Helly Hansen, Soqouesto, Pioneer, Giga, Killtec und mehr. \r\nWir freuen uns auf Sie , wie Sie auf Ihren Urlaub. Seit über 20 Jahren im Herzen von Zingst, überstehen wir auch diese schwere Zeit mit Ihrer Hilfe und dafür ein fettes Dankeschön.",
+        "address": "Hafenstrasse 46A, 18374 Zingst",
+        "firmurl": "",
+        "firmimg": "2020-05-05_12-22-51_IMG_20200505_140957_resized_20200505_021052919.jpg",
+        "giftcardurl": "https://app.atento.me/merchants/6121-sports-line-dost"
+    },
+    "171": {
+        "id": 109,
+        "firmname": "Tanos Keramik GbR",
+        "category": "Andere",
+        "description": "Wir bieten in unserer Werkstatt Töpferkurse, Kindergeburtstage, Keramik und Schmuck aus eigener Herstellung.",
+        "longdescription": "Ihr könnt in unserer kleinen Keramikwerkstatt Gutscheine für Töpferkurse kaufen, die ihr später einlöst. Im Moment können und dürfen wir keine Kurse anbieten, weshalb der Gutscheinverkauf hilft, unser Unternehmen und damit das Einkommen unserer Familie zu erhalten.",
+        "address": "Lange Straße 13, Oberkante, 18055 Rostock",
+        "firmurl": "https://tanoskeramik.de/",
+        "firmimg": "tanos-keramik-gbr.jpg",
+        "giftcardurl": "nan"
     },
     "172": {
         "id": 174,
@@ -1901,5 +1901,38 @@
         "firmurl": "http://www.iserbergalpaka.de",
         "firmimg": "2020-05-03_17-56-21_alpaka-wanderung-15.jpg",
         "giftcardurl": "https://app.atento.me/merchants/6102-alpakahof-am-iserberg"
+    },
+    "173": {
+        "id": 178,
+        "firmname": "Parkhotel Rügen Betriebs GmbH",
+        "category": "Andere",
+        "description": "4 Sterne Parkhotel Rügen - Hotel - Restaurant - Bar - Wellnessbereich",
+        "longdescription": "Das 4 Sterne Parkhotel Rügen empfängt Sie herzlich in Bergen auf der beliebten Ostseeinsel Rügen! 154 Zimmer unterschiedlicher Kategorie garantieren Ihnen einen angenehmen und erholsamen Aufenthalt.\r\nVom Parkhotel Rügen sind es nur wenige Kilometer zu den schönsten Stränden, den Rad- und Wanderwegen oder den Störtebeker - Festspielen. \r\nModerne Wellnesseinrichtungen im Parkhotel Rügen laden zur Entspannung ein. Es erwartet Sie eine breite Palette an Beautyprogrammen oder Massagen. Erholsame Stunden finden Sie auch in der Sauna und dem Dampfbad. Ein gut ausgestatteter Fitnessraum steht ebenfalls zu Ihrer Verfügung. \r\nTanken Sie neue Energie und lassen Sie den Alltag hinter sich!\r\nKulinarisch bietet das Parkhotel Spezialitäten aus der Region. Besonders beliebt ist das  hochwertige Frühstücksbuffet. An der Live-Koch-Station bereitet Ihnen unsere Frühstücksköche gern frische Eierspeisen zu. \r\n\r\nUnd wann kommen Sie in unser gemütliches Hotel auf Rügen?",
+        "address": "Stralsunder Chaussee 1, 18528 Bergen auf Rügen",
+        "firmurl": "http://www.parkhotel-ruegen.de",
+        "firmimg": "2020-05-05_13-48-16_aussen nacht.jpg",
+        "giftcardurl": "https://parkhotel-ruegen.de/preise/gutscheine"
+    },
+    "174": {
+        "id": 180,
+        "firmname": "Naturheilpraxis und Massageatelier Madlen Knaack",
+        "category": "Andere",
+        "description": "im Kloster Rühn und NaturheilGut Karow\r\nganzheitliche Massagen/Körperarbeit, \r\nPflanzenheilkunde, Naturheilverfahren und \r\nWundbehandlungen",
+        "longdescription": "Hier sind „Tu dir gut“ - Scheine für eine Massagezeit erhältlich.\r\n60 oder 90 Minuten – Behandlungen umfassen Vorgespräch, Massage \r\nund Nachruhe. Während der Massage werden fließende Streichungen, \r\nbesondere ruhende Haltegriffe und lockernde Bewegungsgriffe \r\nangewendet. Es werden Achtsamkeit, Atem, Energieausgleich und \r\nGespräch mit klassischen Massagegriffen verbunden und Erkenntnisse \r\nder Triggerpunkttherapie mit der TouchLife-Massage verknüpft.\r\n\r\nIn Kombination oder einzeln können massiert werden:\r\n\r\n* Kopf & Gesicht\r\n* Schulter & Nacken\r\n* Arme & Hände\r\n* Brustkorb\r\n* Bauch\r\n* Rücken\r\n* Beine\r\n* Füße\r\n\r\nVerspannungen und innere Blockaden lösen sich. Die Lebensenergie \r\nwird zum Fließen angeregt und das innere Gleichgewicht gestärkt. \r\nStress wird schneller abgebaut und die Leistungsfähigkeit regeneriert. \r\nTouchLife-Massagen vermitteln Wohlgefühl, innere Entspannung \r\nund eine bewusste Wahrnehmung.",
+        "address": "Klosterhof 1, 18246 Rühn",
+        "firmurl": "",
+        "firmimg": "2020-05-05_20-27-05_Screen Shot 2020-05-05 at 10.26.35 PM.png",
+        "giftcardurl": "https://app.atento.me/merchants/6122-naturheilpraxis-und-massageatelier-madlen-knaack"
+    },
+    "175": {
+        "id": 145,
+        "firmname": "PRÜNKIST",
+        "category": "Einzelhandel",
+        "description": "Wolle,Garne,Zubehör- Wir bieten alles, um Kreativität ausleben zu können. ",
+        "longdescription": "216 qm \"Baumarkt für Frauen\"- mittlerweile sind aber auch viele kreative Männer unsere Kunden. Wir fürhen hochwertige Wollqualitäten und Garne zur Weiterverarbeitung für Lieblingsstücke vom Pulloverbis zur Macramé-Blumenampel. Patchwork- und Dekostoffe, Handarbeitsstoffe und alles, was an Kurzwaren dazugehört, findet mann bei uns; www.pruenkist.de gibt einen Eindruck. Wir sind seit 27 Jahren am Markt und seit 1998 auf der nördlichen RÜCKseite der Langen Straße zu finden und werden auch diese Krise überstehen- gemeinsam mit allen, die die Hände nicht stillhalten können!",
+        "address": "Lange Str. 9-11 Rückseite, 18055 Rostock",
+        "firmurl": "https://pruenkist.de",
+        "firmimg": "prunkist.jpg",
+        "giftcardurl": "nan"
     }
 }
