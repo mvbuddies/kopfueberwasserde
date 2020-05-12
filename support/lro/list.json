@@ -163,5 +163,16 @@
         "firmurl": "https://www.ahoi-ruegen.com/",
         "firmimg": "2020-04-24_08-52-41_Inselparadies_1.jpg",
         "giftcardurl": "https://ahoi-ruegen-badewelt.reservix.de/events"
+    },
+    "15": {
+        "id": 180,
+        "firmname": "Naturheilpraxis und Massageatelier Madlen Knaack",
+        "category": "Andere",
+        "description": "im Kloster Rühn und NaturheilGut Karow\r\nganzheitliche Massagen/Körperarbeit, \r\nPflanzenheilkunde, Naturheilverfahren und \r\nWundbehandlungen",
+        "longdescription": "Hier sind „Tu dir gut“ - Scheine für eine Massagezeit erhältlich.\r\n60 oder 90 Minuten – Behandlungen umfassen Vorgespräch, Massage \r\nund Nachruhe. Während der Massage werden fließende Streichungen, \r\nbesondere ruhende Haltegriffe und lockernde Bewegungsgriffe \r\nangewendet. Es werden Achtsamkeit, Atem, Energieausgleich und \r\nGespräch mit klassischen Massagegriffen verbunden und Erkenntnisse \r\nder Triggerpunkttherapie mit der TouchLife-Massage verknüpft.\r\n\r\nIn Kombination oder einzeln können massiert werden:\r\n\r\n* Kopf & Gesicht\r\n* Schulter & Nacken\r\n* Arme & Hände\r\n* Brustkorb\r\n* Bauch\r\n* Rücken\r\n* Beine\r\n* Füße\r\n\r\nVerspannungen und innere Blockaden lösen sich. Die Lebensenergie \r\nwird zum Fließen angeregt und das innere Gleichgewicht gestärkt. \r\nStress wird schneller abgebaut und die Leistungsfähigkeit regeneriert. \r\nTouchLife-Massagen vermitteln Wohlgefühl, innere Entspannung \r\nund eine bewusste Wahrnehmung.",
+        "address": "Klosterhof 1, 18246 Rühn",
+        "firmurl": "",
+        "firmimg": "2020-05-05_20-27-05_Screen Shot 2020-05-05 at 10.26.35 PM.png",
+        "giftcardurl": "https://app.atento.me/merchants/6122-naturheilpraxis-und-massageatelier-madlen-knaack"
     }
 }
