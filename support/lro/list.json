@@ -96,7 +96,7 @@
         "address": "Eickhöfer Weg 7, 18209 Bad Doberan",
         "firmurl": "",
         "firmimg": "2020-04-16_10-19-40_skylinekleinklein.png",
-        "giftcardurl": "https://app.atento.me/merchants/5542-restaurant-bellevue-bad-doberan"
+        "giftcardurl": "#"
     },
     "9": {
         "id": 173,
@@ -121,17 +121,6 @@
         "giftcardurl": "nan"
     },
     "11": {
-        "id": 130,
-        "firmname": "Schatzinsel im EKZ Bad Doberan",
-        "category": "Einzelhandel",
-        "description": "Fachgeschäft für Schulbedarf, Geschenke, Basteln, Partyausstattung (mit Spielgeräte- und Hüpfburgverleih)",
-        "longdescription": "Wir leben Service und wir lieben frische Ideen. Wir sind der Postkartenshop mit den besten Karten für wirklich alle Anlässe, Nordbrief Partner, Heliumballonfüllstation, Buchhüllen-Einschweißservice, Zuckertütenbefüller, Ostsee-Antiquariat und der Geschenkeladen mit über 1000 unkonventionellen Ideen für Männer, Frauen und Kinder! Wir sind kein Billigladen, aber wir arbeiten immer für das beste Verhältnis von Preis und Leistung.\n\nWir führen starke und sehr coole Marken bei Geschenken, Schreibwaren, Büchern und Spielzeug, wie Coppenrath Bücher und Geschenke, STAMPS Uhren, Brunnen, Lamy, Faber Castell, Hahnemühle,  Stabilo, Lego, Schleich, Siku, Living Puppets, Steiff, Haba, Invento, Herbertz, Depesche (Top Model), Ravensburger, Oetinger, Carlsen und ganz viele Andere. \n\nUnsere Abteilung Ostsee-Antiquariat ist noch im Aufbau, hat aber bereits über 1.500 Bücher von Anno dazumal 1578 bis in die Moderne. Themenschwerpunkte sind Ostsee, Mecklenburg, Seefahrt, Fliegerei. Wir haben aber auch eine außergewöhnliche Kollektion schöner grafischer Bücher aus dem Jugendstil und schöne Kinderbücher aus der DDR. Unsere antiquarischen Bücher sind nicht spottbillig, weil sie sehr besonders sind. Aber unsere Preise liegen stets im unteren Bereich der vergleichbaren Angebote im Internet. Wir kaufen nur sehr spezialisiert an.",
-        "address": "Am Handelspark 5, 18209 Bad Doberan",
-        "firmurl": "https://www.schatzinsel-bad-doberan.de",
-        "firmimg": "schatzinsel-im-ekz-bad-doberan.jpg",
-        "giftcardurl": "nan"
-    },
-    "12": {
         "id": 140,
         "firmname": "Eiscafe Marita Hahn",
         "category": "Gastronomie",
@@ -140,9 +129,9 @@
         "address": "Tetrower Chaussee 25, 18273 Güstrow",
         "firmurl": "",
         "firmimg": "eiscafe-marita-hahn.jpg",
-        "giftcardurl": "http://app.atento.me/merchants/4718-eiscafe-marita-hahn"
+        "giftcardurl": "#"
     },
-    "13": {
+    "12": {
         "id": 156,
         "firmname": "Tattoostudio Ray Ink",
         "category": "Dienstleistung",
@@ -151,9 +140,9 @@
         "address": "Mollistraße 12, 18209 Bad Doberan",
         "firmurl": "https://www.rayink.de/",
         "firmimg": "2020-04-15_08-25-48_92939431_530870777791406_2564253332939997184_n(1).jpg",
-        "giftcardurl": "https://app.atento.me/merchants/5693-tattoostudio-ray-ink"
+        "giftcardurl": "#"
     },
-    "14": {
+    "13": {
         "id": 172,
         "firmname": "AHOI! Rügen Bade- und Erlebniswelt",
         "category": "Andere",
@@ -164,7 +153,7 @@
         "firmimg": "2020-04-24_08-52-41_Inselparadies_1.jpg",
         "giftcardurl": "https://ahoi-ruegen-badewelt.reservix.de/events"
     },
-    "15": {
+    "14": {
         "id": 180,
         "firmname": "Naturheilpraxis und Massageatelier Madlen Knaack",
         "category": "Andere",
@@ -173,6 +162,17 @@
         "address": "Klosterhof 1, 18246 Rühn",
         "firmurl": "",
         "firmimg": "2020-05-05_20-27-05_Screen Shot 2020-05-05 at 10.26.35 PM.png",
-        "giftcardurl": "https://app.atento.me/merchants/6122-naturheilpraxis-und-massageatelier-madlen-knaack"
+        "giftcardurl": "#"
+    },
+    "15": {
+        "id": 130,
+        "firmname": "Schatzinsel im EKZ Bad Doberan",
+        "category": "Einzelhandel",
+        "description": "Fachgeschäft für Schulbedarf, Geschenke, Basteln, Partyausstattung (mit Spielgeräte- und Hüpfburgverleih)",
+        "longdescription": "Wir leben Service und wir lieben frische Ideen. Wir sind der Postkartenshop mit den besten Karten für wirklich alle Anlässe, Nordbrief Partner, Heliumballonfüllstation, Buchhüllen-Einschweißservice, Zuckertütenbefüller, Ostsee-Antiquariat und der Geschenkeladen mit über 1000 unkonventionellen Ideen für Männer, Frauen und Kinder! Wir sind kein Billigladen, aber wir arbeiten immer für das beste Verhältnis von Preis und Leistung.\n\nWir führen starke und sehr coole Marken bei Geschenken, Schreibwaren, Büchern und Spielzeug, wie Coppenrath Bücher und Geschenke, STAMPS Uhren, Brunnen, Lamy, Faber Castell, Hahnemühle,  Stabilo, Lego, Schleich, Siku, Living Puppets, Steiff, Haba, Invento, Herbertz, Depesche (Top Model), Ravensburger, Oetinger, Carlsen und ganz viele Andere. \n\nUnsere Abteilung Ostsee-Antiquariat ist noch im Aufbau, hat aber bereits über 1.500 Bücher von Anno dazumal 1578 bis in die Moderne. Themenschwerpunkte sind Ostsee, Mecklenburg, Seefahrt, Fliegerei. Wir haben aber auch eine außergewöhnliche Kollektion schöner grafischer Bücher aus dem Jugendstil und schöne Kinderbücher aus der DDR. Unsere antiquarischen Bücher sind nicht spottbillig, weil sie sehr besonders sind. Aber unsere Preise liegen stets im unteren Bereich der vergleichbaren Angebote im Internet. Wir kaufen nur sehr spezialisiert an.",
+        "address": "Am Handelspark 5, 18209 Bad Doberan",
+        "firmurl": "https://www.schatzinsel-bad-doberan.de",
+        "firmimg": "schatzinsel-im-ekz-bad-doberan.jpg",
+        "giftcardurl": "nan"
     }
 }

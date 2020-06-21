@@ -11,17 +11,6 @@
         "giftcardurl": "nan"
     },
     "1": {
-        "id": 27,
-        "firmname": "hautnah bodywear - Unterwäscheboutique",
-        "category": "Einzelhandel",
-        "description": "Hautnah bodywear ist eine Boutique für Lingerie und Unterwäsche im Herzen der Insel Rügen. Hier erhalten Sie u.a. eine perfekte BH-Beratung.",
-        "longdescription": "Sie gehören zu den 20% aller Frauen, die einen perfekten BH tragen? Herzlichen Glückwunsch! Wenn nicht, dann nix wie hin zu unserer Boutique! Hier erfahrt ihr die perfekte BH-Beratung. Weiterhin bieten wir euch qualitative Nachtwäsche für Damen und Herren und weitere Unterwäsche.",
-        "address": "Bahnhofstraße 2, 18528 Bergen",
-        "firmurl": "https://www.hautnah-ruegen.de",
-        "firmimg": "hautnah-bodywear-unterwascheboutique.jpg",
-        "giftcardurl": "nan"
-    },
-    "2": {
         "id": 44,
         "firmname": "BalticFit Personal Training - Heiko Prinz",
         "category": "Dienstleistung",
@@ -30,6 +19,17 @@
         "address": "Semlower Straße 16, 18334",
         "firmurl": "http://www.balticfit.de",
         "firmimg": "balticfit-personal-training-heiko-prinz.png",
+        "giftcardurl": "nan"
+    },
+    "2": {
+        "id": 27,
+        "firmname": "hautnah bodywear - Unterwäscheboutique",
+        "category": "Einzelhandel",
+        "description": "Hautnah bodywear ist eine Boutique für Lingerie und Unterwäsche im Herzen der Insel Rügen. Hier erhalten Sie u.a. eine perfekte BH-Beratung.",
+        "longdescription": "Sie gehören zu den 20% aller Frauen, die einen perfekten BH tragen? Herzlichen Glückwunsch! Wenn nicht, dann nix wie hin zu unserer Boutique! Hier erfahrt ihr die perfekte BH-Beratung. Weiterhin bieten wir euch qualitative Nachtwäsche für Damen und Herren und weitere Unterwäsche.",
+        "address": "Bahnhofstraße 2, 18528 Bergen",
+        "firmurl": "https://www.hautnah-ruegen.de",
+        "firmimg": "hautnah-bodywear-unterwascheboutique.jpg",
         "giftcardurl": "nan"
     },
     "3": {
@@ -44,17 +44,6 @@
         "giftcardurl": "nan"
     },
     "4": {
-        "id": 81,
-        "firmname": "Goldschmiede C. Stabenow Handelsgesellschaft mbH",
-        "category": "Einzelhandel",
-        "description": "Goldschmiedemeister seit 1874 ",
-        "longdescription": "In langer Tradition fertigt unser Haus Schmuck in eigener Werkstattproduktion – Individuelle Stücke und Auftragsarbeiten sowie eigene Kollektionen. Zusätzlich bieten wir ein umfangreiches Sortiment an Schmuck, Uhren, Porzellan, Glas und Geschenkartikeln.",
-        "address": "Badenstr. 1, 18439 Stralsund",
-        "firmurl": "http://c-stabenow.com/site/",
-        "firmimg": "goldschmiede-c-stabenow-handelsgesellschaft-mbh.jpg",
-        "giftcardurl": "nan"
-    },
-    "5": {
         "id": 76,
         "firmname": "Gutes aus Neuenrost",
         "category": "Andere",
@@ -63,6 +52,17 @@
         "address": "Zum Wiedbusch 2, 18320 Schlemmin",
         "firmurl": "https://www.gutes-aus-neuenrost.de",
         "firmimg": "gutes-aus-neuenrost.jpg",
+        "giftcardurl": "nan"
+    },
+    "5": {
+        "id": 81,
+        "firmname": "Goldschmiede C. Stabenow Handelsgesellschaft mbH",
+        "category": "Einzelhandel",
+        "description": "Goldschmiedemeister seit 1874 ",
+        "longdescription": "In langer Tradition fertigt unser Haus Schmuck in eigener Werkstattproduktion – Individuelle Stücke und Auftragsarbeiten sowie eigene Kollektionen. Zusätzlich bieten wir ein umfangreiches Sortiment an Schmuck, Uhren, Porzellan, Glas und Geschenkartikeln.",
+        "address": "Badenstr. 1, 18439 Stralsund",
+        "firmurl": "http://c-stabenow.com/site/",
+        "firmimg": "goldschmiede-c-stabenow-handelsgesellschaft-mbh.jpg",
         "giftcardurl": "nan"
     },
     "6": {
@@ -85,7 +85,7 @@
         "address": "Störtebekerstraße 37, 18528 Bergen",
         "firmurl": "",
         "firmimg": "rugener-insel-genuss.jpg",
-        "giftcardurl": "http://app.atento.me/merchants/4720-ruegener-insel-genuss"
+        "giftcardurl": "#"
     },
     "8": {
         "id": 126,
@@ -118,20 +118,9 @@
         "address": "Kirchweg 38, 18565 Hiddensee OT Kloster",
         "firmurl": "http://www.fischuppen.de",
         "firmimg": "2020-04-15_09-37-51_fischuppen_logo_icon_schrift.jpg",
-        "giftcardurl": "https://app.atento.me/merchants/5694-fischuppen-gbr"
+        "giftcardurl": "#"
     },
     "11": {
-        "id": 23,
-        "firmname": "Hochzeitsfotografie Rügen",
-        "category": "Dienstleistung",
-        "description": "Wir bieten Hochzeitsfotografie, After-Wedding-Shootings, Paar-und Familienfotos im natürlichen Stil.",
-        "longdescription": "Wir sind Anja und Dirk, selbst ein Paar, ...wir lieben die Fotografie und erzählen Eure Hochzeit in einzigartigen, emotionalen Bildern . Wir bieten Euch auch After-Wedding-Shootings in entspannter Atmosphäre, Paar- oder Familienfotos in der Natur, am Strand,... wo ihr mögt. Die Gutscheine verrechnen wir Euch mit dem jeweiligen Shooting, welches Ihr bei uns bucht. Wir wünschen uns so sehr, unsere Arbeit weiter führen zu können und Eure besonderen Momente in einer einzigartigen Bildergeschichte zu erzählen... wir freuen uns riesig über Eure Unterstützung!",
-        "address": "Schillstr. 38, 18439 Rostock",
-        "firmurl": "http://xn--hochzeitsfotografie-rgen-gtc.de/",
-        "firmimg": "hochzeitsfotografie-rugen.jpg",
-        "giftcardurl": "nan"
-    },
-    "12": {
         "id": 52,
         "firmname": "Sportshop Jump In - Ralf Klingschat e.K.",
         "category": "Einzelhandel",
@@ -142,7 +131,7 @@
         "firmimg": "sportshop-jump-in-ralf-klingschat-e-k.jpg",
         "giftcardurl": "nan"
     },
-    "13": {
+    "12": {
         "id": 147,
         "firmname": "PapadoXX-Fotografie",
         "category": "Dienstleistung",
@@ -153,7 +142,7 @@
         "firmimg": "quadrosdesign-2.jpg",
         "giftcardurl": "nan"
     },
-    "14": {
+    "13": {
         "id": 155,
         "firmname": "Darß-Festspiele e.V.",
         "category": "Unterhaltung",
@@ -164,18 +153,7 @@
         "firmimg": "2020-04-14_20-45-03_DSC04859 (Mittel).jpg",
         "giftcardurl": "https://www.darss-festspiele.de/karten/gutscheine/"
     },
-    "15": {
-        "id": 166,
-        "firmname": "Darßer Brauhaus GmbH",
-        "category": "Gastronomie",
-        "description": "Restaurant und modernes Brauhaus mit verschiedensten Bierspezialitäten, Burgern, Steaks, Schnitzeln, norddeutschen Gerichten und Terrasse",
-        "longdescription": "Wenn Sie hausgebraute Biere in verschiedenen Sorten aus unserer hauseigenen Brauerei zu schätzen wissen und Sie sich gern von einer modernen frischen Küche verwöhnen lassen wollen, ist das Darßer BRAUHAUS Ihr kulinarisches Ausflugsziel auf dem Darß.\r\n\r\nAuf Deutschlands schönster Ostsee-Halbinsel, Fischland-Darß-Zingst, liegt das Ostseebad Prerow, wo das Darßer BRAUHAUS als empfehlenswerter kulinarischer Anlaufpunkt für touristische wie einheimische Gäste bekannt ist. Es kann kaum Schöneres geben, als nach einem Spaziergang durch die wild-romantische Natur des Darß oder über den traumhaften Weststrand auf ein gemütliches Darßer Bier und kulinarische Köstlichkeiten im Darßer BRAUHAUS einzukehren.\r\n\r\nNur hier genießen Sie die volle Auswahl unserer hausgebrauten Biere - vom klassischen Pils oder Dunkel über Weizen Bier bis zu einem Darßer I.P.A. (India Pale Ale) und weiteren Spezialbieren gibt es hier handgemachte Brauspezialitäten für alle Bierfreunde und solche, die es werden wollen.\r\n\r\nMitten im Gastraum speisen und trinken Sie in direkter Nachbarschaft zum rotgold glänzenden Braukessel in einem schönen und freundlichen Ambiente. Unser ganzes Team freut sich darauf, Sie im Darßer BRAUHAUS begrüßen zu dürfen!",
-        "address": "Bergstraße 1, 18375 Ostseebad Prerow",
-        "firmurl": "http://www.darsser-brauhaus.de",
-        "firmimg": "2020-04-16_12-17-23_Logo_Darsser-Brauhaus-nachRAL_4c web.jpg",
-        "giftcardurl": "https://app.atento.me/merchants/5698-darsser-brauhaus-gmbh"
-    },
-    "16": {
+    "14": {
         "id": 177,
         "firmname": "Sports-Line-Dost",
         "category": "Einzelhandel",
@@ -184,6 +162,28 @@
         "address": "Hafenstrasse 46A, 18374 Zingst",
         "firmurl": "",
         "firmimg": "2020-05-05_12-22-51_IMG_20200505_140957_resized_20200505_021052919.jpg",
-        "giftcardurl": "https://app.atento.me/merchants/6121-sports-line-dost"
+        "giftcardurl": "#"
+    },
+    "15": {
+        "id": 23,
+        "firmname": "Hochzeitsfotografie Rügen",
+        "category": "Dienstleistung",
+        "description": "Wir bieten Hochzeitsfotografie, After-Wedding-Shootings, Paar-und Familienfotos im natürlichen Stil.",
+        "longdescription": "Wir sind Anja und Dirk, selbst ein Paar, ...wir lieben die Fotografie und erzählen Eure Hochzeit in einzigartigen, emotionalen Bildern . Wir bieten Euch auch After-Wedding-Shootings in entspannter Atmosphäre, Paar- oder Familienfotos in der Natur, am Strand,... wo ihr mögt. Die Gutscheine verrechnen wir Euch mit dem jeweiligen Shooting, welches Ihr bei uns bucht. Wir wünschen uns so sehr, unsere Arbeit weiter führen zu können und Eure besonderen Momente in einer einzigartigen Bildergeschichte zu erzählen... wir freuen uns riesig über Eure Unterstützung!",
+        "address": "Schillstr. 38, 18439 Rostock",
+        "firmurl": "http://xn--hochzeitsfotografie-rgen-gtc.de/",
+        "firmimg": "hochzeitsfotografie-rugen.jpg",
+        "giftcardurl": "nan"
+    },
+    "16": {
+        "id": 166,
+        "firmname": "Darßer Brauhaus GmbH",
+        "category": "Gastronomie",
+        "description": "Restaurant und modernes Brauhaus mit verschiedensten Bierspezialitäten, Burgern, Steaks, Schnitzeln, norddeutschen Gerichten und Terrasse",
+        "longdescription": "Wenn Sie hausgebraute Biere in verschiedenen Sorten aus unserer hauseigenen Brauerei zu schätzen wissen und Sie sich gern von einer modernen frischen Küche verwöhnen lassen wollen, ist das Darßer BRAUHAUS Ihr kulinarisches Ausflugsziel auf dem Darß.\r\n\r\nAuf Deutschlands schönster Ostsee-Halbinsel, Fischland-Darß-Zingst, liegt das Ostseebad Prerow, wo das Darßer BRAUHAUS als empfehlenswerter kulinarischer Anlaufpunkt für touristische wie einheimische Gäste bekannt ist. Es kann kaum Schöneres geben, als nach einem Spaziergang durch die wild-romantische Natur des Darß oder über den traumhaften Weststrand auf ein gemütliches Darßer Bier und kulinarische Köstlichkeiten im Darßer BRAUHAUS einzukehren.\r\n\r\nNur hier genießen Sie die volle Auswahl unserer hausgebrauten Biere - vom klassischen Pils oder Dunkel über Weizen Bier bis zu einem Darßer I.P.A. (India Pale Ale) und weiteren Spezialbieren gibt es hier handgemachte Brauspezialitäten für alle Bierfreunde und solche, die es werden wollen.\r\n\r\nMitten im Gastraum speisen und trinken Sie in direkter Nachbarschaft zum rotgold glänzenden Braukessel in einem schönen und freundlichen Ambiente. Unser ganzes Team freut sich darauf, Sie im Darßer BRAUHAUS begrüßen zu dürfen!",
+        "address": "Bergstraße 1, 18375 Ostseebad Prerow",
+        "firmurl": "http://www.darsser-brauhaus.de",
+        "firmimg": "2020-04-16_12-17-23_Logo_Darsser-Brauhaus-nachRAL_4c web.jpg",
+        "giftcardurl": "#"
     }
 }
