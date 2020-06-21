@@ -30,7 +30,7 @@
         "address": "Prolliussteig 1, 23923 Schönberg",
         "firmurl": "",
         "firmimg": "2020-04-21_15-55-20_IMG-20190503-WA0003_2_1_1_1.jpg",
-        "giftcardurl": "https://app.atento.me/merchants/5891-jin-shin-jyutsu-silke-krueger"
+        "giftcardurl": "#"
     },
     "3": {
         "id": 174,
@@ -41,6 +41,6 @@
         "address": "Dorfstraße 10, 23936 Hamberge",
         "firmurl": "http://www.iserbergalpaka.de",
         "firmimg": "2020-05-03_17-56-21_alpaka-wanderung-15.jpg",
-        "giftcardurl": "https://app.atento.me/merchants/6102-alpakahof-am-iserberg"
+        "giftcardurl": "#"
     }
 }
