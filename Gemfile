@@ -5,3 +5,4 @@ gem "jekyll-paginate"
 gem "jekyll-seo-tag"
 gem "jekyll-redirect-from"
 gem 'jekyll-sitemap'
+gem "kramdown", ">= 2.3.0"
