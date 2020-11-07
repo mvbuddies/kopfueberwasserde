@@ -22,17 +22,6 @@
         "giftcardurl": "nan"
     },
     "2": {
-        "id": 75,
-        "firmname": "Gästehaus Zum Weißen Haus",
-        "category": "Andere",
-        "description": "Familiengeführtes Gästehaus im Herzen Schwerins",
-        "longdescription": "Auch unser Familiengeführtes Gästehaus musste jetzt in der Coronakrise schließen.Unterstützt uns bitte mit dem Kauf von Gutscheinen, damit unser Gästehaus aus dem Jahre 1847 weiter bestehen kann&wir  Euch auch bald wieder in Schwerin begrüßen können.❤️-lichen  Dank Familie Ikar.",
-        "address": "Grunthalplatz 16, 19053 Schwerin",
-        "firmurl": "",
-        "firmimg": "gastehaus-zum-weissen-haus.jpeg",
-        "giftcardurl": "#"
-    },
-    "3": {
         "id": 94,
         "firmname": "Musikhaus Schwerin",
         "category": "Einzelhandel",
@@ -43,7 +32,7 @@
         "firmimg": "musikhaus-schwerin.jpg",
         "giftcardurl": "nan"
     },
-    "4": {
+    "3": {
         "id": 95,
         "firmname": "Restaurant & Café Herzogliche Dampfwäscherei ",
         "category": "Gastronomie",
@@ -54,6 +43,17 @@
         "firmimg": "restaurant-cafe-herzogliche-dampfwascherei.jpg",
         "giftcardurl": "nan"
     },
+    "4": {
+        "id": 75,
+        "firmname": "Gästehaus Zum Weißen Haus",
+        "category": "Andere",
+        "description": "Familiengeführtes Gästehaus im Herzen Schwerins",
+        "longdescription": "Auch unser Familiengeführtes Gästehaus musste jetzt in der Coronakrise schließen.Unterstützt uns bitte mit dem Kauf von Gutscheinen, damit unser Gästehaus aus dem Jahre 1847 weiter bestehen kann&wir  Euch auch bald wieder in Schwerin begrüßen können.❤️-lichen  Dank Familie Ikar.",
+        "address": "Grunthalplatz 16, 19053 Schwerin",
+        "firmurl": "",
+        "firmimg": "gastehaus-zum-weissen-haus.jpeg",
+        "giftcardurl": "http://app.atento.me/merchants/5157-gaestehaus-zum-weissen-haus"
+    },
     "5": {
         "id": 142,
         "firmname": "Seefahrtschule Hafen Rostock",
@@ -63,7 +63,7 @@
         "address": "Wittenburger Str. 29, 19053 Schwerin",
         "firmurl": "",
         "firmimg": "seefahrtschule-hafen-rostock.png",
-        "giftcardurl": "#"
+        "giftcardurl": "http://app.atento.me/merchants/4731-seefahrtschule-hafen-rostock"
     },
     "6": {
         "id": 148,
@@ -74,7 +74,7 @@
         "address": "Dorfstraße 3 B, 19061 Schwerin",
         "firmurl": "https://www.fritz-hotel.de/",
         "firmimg": "das-fritz-hotel-restaurant.jpg",
-        "giftcardurl": "#"
+        "giftcardurl": "http://app.atento.me/merchants/5158-das-fritz-hotel-restaurant"
     },
     "7": {
         "id": 3,
@@ -85,6 +85,6 @@
         "address": "Puschkinstr. 47, 19055 Schwerin",
         "firmurl": "https://www.tuscherei.de/",
         "firmimg": "entdecken.jpg",
-        "giftcardurl": "#"
+        "giftcardurl": "https://tuscherei.firstvoucher.com/"
     }
 }

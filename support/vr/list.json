@@ -22,25 +22,25 @@
         "giftcardurl": "nan"
     },
     "2": {
-        "id": 27,
-        "firmname": "hautnah bodywear - Unterwäscheboutique",
-        "category": "Einzelhandel",
-        "description": "Hautnah bodywear ist eine Boutique für Lingerie und Unterwäsche im Herzen der Insel Rügen. Hier erhalten Sie u.a. eine perfekte BH-Beratung.",
-        "longdescription": "Sie gehören zu den 20% aller Frauen, die einen perfekten BH tragen? Herzlichen Glückwunsch! Wenn nicht, dann nix wie hin zu unserer Boutique! Hier erfahrt ihr die perfekte BH-Beratung. Weiterhin bieten wir euch qualitative Nachtwäsche für Damen und Herren und weitere Unterwäsche.",
-        "address": "Bahnhofstraße 2, 18528 Bergen",
-        "firmurl": "https://www.hautnah-ruegen.de",
-        "firmimg": "hautnah-bodywear-unterwascheboutique.jpg",
+        "id": 147,
+        "firmname": "PapadoXX-Fotografie",
+        "category": "Dienstleistung",
+        "description": "Unsere Arbeitsbereiche : Portrait - Business - Wedding",
+        "longdescription": "Wir erstellen außergewöhnliche Portraits von Privatkunden. Outdoor oder Indoor, begleiten Hochzeiten mit Foto und Video \nWir haben unser Atelier in Stralsund.\n\n\n„PapadoXX“: das Wortkonstrukt mit den beiden XX am Ende:  anders und unverkennbar.\n\nWir, das sind Anja und Dirk Poxdoerfer, verheiratet (miteinander) verbindet uns vieles, Lebensmittelpunkt und –inhalt ist aber die Fotografie. Sie begleitet uns durch jeden Tag auf vielfältigste Art und Weise. Kennen gelernt haben wir uns während unserer Ausbildung (auf zweitem Bildungsweg) zum Fotografen und seitdem gehen wir den Weg mit der Fotografie und auch privat gemeinsam",
+        "address": "Schillstr.38, 18439 Stralsund",
+        "firmurl": "http://papadoxx-fotografie.de",
+        "firmimg": "quadrosdesign-2.jpg",
         "giftcardurl": "nan"
     },
     "3": {
-        "id": 32,
-        "firmname": "Goldschmiede Meisterbertrieb Pergande",
+        "id": 81,
+        "firmname": "Goldschmiede C. Stabenow Handelsgesellschaft mbH",
         "category": "Einzelhandel",
-        "description": "Goldschmiede Handwerksbetrieb und Fachgeschäft für Schmuck und Uhren",
-        "longdescription": "In der Goldschmiede Pergande verbinden wir traditionelles Goldschmiedehandwerk mit kompetenter Beratung beim Verkauf von modernem, zeitgemäßem Gold- und Silberschmuck, Trauringen sowie Uhren der Marken REGENT und M&M. Wir bieten fachgerecht ausgeführte Reparaturen an, verwirklichen auch ihre individuellen Schmuckideen und Wünsche und bieten aus Meisterhand gefertigten Unikat-schmuck. \nGutscheine können sie für unser gesamtes Warensortiment und handwerkliche Dienstleistungen erwerben. \nWir freuen uns über ihre Unterstützung bei dieser Gutscheinaktion, damit wir zusammen auch weiterhin eine lebendige und attraktive Stralsunder Innenstadt bewahren können.",
-        "address": "Ossenreyerstraße 35, 18439 Stralsund",
-        "firmurl": "nan",
-        "firmimg": "goldschmiede-meisterbertrieb-pergande.jpg",
+        "description": "Goldschmiedemeister seit 1874 ",
+        "longdescription": "In langer Tradition fertigt unser Haus Schmuck in eigener Werkstattproduktion – Individuelle Stücke und Auftragsarbeiten sowie eigene Kollektionen. Zusätzlich bieten wir ein umfangreiches Sortiment an Schmuck, Uhren, Porzellan, Glas und Geschenkartikeln.",
+        "address": "Badenstr. 1, 18439 Stralsund",
+        "firmurl": "http://c-stabenow.com/site/",
+        "firmimg": "goldschmiede-c-stabenow-handelsgesellschaft-mbh.jpg",
         "giftcardurl": "nan"
     },
     "4": {
@@ -55,17 +55,28 @@
         "giftcardurl": "nan"
     },
     "5": {
-        "id": 81,
-        "firmname": "Goldschmiede C. Stabenow Handelsgesellschaft mbH",
+        "id": 32,
+        "firmname": "Goldschmiede Meisterbertrieb Pergande",
         "category": "Einzelhandel",
-        "description": "Goldschmiedemeister seit 1874 ",
-        "longdescription": "In langer Tradition fertigt unser Haus Schmuck in eigener Werkstattproduktion – Individuelle Stücke und Auftragsarbeiten sowie eigene Kollektionen. Zusätzlich bieten wir ein umfangreiches Sortiment an Schmuck, Uhren, Porzellan, Glas und Geschenkartikeln.",
-        "address": "Badenstr. 1, 18439 Stralsund",
-        "firmurl": "http://c-stabenow.com/site/",
-        "firmimg": "goldschmiede-c-stabenow-handelsgesellschaft-mbh.jpg",
+        "description": "Goldschmiede Handwerksbetrieb und Fachgeschäft für Schmuck und Uhren",
+        "longdescription": "In der Goldschmiede Pergande verbinden wir traditionelles Goldschmiedehandwerk mit kompetenter Beratung beim Verkauf von modernem, zeitgemäßem Gold- und Silberschmuck, Trauringen sowie Uhren der Marken REGENT und M&M. Wir bieten fachgerecht ausgeführte Reparaturen an, verwirklichen auch ihre individuellen Schmuckideen und Wünsche und bieten aus Meisterhand gefertigten Unikat-schmuck. \nGutscheine können sie für unser gesamtes Warensortiment und handwerkliche Dienstleistungen erwerben. \nWir freuen uns über ihre Unterstützung bei dieser Gutscheinaktion, damit wir zusammen auch weiterhin eine lebendige und attraktive Stralsunder Innenstadt bewahren können.",
+        "address": "Ossenreyerstraße 35, 18439 Stralsund",
+        "firmurl": "nan",
+        "firmimg": "goldschmiede-meisterbertrieb-pergande.jpg",
         "giftcardurl": "nan"
     },
     "6": {
+        "id": 27,
+        "firmname": "hautnah bodywear - Unterwäscheboutique",
+        "category": "Einzelhandel",
+        "description": "Hautnah bodywear ist eine Boutique für Lingerie und Unterwäsche im Herzen der Insel Rügen. Hier erhalten Sie u.a. eine perfekte BH-Beratung.",
+        "longdescription": "Sie gehören zu den 20% aller Frauen, die einen perfekten BH tragen? Herzlichen Glückwunsch! Wenn nicht, dann nix wie hin zu unserer Boutique! Hier erfahrt ihr die perfekte BH-Beratung. Weiterhin bieten wir euch qualitative Nachtwäsche für Damen und Herren und weitere Unterwäsche.",
+        "address": "Bahnhofstraße 2, 18528 Bergen",
+        "firmurl": "https://www.hautnah-ruegen.de",
+        "firmimg": "hautnah-bodywear-unterwascheboutique.jpg",
+        "giftcardurl": "nan"
+    },
+    "7": {
         "id": 110,
         "firmname": "Spielkartenfabrik Museumswerkstatt Stralsund",
         "category": "Andere",
@@ -76,7 +87,7 @@
         "firmimg": "spielkartenfabrik-museumswerkstatt-stralsund.jpg",
         "giftcardurl": "nan"
     },
-    "7": {
+    "8": {
         "id": 111,
         "firmname": "Rügener Insel Genuß",
         "category": "Einzelhandel",
@@ -85,18 +96,7 @@
         "address": "Störtebekerstraße 37, 18528 Bergen",
         "firmurl": "",
         "firmimg": "rugener-insel-genuss.jpg",
-        "giftcardurl": "#"
-    },
-    "8": {
-        "id": 126,
-        "firmname": "Brasserie Betreibergesellschaft mbH",
-        "category": "Gastronomie",
-        "description": "Wir sind die Brasserie aus Stralsund - ein Lokal in dem Du von 9 Uhr bis spät in den Abend kulinarisch verwöhnt wirst.",
-        "longdescription": "Herzlich Willkommen in der Brasserie im Herzen der Hansestadt Stralsund. Bei uns\nkönnen Sie täglich ab 9 Uhr genießen, schmecken, ausruhen und Freunde treffen – zu\nallen Anlässen und bei jedem Wetter.\nAls Gast erleben Sie bei uns eine vielfältige, regionale und bodenständige Küche, professionellen Service und vor allem viel Geselligkeit. Frische und Qualität stehen bei uns an\nerster Stelle, denn dort, wo mit guten Produkten und Spaß an der Sache gekocht wird,\nda schmeckt es besser.\nIn unserer vielseitigen Speisekarte finden Sie neben den Klassikern wie Steaks, Schnitzeln\noder Pasta auch einfache Gerichte wie Flammkuchen, Burger oder Baguettes. Unsere\nGetränkeauswahl bietet Ihnen geschmackvolle Qualitätsweine, zahlreiche Fass- und\nCraftbiere, eine edle Spirituosenauswahl sowie erstklassige Cocktails",
-        "address": "Neuer Markt 2, 18439 Stralsund",
-        "firmurl": "http://www.brasserie-stralsund.de",
-        "firmimg": "brasserie-betreibergesellschaft-mbh.jpg",
-        "giftcardurl": "nan"
+        "giftcardurl": "http://app.atento.me/merchants/4720-ruegener-insel-genuss"
     },
     "9": {
         "id": 144,
@@ -110,15 +110,15 @@
         "giftcardurl": "nan"
     },
     "10": {
-        "id": 157,
-        "firmname": "Fischuppen GbR",
-        "category": "Einzelhandel",
-        "description": "Ihr Laden für Regionales. Handgefertigtes, Maritimes aus der Region.",
-        "longdescription": "Bei uns findet ihr Produkte von Menschen aus der Region die außergewöhnliche individuelle maritime Produkte fertigen. Außerdem haben wir geilen Küstenstoff zum Schnökern, Tragen und gut finden.\r\nSchaut gern mal rein.\r\nOnline für Euch erreichbar.",
-        "address": "Kirchweg 38, 18565 Hiddensee OT Kloster",
-        "firmurl": "http://www.fischuppen.de",
-        "firmimg": "2020-04-15_09-37-51_fischuppen_logo_icon_schrift.jpg",
-        "giftcardurl": "#"
+        "id": 166,
+        "firmname": "Darßer Brauhaus GmbH",
+        "category": "Gastronomie",
+        "description": "Restaurant und modernes Brauhaus mit verschiedensten Bierspezialitäten, Burgern, Steaks, Schnitzeln, norddeutschen Gerichten und Terrasse",
+        "longdescription": "Wenn Sie hausgebraute Biere in verschiedenen Sorten aus unserer hauseigenen Brauerei zu schätzen wissen und Sie sich gern von einer modernen frischen Küche verwöhnen lassen wollen, ist das Darßer BRAUHAUS Ihr kulinarisches Ausflugsziel auf dem Darß.\r\n\r\nAuf Deutschlands schönster Ostsee-Halbinsel, Fischland-Darß-Zingst, liegt das Ostseebad Prerow, wo das Darßer BRAUHAUS als empfehlenswerter kulinarischer Anlaufpunkt für touristische wie einheimische Gäste bekannt ist. Es kann kaum Schöneres geben, als nach einem Spaziergang durch die wild-romantische Natur des Darß oder über den traumhaften Weststrand auf ein gemütliches Darßer Bier und kulinarische Köstlichkeiten im Darßer BRAUHAUS einzukehren.\r\n\r\nNur hier genießen Sie die volle Auswahl unserer hausgebrauten Biere - vom klassischen Pils oder Dunkel über Weizen Bier bis zu einem Darßer I.P.A. (India Pale Ale) und weiteren Spezialbieren gibt es hier handgemachte Brauspezialitäten für alle Bierfreunde und solche, die es werden wollen.\r\n\r\nMitten im Gastraum speisen und trinken Sie in direkter Nachbarschaft zum rotgold glänzenden Braukessel in einem schönen und freundlichen Ambiente. Unser ganzes Team freut sich darauf, Sie im Darßer BRAUHAUS begrüßen zu dürfen!",
+        "address": "Bergstraße 1, 18375 Ostseebad Prerow",
+        "firmurl": "http://www.darsser-brauhaus.de",
+        "firmimg": "2020-04-16_12-17-23_Logo_Darsser-Brauhaus-nachRAL_4c web.jpg",
+        "giftcardurl": "app.atento.me/merchants/5698-darsser-brauhaus-gmbh"
     },
     "11": {
         "id": 52,
@@ -132,17 +132,6 @@
         "giftcardurl": "nan"
     },
     "12": {
-        "id": 147,
-        "firmname": "PapadoXX-Fotografie",
-        "category": "Dienstleistung",
-        "description": "Unsere Arbeitsbereiche : Portrait - Business - Wedding",
-        "longdescription": "Wir erstellen außergewöhnliche Portraits von Privatkunden. Outdoor oder Indoor, begleiten Hochzeiten mit Foto und Video \nWir haben unser Atelier in Stralsund.\n\n\n„PapadoXX“: das Wortkonstrukt mit den beiden XX am Ende:  anders und unverkennbar.\n\nWir, das sind Anja und Dirk Poxdoerfer, verheiratet (miteinander) verbindet uns vieles, Lebensmittelpunkt und –inhalt ist aber die Fotografie. Sie begleitet uns durch jeden Tag auf vielfältigste Art und Weise. Kennen gelernt haben wir uns während unserer Ausbildung (auf zweitem Bildungsweg) zum Fotografen und seitdem gehen wir den Weg mit der Fotografie und auch privat gemeinsam",
-        "address": "Schillstr.38, 18439 Stralsund",
-        "firmurl": "http://papadoxx-fotografie.de",
-        "firmimg": "quadrosdesign-2.jpg",
-        "giftcardurl": "nan"
-    },
-    "13": {
         "id": 155,
         "firmname": "Darß-Festspiele e.V.",
         "category": "Unterhaltung",
@@ -153,7 +142,29 @@
         "firmimg": "2020-04-14_20-45-03_DSC04859 (Mittel).jpg",
         "giftcardurl": "https://www.darss-festspiele.de/karten/gutscheine/"
     },
+    "13": {
+        "id": 157,
+        "firmname": "Fischuppen GbR",
+        "category": "Einzelhandel",
+        "description": "Ihr Laden für Regionales. Handgefertigtes, Maritimes aus der Region.",
+        "longdescription": "Bei uns findet ihr Produkte von Menschen aus der Region die außergewöhnliche individuelle maritime Produkte fertigen. Außerdem haben wir geilen Küstenstoff zum Schnökern, Tragen und gut finden.\r\nSchaut gern mal rein.\r\nOnline für Euch erreichbar.",
+        "address": "Kirchweg 38, 18565 Hiddensee OT Kloster",
+        "firmurl": "http://www.fischuppen.de",
+        "firmimg": "2020-04-15_09-37-51_fischuppen_logo_icon_schrift.jpg",
+        "giftcardurl": "app.atento.me/merchants/5694-fischuppen-gbr"
+    },
     "14": {
+        "id": 126,
+        "firmname": "Brasserie Betreibergesellschaft mbH",
+        "category": "Gastronomie",
+        "description": "Wir sind die Brasserie aus Stralsund - ein Lokal in dem Du von 9 Uhr bis spät in den Abend kulinarisch verwöhnt wirst.",
+        "longdescription": "Herzlich Willkommen in der Brasserie im Herzen der Hansestadt Stralsund. Bei uns\nkönnen Sie täglich ab 9 Uhr genießen, schmecken, ausruhen und Freunde treffen – zu\nallen Anlässen und bei jedem Wetter.\nAls Gast erleben Sie bei uns eine vielfältige, regionale und bodenständige Küche, professionellen Service und vor allem viel Geselligkeit. Frische und Qualität stehen bei uns an\nerster Stelle, denn dort, wo mit guten Produkten und Spaß an der Sache gekocht wird,\nda schmeckt es besser.\nIn unserer vielseitigen Speisekarte finden Sie neben den Klassikern wie Steaks, Schnitzeln\noder Pasta auch einfache Gerichte wie Flammkuchen, Burger oder Baguettes. Unsere\nGetränkeauswahl bietet Ihnen geschmackvolle Qualitätsweine, zahlreiche Fass- und\nCraftbiere, eine edle Spirituosenauswahl sowie erstklassige Cocktails",
+        "address": "Neuer Markt 2, 18439 Stralsund",
+        "firmurl": "http://www.brasserie-stralsund.de",
+        "firmimg": "brasserie-betreibergesellschaft-mbh.jpg",
+        "giftcardurl": "nan"
+    },
+    "15": {
         "id": 177,
         "firmname": "Sports-Line-Dost",
         "category": "Einzelhandel",
@@ -162,9 +173,9 @@
         "address": "Hafenstrasse 46A, 18374 Zingst",
         "firmurl": "",
         "firmimg": "2020-05-05_12-22-51_IMG_20200505_140957_resized_20200505_021052919.jpg",
-        "giftcardurl": "#"
+        "giftcardurl": "app.atento.me/merchants/6121-sports-line-dost"
     },
-    "15": {
+    "16": {
         "id": 23,
         "firmname": "Hochzeitsfotografie Rügen",
         "category": "Dienstleistung",
@@ -174,16 +185,5 @@
         "firmurl": "http://xn--hochzeitsfotografie-rgen-gtc.de/",
         "firmimg": "hochzeitsfotografie-rugen.jpg",
         "giftcardurl": "nan"
-    },
-    "16": {
-        "id": 166,
-        "firmname": "Darßer Brauhaus GmbH",
-        "category": "Gastronomie",
-        "description": "Restaurant und modernes Brauhaus mit verschiedensten Bierspezialitäten, Burgern, Steaks, Schnitzeln, norddeutschen Gerichten und Terrasse",
-        "longdescription": "Wenn Sie hausgebraute Biere in verschiedenen Sorten aus unserer hauseigenen Brauerei zu schätzen wissen und Sie sich gern von einer modernen frischen Küche verwöhnen lassen wollen, ist das Darßer BRAUHAUS Ihr kulinarisches Ausflugsziel auf dem Darß.\r\n\r\nAuf Deutschlands schönster Ostsee-Halbinsel, Fischland-Darß-Zingst, liegt das Ostseebad Prerow, wo das Darßer BRAUHAUS als empfehlenswerter kulinarischer Anlaufpunkt für touristische wie einheimische Gäste bekannt ist. Es kann kaum Schöneres geben, als nach einem Spaziergang durch die wild-romantische Natur des Darß oder über den traumhaften Weststrand auf ein gemütliches Darßer Bier und kulinarische Köstlichkeiten im Darßer BRAUHAUS einzukehren.\r\n\r\nNur hier genießen Sie die volle Auswahl unserer hausgebrauten Biere - vom klassischen Pils oder Dunkel über Weizen Bier bis zu einem Darßer I.P.A. (India Pale Ale) und weiteren Spezialbieren gibt es hier handgemachte Brauspezialitäten für alle Bierfreunde und solche, die es werden wollen.\r\n\r\nMitten im Gastraum speisen und trinken Sie in direkter Nachbarschaft zum rotgold glänzenden Braukessel in einem schönen und freundlichen Ambiente. Unser ganzes Team freut sich darauf, Sie im Darßer BRAUHAUS begrüßen zu dürfen!",
-        "address": "Bergstraße 1, 18375 Ostseebad Prerow",
-        "firmurl": "http://www.darsser-brauhaus.de",
-        "firmimg": "2020-04-16_12-17-23_Logo_Darsser-Brauhaus-nachRAL_4c web.jpg",
-        "giftcardurl": "#"
     }
 }

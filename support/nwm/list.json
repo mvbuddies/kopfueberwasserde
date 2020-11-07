@@ -22,17 +22,6 @@
         "giftcardurl": "nan"
     },
     "2": {
-        "id": 171,
-        "firmname": "Jin Shin Jyutsu® - Silke Krüger",
-        "category": "Dienstleistung",
-        "description": "Entspannen - Wohlfühlen - Auftanken mit der japanischen\r\nKunst des Jin Shin Jyutsu®",
-        "longdescription": "Jin Shin Jyutsu® ist japanisch und bedeutet \r\ndie Kunst des Schöpfers durch den wissenden, mitfühlenden Menschen.\r\n\r\nJin Shin Jyutsu® gleicht das Energiesystem des Körpers aus, fördert die Selbstheilungskräfte und sorgt für Gesundheit und Wohlbefinden.\r\n \r\nEs ist eine wertvolle und bedeutsame Ergänzung zu herkömmlichen Heilmethoden, sowohl als Selbsthilfe oder durch eine/n ausgebildete/n Praktiker/in.\r\n\r\nGutscheine sind möglich für \r\n* Einzeltermine (ca. 60 min)\r\n* Jin Shin Jytusu ®- Kur \r\n* Selbsthilfeseminare  \r\n\r\nAnwendungsbeispiele aus meiner Praxis:\r\n( Verspannungen Rücken, Nacken,Schulter, Knie ..., Stärkung des Immunsystems und der         Selbstheilungskräfte bei z.Bsp. Krebstherapien,\r\ntiefe Entspannung bei Streß im Job oder Privatleben \r\noder einfach nur zum Genießen )\r\n\r\nBei Fragen rufen Sie mich gern an,\r\nansonsten sage ich \"Dankeschön\" und freue mich auf ein baldiges Kennenlernen :)\r\nHerzliche Grüße\r\nSilke Krüger",
-        "address": "Prolliussteig 1, 23923 Schönberg",
-        "firmurl": "",
-        "firmimg": "2020-04-21_15-55-20_IMG-20190503-WA0003_2_1_1_1.jpg",
-        "giftcardurl": "#"
-    },
-    "3": {
         "id": 174,
         "firmname": "Alpakahof am Iserberg",
         "category": "Andere",
@@ -41,6 +30,6 @@
         "address": "Dorfstraße 10, 23936 Hamberge",
         "firmurl": "http://www.iserbergalpaka.de",
         "firmimg": "2020-05-03_17-56-21_alpaka-wanderung-15.jpg",
-        "giftcardurl": "#"
+        "giftcardurl": "app.atento.me/merchants/6102-alpakahof-am-iserberg"
     }
 }
