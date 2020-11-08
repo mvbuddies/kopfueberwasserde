@@ -22,6 +22,17 @@
         "giftcardurl": "nan"
     },
     "2": {
+        "id": 180,
+        "firmname": "Naturheilpraxis und Massageatelier Madlen Knaack",
+        "category": "Andere",
+        "description": "im Kloster Rühn und NaturheilGut Karowganzheitliche Massagen/Körperarbeit, Pflanzenheilkunde, Naturheilverfahren und Wundbehandlungen",
+        "longdescription": "Hier sind „Tu dir gut“ - Scheine für eine Massagezeit erhältlich.\r\n60 oder 90 Minuten – Behandlungen umfassen Vorgespräch, Massage \r\nund Nachruhe. Während der Massage werden fließende Streichungen, \r\nbesondere ruhende Haltegriffe und lockernde Bewegungsgriffe \r\nangewendet. Es werden Achtsamkeit, Atem, Energieausgleich und \r\nGespräch mit klassischen Massagegriffen verbunden und Erkenntnisse \r\nder Triggerpunkttherapie mit der TouchLife-Massage verknüpft.\r\n\r\nIn Kombination oder einzeln können massiert werden:\r\n\r\n* Kopf & Gesicht\r\n* Schulter & Nacken\r\n* Arme & Hände\r\n* Brustkorb\r\n* Bauch\r\n* Rücken\r\n* Beine\r\n* Füße\r\n\r\nVerspannungen und innere Blockaden lösen sich. Die Lebensenergie \r\nwird zum Fließen angeregt und das innere Gleichgewicht gestärkt. \r\nStress wird schneller abgebaut und die Leistungsfähigkeit regeneriert. \r\nTouchLife-Massagen vermitteln Wohlgefühl, innere Entspannung \r\nund eine bewusste Wahrnehmung.",
+        "address": "Klosterhof 1, 18246 Rühn",
+        "firmurl": "",
+        "firmimg": "2020-05-05_20-27-05_Screen Shot 2020-05-05 at 10.26.35 PM.png",
+        "giftcardurl": "https://app.atento.me/merchants/6122-naturheilpraxis-und-massageatelier-madlen-knaack"
+    },
+    "3": {
         "id": 64,
         "firmname": "CleverPrävent®",
         "category": "Dienstleistung",
@@ -32,7 +43,7 @@
         "firmimg": "cleverpravent-r.jpg",
         "giftcardurl": "nan"
     },
-    "3": {
+    "4": {
         "id": 91,
         "firmname": "Kosmetikstudio Zeitblüte",
         "category": "Dienstleistung",
@@ -43,7 +54,7 @@
         "firmimg": "kosmetikstudio-zeitblute.jpg",
         "giftcardurl": "nan"
     },
-    "4": {
+    "5": {
         "id": 120,
         "firmname": "Ostseesalzgrotte und Naturheilpraxis Martina Haase",
         "category": "Dienstleistung",
@@ -54,7 +65,7 @@
         "firmimg": "ostseesalzgrotte-und-naturheilpraxis-martina-haase.jpg",
         "giftcardurl": "nan"
     },
-    "5": {
+    "6": {
         "id": 133,
         "firmname": "Alte Büdnerei Kühlungsborn",
         "category": "Gastronomie",
@@ -65,7 +76,7 @@
         "firmimg": "alte-budnerei-kuhlungsborn.jpg",
         "giftcardurl": "nan"
     },
-    "6": {
+    "7": {
         "id": 47,
         "firmname": "Boutique happiness",
         "category": "Einzelhandel",
@@ -76,7 +87,7 @@
         "firmimg": "boutique-happiness.jpg",
         "giftcardurl": "nan"
     },
-    "7": {
+    "8": {
         "id": 163,
         "firmname": "Restaurant Bellevue Bad Doberan",
         "category": "Gastronomie",
@@ -85,18 +96,7 @@
         "address": "Eickhöfer Weg 7, 18209 Bad Doberan",
         "firmurl": "",
         "firmimg": "2020-04-16_10-19-40_skylinekleinklein.png",
-        "giftcardurl": "app.atento.me/merchants/5542-restaurant-bellevue-bad-doberan"
-    },
-    "8": {
-        "id": 180,
-        "firmname": "Naturheilpraxis und Massageatelier Madlen Knaack",
-        "category": "Andere",
-        "description": "im Kloster Rühn und NaturheilGut Karowganzheitliche Massagen/Körperarbeit, Pflanzenheilkunde, Naturheilverfahren und Wundbehandlungen",
-        "longdescription": "Hier sind „Tu dir gut“ - Scheine für eine Massagezeit erhältlich.\r\n60 oder 90 Minuten – Behandlungen umfassen Vorgespräch, Massage \r\nund Nachruhe. Während der Massage werden fließende Streichungen, \r\nbesondere ruhende Haltegriffe und lockernde Bewegungsgriffe \r\nangewendet. Es werden Achtsamkeit, Atem, Energieausgleich und \r\nGespräch mit klassischen Massagegriffen verbunden und Erkenntnisse \r\nder Triggerpunkttherapie mit der TouchLife-Massage verknüpft.\r\n\r\nIn Kombination oder einzeln können massiert werden:\r\n\r\n* Kopf & Gesicht\r\n* Schulter & Nacken\r\n* Arme & Hände\r\n* Brustkorb\r\n* Bauch\r\n* Rücken\r\n* Beine\r\n* Füße\r\n\r\nVerspannungen und innere Blockaden lösen sich. Die Lebensenergie \r\nwird zum Fließen angeregt und das innere Gleichgewicht gestärkt. \r\nStress wird schneller abgebaut und die Leistungsfähigkeit regeneriert. \r\nTouchLife-Massagen vermitteln Wohlgefühl, innere Entspannung \r\nund eine bewusste Wahrnehmung.",
-        "address": "Klosterhof 1, 18246 Rühn",
-        "firmurl": "",
-        "firmimg": "2020-05-05_20-27-05_Screen Shot 2020-05-05 at 10.26.35 PM.png",
-        "giftcardurl": "app.atento.me/merchants/6122-naturheilpraxis-und-massageatelier-madlen-knaack"
+        "giftcardurl": "https://app.atento.me/merchants/5542-restaurant-bellevue-bad-doberan"
     },
     "9": {
         "id": 173,
@@ -140,7 +140,7 @@
         "address": "Mollistraße 12, 18209 Bad Doberan",
         "firmurl": "https://www.rayink.de/",
         "firmimg": "2020-04-15_08-25-48_92939431_530870777791406_2564253332939997184_n(1).jpg",
-        "giftcardurl": "app.atento.me/merchants/5693-tattoostudio-ray-ink"
+        "giftcardurl": "https://app.atento.me/merchants/5693-tattoostudio-ray-ink"
     },
     "13": {
         "id": 172,

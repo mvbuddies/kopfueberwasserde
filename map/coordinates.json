@@ -294,46 +294,46 @@
         "description": "Inneren Frieden oder Heilung zu finden ist das ursprünglichste Anliegen aller Menschen. Meditation ist geradezu überlebensnotwendig.."
     },
     "42": {
-        "id": 159,
-        "lon": 12.13199249638,
-        "lat": 54.09328305,
-        "firmname": "Santa Barbara Anna",
-        "description": "Der Traditionssegler Santa Barbara Anna lädt Mitsegler zu Törns auf der Ostsee ein, um dieses maritime Erbe hautnah erleben zu können."
-    },
-    "43": {
         "id": 71,
         "lon": 11.9014636,
         "lat": 54.1059339,
         "firmname": "SIEGL homestories Interieur",
         "description": "SIEGL homestories Interieur, Einrichtungsladen für Wohnaccessoires, Wohnambiete, Geschenkeladen, kreative Workshops"
     },
-    "44": {
+    "43": {
         "id": 76,
         "lon": 12.65694585,
         "lat": 54.2315219,
         "firmname": "Gutes aus Neuenrost",
         "description": "Wir als Familienunternehmen stellen aus eigenen Früchten 75 prozentige Fruchtaufstriche her."
     },
-    "45": {
+    "44": {
         "id": 80,
         "lon": 12.1137334,
         "lat": 54.0859719,
         "firmname": "Gaststätte Marktkrug",
         "description": "Speisegaststätte mit Kneipencharme"
     },
-    "46": {
+    "45": {
         "id": 81,
         "lon": 13.09034308606,
         "lat": 54.314763,
         "firmname": "Goldschmiede C. Stabenow Handelsgesellschaft mbH",
         "description": "Goldschmiedemeister seit 1874 "
     },
-    "47": {
+    "46": {
         "id": 72,
         "lon": 12.20882835627,
         "lat": 54.11722325,
         "firmname": "Frau Feenstaub",
         "description": "Frau Feenstaub bietet Kinderschminken, Glitzertattoos und ganz neu Ballon Figuren und Ballongeschenke an."
+    },
+    "47": {
+        "id": 180,
+        "lon": 11.9385405,
+        "lat": 53.824039,
+        "firmname": "Naturheilpraxis und Massageatelier Madlen Knaack",
+        "description": "im Kloster Rühn und NaturheilGut Karowganzheitliche Massagen/Körperarbeit, Pflanzenheilkunde, Naturheilverfahren und Wundbehandlungen"
     },
     "48": {
         "id": 16,
@@ -546,32 +546,32 @@
         "description": "Wir sind ein kleines Café, wir backen leckere Torten, am Wochenende gibt es feines Frühstück und abends ein paar leckere Kleinigkeiten."
     },
     "78": {
+        "id": 168,
+        "lon": 12.1354985,
+        "lat": 54.0879239,
+        "firmname": "Yogaschule Christian Bender",
+        "description": "Entdecke dynamisches Yoga gleich am Brunnen der Lebensfreude. Aktuell unterrichten wir online von Montag bis Samstag, morgens und abends."
+    },
+    "79": {
         "id": 118,
         "lon": 12.148777,
         "lat": 54.0936,
         "firmname": "YOGABATI",
         "description": "Yoga in Rostock"
     },
-    "79": {
+    "80": {
         "id": 122,
         "lon": 12.14760129584,
         "lat": 54.0845662,
         "firmname": "Kerstin Zech ~ Bewusst in  Form",
         "description": "Ich bin ganzheitliche Ernährungsberaterin und bringe Dich mit dem kleinsten mobilen Fitnessstudio der Welt in Schwung"
     },
-    "80": {
+    "81": {
         "id": 123,
         "lon": 12.1221563,
         "lat": 54.0884656,
         "firmname": "Mancala Spielwaren GmbH",
         "description": "Wir sind ein Spielzeugladen."
-    },
-    "81": {
-        "id": 154,
-        "lon": 12.1360464,
-        "lat": 54.1132682,
-        "firmname": "Jolly Roger Rostock",
-        "description": "365 Tage MITSEGELN"
     },
     "82": {
         "id": 112,
@@ -595,172 +595,172 @@
         "description": "Genießt hausgemachte authentische französische Spezialitäten in einer entspannten Atmosphäre."
     },
     "85": {
+        "id": 159,
+        "lon": 12.13199249638,
+        "lat": 54.09328305,
+        "firmname": "Santa Barbara Anna",
+        "description": "Der Traditionssegler Santa Barbara Anna lädt Mitsegler zu Törns auf der Ostsee ein, um dieses maritime Erbe hautnah erleben zu können."
+    },
+    "86": {
+        "id": 154,
+        "lon": 12.1360464,
+        "lat": 54.1132682,
+        "firmname": "Jolly Roger Rostock",
+        "description": "365 Tage MITSEGELN"
+    },
+    "87": {
         "id": 133,
         "lon": 11.77270081964,
         "lat": 54.1313051,
         "firmname": "Alte Büdnerei Kühlungsborn",
         "description": "Das Café in der Alten Büdnerei Kühlungsborn bietet viel Raum für Kultur, Workshops und Platz zum Erholen"
     },
-    "86": {
+    "88": {
         "id": 47,
         "lon": 11.9020757,
         "lat": 54.1049082,
         "firmname": "Boutique happiness",
         "description": " Mode für die sportliche, elegante Frau "
     },
-    "87": {
+    "89": {
         "id": 127,
         "lon": 12.1314871,
         "lat": 54.0901795,
         "firmname": "Kofahl Reisen",
         "description": "Ein familiengeführtes Rostocker Busreiseunternehmen, das Augenmerk auf sorgfältige Planung, erstklassigen Service und Qualität in allen Bereichen legt"
     },
-    "88": {
+    "90": {
         "id": 132,
         "lon": 12.0857670146,
         "lat": 54.18167545,
         "firmname": "KÏS Store",
         "description": "Boutique unter dem Warnemünder Leuchtturm "
     },
-    "89": {
+    "91": {
         "id": 139,
         "lon": 13.7804294,
         "lat": 54.0551053,
         "firmname": "Segel- und Motorbootschule Rückenwind",
         "description": "Gutscheine für Segelkurse, Motorbootkurse, Funkkurse, Yachtsegeln, Online-Kurse oder über einen bestimmten Geldbetrag"
     },
-    "90": {
+    "92": {
         "id": 141,
         "lon": 12.1041344,
         "lat": 54.0898307,
         "firmname": "Kosmetikstudio Ines Suhrbier",
         "description": "Wenn Sie auf der Suche nach Entstpannung sind, ist mein Kosmetikstudio genau der richtige Anlaufpunkt. "
     },
-    "91": {
+    "93": {
         "id": 142,
         "lon": 11.4073266765,
         "lat": 53.6288462,
         "firmname": "Seefahrtschule Hafen Rostock",
         "description": "Ostsee-Kurzreisen und Städtereisen nach Dänemark per Ostsee-Fähre und Reisebus - Hafenrundfahrten von Rostock nach Warnemünde und zurück"
     },
-    "92": {
+    "94": {
         "id": 146,
         "lon": 11.4302766,
         "lat": 53.896152,
         "firmname": "quadrosdesign",
         "description": "quadrosdesign "
     },
-    "93": {
+    "95": {
         "id": 144,
         "lon": 12.62112653467,
         "lat": 54.2450707,
         "firmname": "Salzmanufaktur MV",
         "description": "Natursalz-Erlebnsizentrum mit Aktivsolevernebelung, Salzturmführungen, regionalen Natursalzspezialitäten und Workshops"
     },
-    "94": {
+    "96": {
         "id": 131,
         "lon": 12.0871844,
         "lat": 54.1766633,
         "firmname": "Schiemannsgarn",
         "description": "Wir lieben das Meer, Warnemünde und Rostock. Wir sind Freidenker, Meerfreunde und Herzenskämpfer! Ein Lächeln unserer Kunden macht uns froh."
     },
-    "95": {
+    "97": {
         "id": 105,
         "lon": 12.1382055,
         "lat": 54.0885859,
         "firmname": "Tally Weijl Rostock",
         "description": "TALLY WEIJL ROSTOCK - Wir haben dein Lieblingsoutfit"
     },
-    "96": {
+    "98": {
         "id": 33,
         "lon": 12.1302457,
         "lat": 54.0888333,
         "firmname": "Pizza Hut Rostock",
         "description": "Familienfreundliche Pizzakette, bekannt für ihre nach Wunsch zusammengestellten Pizzen"
     },
-    "97": {
+    "99": {
         "id": 166,
         "lon": 12.567409,
         "lat": 54.446835,
         "firmname": "Darßer Brauhaus GmbH",
         "description": "Restaurant und modernes Brauhaus mit verschiedensten Bierspezialitäten, Burgern, Steaks, Schnitzeln, norddeutschen Gerichten und Terrasse"
     },
-    "98": {
+    "100": {
         "id": 60,
         "lon": 12.13849564832,
         "lat": 54.09021195,
         "firmname": "Coffee-Bike Rostock",
         "description": "Rostocker mobiler Coffee-Shop auf der Kröpeliner Straße"
     },
-    "99": {
+    "101": {
         "id": 99,
         "lon": 12.1312161,
         "lat": 54.0896469,
         "firmname": "Nordcamp",
         "description": "Wir sind Nordcamp - der Trekking- & Reiseausrüster aus Rostock."
     },
-    "100": {
-        "id": 180,
-        "lon": 11.9385405,
-        "lat": 53.824039,
-        "firmname": "Naturheilpraxis und Massageatelier Madlen Knaack",
-        "description": "im Kloster Rühn und NaturheilGut Karowganzheitliche Massagen/Körperarbeit, Pflanzenheilkunde, Naturheilverfahren und Wundbehandlungen"
-    },
-    "101": {
-        "id": 117,
-        "lon": 12.0871877,
-        "lat": 54.1788858,
-        "firmname": "Zwanzig12 Am Strom",
-        "description": "Im August 2018 wurde das zweite Zwanzig12 in Rostock eröffnet - direkt am Alten Strom in Warnemünde."
-    },
     "102": {
-        "id": 158,
-        "lon": 12.13117715316,
-        "lat": 54.08040785,
-        "firmname": "Küstenliebe",
-        "description": "Hier bekommst Du alles, was Küstenkinder haben wollen."
-    },
-    "103": {
-        "id": 22,
-        "lon": 12.1373284727,
-        "lat": 54.0735233,
-        "firmname": "CLASSIC MATTERS - Oldtimer Depot Rostock",
-        "description": "Zur Hochzeit, als Geburtstagsgeschenk oder, weil ihr immer einen V8 im Ford Mustang erleben wolltet, wir ermöglichen euch den Traum Oldtimer zu fahren"
-    },
-    "104": {
-        "id": 160,
-        "lon": 12.0762723,
-        "lat": 54.0983705,
-        "firmname": "Salon Frisko",
-        "description": "Wir sind \"Salon Frisko\" , ein Friseur mit dem Rund um Paket, d.h. Friseur, Kosmetik und Fußpflege."
-    },
-    "105": {
         "id": 163,
         "lon": 11.900275,
         "lat": 54.0985813,
         "firmname": "Restaurant Bellevue Bad Doberan",
         "description": "Restaurant"
     },
+    "103": {
+        "id": 117,
+        "lon": 12.0871877,
+        "lat": 54.1788858,
+        "firmname": "Zwanzig12 Am Strom",
+        "description": "Im August 2018 wurde das zweite Zwanzig12 in Rostock eröffnet - direkt am Alten Strom in Warnemünde."
+    },
+    "104": {
+        "id": 158,
+        "lon": 12.13117715316,
+        "lat": 54.08040785,
+        "firmname": "Küstenliebe",
+        "description": "Hier bekommst Du alles, was Küstenkinder haben wollen."
+    },
+    "105": {
+        "id": 160,
+        "lon": 12.0762723,
+        "lat": 54.0983705,
+        "firmname": "Salon Frisko",
+        "description": "Wir sind \"Salon Frisko\" , ein Friseur mit dem Rund um Paket, d.h. Friseur, Kosmetik und Fußpflege."
+    },
     "106": {
+        "id": 22,
+        "lon": 12.1373284727,
+        "lat": 54.0735233,
+        "firmname": "CLASSIC MATTERS - Oldtimer Depot Rostock",
+        "description": "Zur Hochzeit, als Geburtstagsgeschenk oder, weil ihr immer einen V8 im Ford Mustang erleben wolltet, wir ermöglichen euch den Traum Oldtimer zu fahren"
+    },
+    "107": {
         "id": 178,
         "lon": 13.42595022785,
         "lat": 54.41250445,
         "firmname": "Parkhotel Rügen Betriebs GmbH",
         "description": "4 Sterne Parkhotel Rügen - Hotel - Restaurant - Bar - Wellnessbereich"
     },
-    "107": {
+    "108": {
         "id": 29,
         "lon": 12.1319081,
         "lat": 54.0900874,
         "firmname": "SHILA",
         "description": "Skandinavische Mode und festliche Kleider"
-    },
-    "108": {
-        "id": 165,
-        "lon": 12.0854978,
-        "lat": 54.11101005,
-        "firmname": "Tauchshop Rostock",
-        "description": "Gutscheine für Tauchausbildung, Schnuppertauchen, Einkaufsgutscheine für den Tauchshop für Taucher, Angler, Schwimmer, SUP, Swimrunner und Triathlete"
     },
     "109": {
         "id": 5,
@@ -777,32 +777,32 @@
         "description": "Wer im Bunker Club vorbeischaut, der merkt schnell: der Name ist Programm. "
     },
     "111": {
+        "id": 165,
+        "lon": 12.0854978,
+        "lat": 54.11101005,
+        "firmname": "Tauchshop Rostock",
+        "description": "Gutscheine für Tauchausbildung, Schnuppertauchen, Einkaufsgutscheine für den Tauchshop für Taucher, Angler, Schwimmer, SUP, Swimrunner und Triathlete"
+    },
+    "112": {
         "id": 46,
         "lon": 12.1378043,
         "lat": 54.0884268,
         "firmname": "Blickkontakt Kontaktlinsenstudio",
         "description": "Wir bieten Kontaktlinsen aller Art und optometrische Dienstleistungen, von einer umfangreichen Anpassung bis hin zum Augengesundheitscheck."
     },
-    "112": {
+    "113": {
         "id": 36,
         "lon": 12.1161986,
         "lat": 54.0878102,
         "firmname": "Weinhandlung Schollenberger",
         "description": "Ihr Ansprechpartner für internationale Spezialitäten aller Art."
     },
-    "113": {
+    "114": {
         "id": 3,
         "lon": 11.4158077,
         "lat": 53.6297143,
         "firmname": "Tuscherei - Keramik selbst bemalen",
         "description": "Mal was ganz besonderes... Gestalte Dein eigenes Keramikstück zu Hause oder bei uns im Laden."
-    },
-    "114": {
-        "id": 168,
-        "lon": 12.1354985,
-        "lat": 54.0879239,
-        "firmname": "Yogaschule Christian Bender",
-        "description": "Entdecke dynamisches Yoga gleich am Brunnen der Lebensfreude. Aktuell unterrichten wir online von Montag bis Samstag, morgens und abends."
     },
     "115": {
         "id": 170,
@@ -917,11 +917,11 @@
         "description": "Ein kleines Tattoo & Art Studio in Bad Doberan"
     },
     "131": {
-        "id": 176,
-        "lon": 13.4655637,
-        "lat": 53.8249677,
-        "firmname": "WEINGESTEIN",
-        "description": "Durch Drehen und wenden, durch fühlen und ausschauen entsteht ein Gedanke aus einem Unikat der Natur ein Unikat für uns zu erschaffen."
+        "id": 175,
+        "lon": 12.102299,
+        "lat": 54.0808245,
+        "firmname": "Restaurant Klock 8",
+        "description": "Das Restaurant \"Klock 8\" am Barnsdorfer Wald erwartet Dich mit einem Gastraum vom 100 Personen, Wintergarten und sonnigen Außenbereich."
     },
     "132": {
         "id": 172,
@@ -945,18 +945,18 @@
         "description": "Openair-Theater in plattdeutscher und hochdeutscher Sprache mit verschiedenen Episoden der \"Heiden von Kummerow\""
     },
     "135": {
-        "id": 175,
-        "lon": 12.102299,
-        "lat": 54.0808245,
-        "firmname": "Restaurant Klock 8",
-        "description": "Das Restaurant \"Klock 8\" am Barnsdorfer Wald erwartet Dich mit einem Gastraum vom 100 Personen, Wintergarten und sonnigen Außenbereich."
+        "id": 176,
+        "lon": 13.4655637,
+        "lat": 53.8249677,
+        "firmname": "WEINGESTEIN",
+        "description": "Durch Drehen und wenden, durch fühlen und ausschauen entsteht ein Gedanke aus einem Unikat der Natur ein Unikat für uns zu erschaffen."
     },
     "136": {
-        "id": 177,
-        "lon": 12.6841435,
-        "lat": 54.4362738,
-        "firmname": "Sports-Line-Dost",
-        "description": "Sports-Line-Dost im Ostseeheilbad Zingst\r\n  Sportliche Mode für Damen und Herren"
+        "id": 174,
+        "lon": 11.23789405,
+        "lat": 53.87428055,
+        "firmname": "Alpakahof am Iserberg",
+        "description": "Alpakawanderung durch die Landschaft in Nordwestmecklenburg"
     },
     "137": {
         "id": 1,
@@ -973,11 +973,11 @@
         "description": "Wir sind die Brasserie aus Stralsund - ein Lokal in dem Du von 9 Uhr bis spät in den Abend kulinarisch verwöhnt wirst."
     },
     "139": {
-        "id": 174,
-        "lon": 11.23789405,
-        "lat": 53.87428055,
-        "firmname": "Alpakahof am Iserberg",
-        "description": "Alpakawanderung durch die Landschaft in Nordwestmecklenburg"
+        "id": 177,
+        "lon": 12.6841435,
+        "lat": 54.4362738,
+        "firmname": "Sports-Line-Dost",
+        "description": "Sports-Line-Dost im Ostseeheilbad Zingst  Sportliche Mode für Damen und Herren"
     },
     "140": {
         "id": 21,
