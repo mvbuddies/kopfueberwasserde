@@ -88,6 +88,17 @@
         "giftcardurl": "nan"
     },
     "8": {
+        "id": 184,
+        "firmname": "Café vor dem Mühlenthor",
+        "category": "Gastronomie",
+        "description": "Das Café vor dem Mühlenthor ist ein kleines, gemütliches Café direkt am Friedhof zu Güstrow. Wir lieben und leben Regionalität und Nachhaltigkeit.",
+        "longdescription": "Am 1.8.2020 durften wir endlich unsere Türen öffnen.  Das Café vor dem Mühlenthor liegt direkt am wunderschönen Friedhof zu Güstrow.  \r\nNeben Trauerfeiern bieten wir aber auch Raum für Geburtstage und andere Feierlichkeiten. \r\nUnsere Torten und das Gebäck werden von Meisterhand aus der Region gefertigt. \r\nDas leckere Eis ist eine Produktion aus Rostock.  \r\nDesweiteren bieten wir geschmackvolle Snacks und wohlschmeckende Kaffeespezialitäten an. \r\n\r\nWir stehen als Unternehmen für Regionalität und Upcycling. \r\nNachhaltigkeit liegt uns sehr am Herzen.",
+        "address": "Sankt Jürgens Weg 22, 18273 Güstrow",
+        "firmurl": "https://www.cafe-muehlenthor.de/",
+        "firmimg": "2020-12-14_07-20-10_20201214_080808.jpg",
+        "giftcardurl": "https://app.atento.me/merchants/6542-cafe-vor-dem-muehlenthor"
+    },
+    "9": {
         "id": 163,
         "firmname": "Restaurant Bellevue Bad Doberan",
         "category": "Gastronomie",
@@ -98,7 +109,7 @@
         "firmimg": "2020-04-16_10-19-40_skylinekleinklein.png",
         "giftcardurl": "https://app.atento.me/merchants/5542-restaurant-bellevue-bad-doberan"
     },
-    "9": {
+    "10": {
         "id": 173,
         "firmname": "De Duvenschlag",
         "category": "Einzelhandel",
@@ -109,7 +120,7 @@
         "firmimg": "2020-04-24_10-19-55_400dpiLogo.jpg",
         "giftcardurl": "https://de-duvenschlag.mv-handelt.de/Gutscheine"
     },
-    "10": {
+    "11": {
         "id": 43,
         "firmname": "MEERWERK SPA & PHYSIO - mit HAPPINESS SHOP",
         "category": "Dienstleistung",
@@ -120,7 +131,7 @@
         "firmimg": "meerwerk-spa-physio-mit-happiness-shop.jpg",
         "giftcardurl": "nan"
     },
-    "11": {
+    "12": {
         "id": 140,
         "firmname": "Eiscafe Marita Hahn",
         "category": "Gastronomie",
@@ -131,7 +142,7 @@
         "firmimg": "eiscafe-marita-hahn.jpg",
         "giftcardurl": "http://app.atento.me/merchants/4718-eiscafe-marita-hahn"
     },
-    "12": {
+    "13": {
         "id": 156,
         "firmname": "Tattoostudio Ray Ink",
         "category": "Dienstleistung",
@@ -142,7 +153,7 @@
         "firmimg": "2020-04-15_08-25-48_92939431_530870777791406_2564253332939997184_n(1).jpg",
         "giftcardurl": "https://app.atento.me/merchants/5693-tattoostudio-ray-ink"
     },
-    "13": {
+    "14": {
         "id": 172,
         "firmname": "AHOI! Rügen Bade- und Erlebniswelt",
         "category": "Andere",

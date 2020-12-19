@@ -637,419 +637,440 @@
         "description": "Boutique unter dem Warnemünder Leuchtturm "
     },
     "91": {
+        "id": 183,
+        "lon": 12.11174333708,
+        "lat": 54.11225345,
+        "firmname": "Yachtagentur Rostock Maritim- und Tourismusservice GmbH",
+        "description": "Bootsverleih für Angelboote, Segelboote und Motorboote mit oder ohne Führerschein."
+    },
+    "92": {
         "id": 139,
         "lon": 13.7804294,
         "lat": 54.0551053,
         "firmname": "Segel- und Motorbootschule Rückenwind",
         "description": "Gutscheine für Segelkurse, Motorbootkurse, Funkkurse, Yachtsegeln, Online-Kurse oder über einen bestimmten Geldbetrag"
     },
-    "92": {
+    "93": {
+        "id": 184,
+        "lon": 12.1822797,
+        "lat": 53.8013995,
+        "firmname": "Café vor dem Mühlenthor",
+        "description": "Das Café vor dem Mühlenthor ist ein kleines, gemütliches Café direkt am Friedhof zu Güstrow. Wir lieben und leben Regionalität und Nachhaltigkeit."
+    },
+    "94": {
         "id": 141,
         "lon": 12.1041344,
         "lat": 54.0898307,
         "firmname": "Kosmetikstudio Ines Suhrbier",
         "description": "Wenn Sie auf der Suche nach Entstpannung sind, ist mein Kosmetikstudio genau der richtige Anlaufpunkt. "
     },
-    "93": {
+    "95": {
         "id": 142,
         "lon": 11.4073266765,
         "lat": 53.6288462,
         "firmname": "Seefahrtschule Hafen Rostock",
         "description": "Ostsee-Kurzreisen und Städtereisen nach Dänemark per Ostsee-Fähre und Reisebus - Hafenrundfahrten von Rostock nach Warnemünde und zurück"
     },
-    "94": {
+    "96": {
         "id": 146,
         "lon": 11.4302766,
         "lat": 53.896152,
         "firmname": "quadrosdesign",
         "description": "quadrosdesign "
     },
-    "95": {
+    "97": {
         "id": 144,
         "lon": 12.62112653467,
         "lat": 54.2450707,
         "firmname": "Salzmanufaktur MV",
         "description": "Natursalz-Erlebnsizentrum mit Aktivsolevernebelung, Salzturmführungen, regionalen Natursalzspezialitäten und Workshops"
     },
-    "96": {
+    "98": {
         "id": 131,
         "lon": 12.0871844,
         "lat": 54.1766633,
         "firmname": "Schiemannsgarn",
         "description": "Wir lieben das Meer, Warnemünde und Rostock. Wir sind Freidenker, Meerfreunde und Herzenskämpfer! Ein Lächeln unserer Kunden macht uns froh."
     },
-    "97": {
+    "99": {
         "id": 105,
         "lon": 12.1382055,
         "lat": 54.0885859,
         "firmname": "Tally Weijl Rostock",
         "description": "TALLY WEIJL ROSTOCK - Wir haben dein Lieblingsoutfit"
     },
-    "98": {
+    "100": {
         "id": 33,
         "lon": 12.1302457,
         "lat": 54.0888333,
         "firmname": "Pizza Hut Rostock",
         "description": "Familienfreundliche Pizzakette, bekannt für ihre nach Wunsch zusammengestellten Pizzen"
     },
-    "99": {
+    "101": {
         "id": 166,
         "lon": 12.567409,
         "lat": 54.446835,
         "firmname": "Darßer Brauhaus GmbH",
         "description": "Restaurant und modernes Brauhaus mit verschiedensten Bierspezialitäten, Burgern, Steaks, Schnitzeln, norddeutschen Gerichten und Terrasse"
     },
-    "100": {
+    "102": {
         "id": 60,
         "lon": 12.13849564832,
         "lat": 54.09021195,
         "firmname": "Coffee-Bike Rostock",
         "description": "Rostocker mobiler Coffee-Shop auf der Kröpeliner Straße"
     },
-    "101": {
+    "103": {
         "id": 99,
         "lon": 12.1312161,
         "lat": 54.0896469,
         "firmname": "Nordcamp",
         "description": "Wir sind Nordcamp - der Trekking- & Reiseausrüster aus Rostock."
     },
-    "102": {
+    "104": {
         "id": 163,
         "lon": 11.900275,
         "lat": 54.0985813,
         "firmname": "Restaurant Bellevue Bad Doberan",
         "description": "Restaurant"
     },
-    "103": {
+    "105": {
         "id": 117,
         "lon": 12.0871877,
         "lat": 54.1788858,
         "firmname": "Zwanzig12 Am Strom",
         "description": "Im August 2018 wurde das zweite Zwanzig12 in Rostock eröffnet - direkt am Alten Strom in Warnemünde."
     },
-    "104": {
+    "106": {
         "id": 158,
         "lon": 12.13117715316,
         "lat": 54.08040785,
         "firmname": "Küstenliebe",
         "description": "Hier bekommst Du alles, was Küstenkinder haben wollen."
     },
-    "105": {
+    "107": {
         "id": 160,
         "lon": 12.0762723,
         "lat": 54.0983705,
         "firmname": "Salon Frisko",
         "description": "Wir sind \"Salon Frisko\" , ein Friseur mit dem Rund um Paket, d.h. Friseur, Kosmetik und Fußpflege."
     },
-    "106": {
+    "108": {
+        "id": 181,
+        "lon": 11.8469417,
+        "lat": 53.7050295,
+        "firmname": "\"Sternberger Heidberghotel\"",
+        "description": "Das \"Sternberger Heidberghotel\" sollte im Frühjahr diesen Jahres nach einem Besitzerwechsel eigentlich wiedereröffnet werden. Aber dann kam Corona..."
+    },
+    "109": {
         "id": 22,
         "lon": 12.1373284727,
         "lat": 54.0735233,
         "firmname": "CLASSIC MATTERS - Oldtimer Depot Rostock",
         "description": "Zur Hochzeit, als Geburtstagsgeschenk oder, weil ihr immer einen V8 im Ford Mustang erleben wolltet, wir ermöglichen euch den Traum Oldtimer zu fahren"
     },
-    "107": {
+    "110": {
         "id": 178,
         "lon": 13.42595022785,
         "lat": 54.41250445,
         "firmname": "Parkhotel Rügen Betriebs GmbH",
         "description": "4 Sterne Parkhotel Rügen - Hotel - Restaurant - Bar - Wellnessbereich"
     },
-    "108": {
+    "111": {
         "id": 29,
         "lon": 12.1319081,
         "lat": 54.0900874,
         "firmname": "SHILA",
         "description": "Skandinavische Mode und festliche Kleider"
     },
-    "109": {
+    "112": {
         "id": 5,
         "lon": 12.11539231019,
         "lat": 54.08722275,
         "firmname": "Barfüßler",
         "description": "Im Barfüßler bekommst du Barfußschuhe von über 20 verschiedenen Herstellern für jeden Anlass. "
     },
-    "110": {
+    "113": {
         "id": 45,
         "lon": 12.1069428,
         "lat": 54.097809,
         "firmname": "Bunker Rostock",
         "description": "Wer im Bunker Club vorbeischaut, der merkt schnell: der Name ist Programm. "
     },
-    "111": {
+    "114": {
         "id": 165,
         "lon": 12.0854978,
         "lat": 54.11101005,
         "firmname": "Tauchshop Rostock",
         "description": "Gutscheine für Tauchausbildung, Schnuppertauchen, Einkaufsgutscheine für den Tauchshop für Taucher, Angler, Schwimmer, SUP, Swimrunner und Triathlete"
     },
-    "112": {
+    "115": {
         "id": 46,
         "lon": 12.1378043,
         "lat": 54.0884268,
         "firmname": "Blickkontakt Kontaktlinsenstudio",
         "description": "Wir bieten Kontaktlinsen aller Art und optometrische Dienstleistungen, von einer umfangreichen Anpassung bis hin zum Augengesundheitscheck."
     },
-    "113": {
+    "116": {
         "id": 36,
         "lon": 12.1161986,
         "lat": 54.0878102,
         "firmname": "Weinhandlung Schollenberger",
         "description": "Ihr Ansprechpartner für internationale Spezialitäten aller Art."
     },
-    "114": {
+    "117": {
         "id": 3,
         "lon": 11.4158077,
         "lat": 53.6297143,
         "firmname": "Tuscherei - Keramik selbst bemalen",
         "description": "Mal was ganz besonderes... Gestalte Dein eigenes Keramikstück zu Hause oder bei uns im Laden."
     },
-    "115": {
+    "118": {
         "id": 170,
         "lon": 12.1164932,
         "lat": 54.0878294,
         "firmname": "Der Georg mobile & individuelle Massagen",
         "description": "Hallo…ich bin Der Georg & bin in Rostock mobiler Masseur & Wellnesstrainer."
     },
-    "116": {
+    "119": {
         "id": 148,
         "lon": 11.4037375,
         "lat": 53.597074,
         "firmname": "Das FRITZ Hotel & Restaurant",
         "description": "Neben zahlreichen Spezialitäten der mecklenburgischen Küche servieren wir in unserem Restaurant vegetarische und vegane Gerichte."
     },
-    "117": {
+    "120": {
         "id": 173,
         "lon": 11.9008213,
         "lat": 54.1045823,
         "firmname": "De Duvenschlag",
         "description": "Wohnaccessoires, Geschenke, Mode, Kleinmöbel und weitere geschmackvolle Deko-Artikel,"
     },
-    "118": {
+    "121": {
         "id": 116,
         "lon": 12.14634275691,
         "lat": 54.0854979,
         "firmname": "TattooRitual - Dein TattooDoktor Rostock",
         "description": "Professionelle individuelle Beratung, Reparatur & Abdeckung alter Tattoos, neue Tattoos in vielen Stilen in angenehmer freundlicher Umgebung. "
     },
-    "119": {
+    "122": {
         "id": 26,
         "lon": 12.08878465404,
         "lat": 54.04112245,
         "firmname": "ALMATROS GmbH & Co. KG",
         "description": "Gut schlafen - Egal wo! Almatros - Spezialist für Matratzen aller Art und Polsterarbeiten."
     },
-    "120": {
+    "123": {
         "id": 52,
         "lon": 13.09546374919,
         "lat": 54.30374505,
         "firmname": "Sportshop Jump In - Ralf Klingschat e.K.",
         "description": "Beratung und Verkauf für Running, Fitness, Fußball, Indoor, Outdoor, Camping, Skate, Bade und Freizeit (Schuhe, Textilien, Geräte, Sportnahrung) "
     },
-    "121": {
+    "124": {
         "id": 38,
         "lon": 12.0857178,
         "lat": 54.1699326,
         "firmname": "DOCK INN Hostel Warnemünde",
         "description": "Deutschlands erstes Container-Hostel hat alles wichtige an Bord für Abenteuer-Nächte oder einen Abstecher zu Sauna, Kaffee & Kuchen, Events und mehr!"
     },
-    "122": {
+    "125": {
         "id": 48,
         "lon": 12.11718310159,
         "lat": 54.0757833,
         "firmname": "Abenteuer Stadtwelten",
         "description": "Wir bieten spannende Schnitzeljagden mit vielen Rätseln & abwechslungsreichen Aufgaben sowie individuelle Führungen in Rostock & Warnemünde."
     },
-    "123": {
+    "126": {
         "id": 143,
         "lon": 12.1458102,
         "lat": 54.0878987,
         "firmname": "KlangKokon",
         "description": "KlangKokon ... Klang erleben : Klangmassagen - Klangkonzerte - Meditation - Verkauf von Klanginstrumenten"
     },
-    "124": {
+    "127": {
         "id": 43,
         "lon": 11.9059926,
         "lat": 54.1071893,
         "firmname": "MEERWERK SPA & PHYSIO - mit HAPPINESS SHOP",
         "description": "MASSAGEN • BEAUTY • WAVEBALANCE-LIEGE • KURSE • HAPPINESS-SHOP "
     },
-    "125": {
+    "128": {
         "id": 85,
         "lon": 12.1361529,
         "lat": 54.0888273,
         "firmname": "KIDSONLY Rostock",
         "description": "Trendige Kindermode aus NL,ES ,D&FR von bequem bis chic♥️"
     },
-    "126": {
+    "129": {
         "id": 79,
         "lon": 12.1357203,
         "lat": 54.0896664,
         "firmname": "Goldschmied & Juwelier Schneider",
         "description": "Verkauf von Schmuck und Uhren, sowie Reparatur von Schmuck"
     },
-    "127": {
+    "130": {
         "id": 135,
         "lon": 12.137957,
         "lat": 54.0911401,
         "firmname": "VIP Photography",
         "description": "Ich fotografiere professionell eure Hochzeiten und biete ebenfalls 360 Grad Produktfotos an. "
     },
-    "128": {
+    "131": {
         "id": 88,
         "lon": 12.1121597,
         "lat": 54.090593,
         "firmname": "Hopp`s Bunte Stube",
         "description": "Der größte Baby-und Kinderfachmarkt in Rostocks City"
     },
-    "129": {
+    "132": {
         "id": 10,
         "lon": 12.1205169,
         "lat": 54.0879166,
         "firmname": "Julika-Foto: Emotional und Echt",
         "description": "Ich bin Hochzeits- und Portraitfotografin mit Studio in Rostock."
     },
-    "130": {
+    "133": {
         "id": 156,
         "lon": 11.9008239,
         "lat": 54.1055599,
         "firmname": "Tattoostudio Ray Ink",
         "description": "Ein kleines Tattoo & Art Studio in Bad Doberan"
     },
-    "131": {
+    "134": {
         "id": 175,
         "lon": 12.102299,
         "lat": 54.0808245,
         "firmname": "Restaurant Klock 8",
         "description": "Das Restaurant \"Klock 8\" am Barnsdorfer Wald erwartet Dich mit einem Gastraum vom 100 Personen, Wintergarten und sonnigen Außenbereich."
     },
-    "132": {
+    "135": {
         "id": 172,
         "lon": 13.695634,
         "lat": 54.372995,
         "firmname": "AHOI! Rügen Bade- und Erlebniswelt",
         "description": "AHOI! RÜGEN, die Bade- und Saunawelt im Seepark Sellin, bietet Badefreuden für die ganze Familie – und das zu jeder Jahreszeit!"
     },
-    "133": {
+    "136": {
         "id": 128,
         "lon": 12.11001707617,
         "lat": 54.11325295,
         "firmname": "Kostümverleih Klamöttchen",
         "description": "Wir verleihen neben über 2000 Kostümen auch Abendkleidung und Anzüge. Außerdem kann man bei uns Kindergeburtstage, Junggesellenabschiede etc. feiern."
     },
-    "134": {
+    "137": {
         "id": 155,
         "lon": 12.53152950413,
         "lat": 54.38618875,
         "firmname": "Darß-Festspiele e.V.",
         "description": "Openair-Theater in plattdeutscher und hochdeutscher Sprache mit verschiedenen Episoden der \"Heiden von Kummerow\""
     },
-    "135": {
+    "138": {
         "id": 176,
         "lon": 13.4655637,
         "lat": 53.8249677,
         "firmname": "WEINGESTEIN",
         "description": "Durch Drehen und wenden, durch fühlen und ausschauen entsteht ein Gedanke aus einem Unikat der Natur ein Unikat für uns zu erschaffen."
     },
-    "136": {
+    "139": {
         "id": 174,
         "lon": 11.23789405,
         "lat": 53.87428055,
         "firmname": "Alpakahof am Iserberg",
         "description": "Alpakawanderung durch die Landschaft in Nordwestmecklenburg"
     },
-    "137": {
+    "140": {
         "id": 1,
         "lon": 12.1182203,
         "lat": 54.0877861,
         "firmname": "Oikos fairtrade ecofashion",
         "description": "Hallo, wir sind Oikos! Dein Rostocker Fairtrade-Shop für nachhaltige Mode und vegane Schuhe. Wir freuen uns auf deinen Besuch!"
     },
-    "138": {
+    "141": {
         "id": 126,
         "lon": 13.0871133,
         "lat": 54.3107639,
         "firmname": "Brasserie Betreibergesellschaft mbH",
         "description": "Wir sind die Brasserie aus Stralsund - ein Lokal in dem Du von 9 Uhr bis spät in den Abend kulinarisch verwöhnt wirst."
     },
-    "139": {
+    "142": {
         "id": 177,
         "lon": 12.6841435,
         "lat": 54.4362738,
         "firmname": "Sports-Line-Dost",
         "description": "Sports-Line-Dost im Ostseeheilbad Zingst  Sportliche Mode für Damen und Herren"
     },
-    "140": {
+    "143": {
         "id": 21,
         "lon": 12.1210735,
         "lat": 54.0878469,
         "firmname": "Fernblau",
         "description": "Organic fashion- urban, stylisch, fair & konsequent- gut für Dich & die Natur!"
     },
-    "141": {
+    "144": {
         "id": 55,
         "lon": 12.1071273,
         "lat": 54.088125,
         "firmname": "Café M",
         "description": "Unser Café M ist ein gemütliches Café & bietet leckeres, gesundes FRÜHSTÜCK, FREITAGSBRUNCH, selbstgebackenen KUCHEN & spritzige Getränke"
     },
-    "142": {
+    "145": {
         "id": 9,
         "lon": 12.0830225,
         "lat": 54.0979708,
         "firmname": "Stuv by Krikadu",
         "description": "Stuv ist ein kleiner Concept Store in Rostock. Bei uns bekommt ihr besondere Einzelstücke aus hochwertigen Materialien mit schönem Design."
     },
-    "143": {
+    "146": {
         "id": 100,
         "lon": 12.10289866045,
         "lat": 54.08640985,
         "firmname": "Praxis für Energiearbeit Rostock",
         "description": "Anfangen, wo der Verstand aufhört. Geh mit Mut zur Veränderung in DEIN Leben! Finde Vertrauen in Deinen Kompass und in Deine Fähigkeiten."
     },
-    "144": {
+    "147": {
         "id": 69,
         "lon": 12.13134317628,
         "lat": 54.08131095,
         "firmname": "Hundeschule Ostseepfoten",
         "description": "Ich bin Hundetrainerin und biete sowohl Einzel- als auch Gruppentraining an."
     },
-    "145": {
+    "148": {
         "id": 162,
         "lon": 12.08771499702,
         "lat": 54.09859075,
         "firmname": "pro kunsthalle e.V.",
         "description": "Wir betreiben die Kunsthalle Rostock und vermissen unsere Besucher/innen. Schenkt uns und Euch gern ein bisschen Vorfreude!"
     },
-    "146": {
+    "149": {
         "id": 152,
         "lon": 11.8850441,
         "lat": 54.0479709,
         "firmname": "Wohnflair.com Bärbel Lau ",
         "description": "Skandinavische Wohnaccessoires im Shabby Chic, Vintage und romantischen Landhausstil für jeden Wohnbereich, Haus und Garten "
     },
-    "147": {
+    "150": {
         "id": 50,
         "lon": 12.2852003456,
         "lat": 54.2040661,
         "firmname": "Waldcafé & Biergarten Meyers Hausstelle",
         "description": "Sofern wir dürfen stehen wir Euch wieder gern zur Verfügung. Mit unserer Gastronomie, wie gewohnt alles selbst gebacken, gebrutzelt und gekocht."
     },
-    "148": {
+    "151": {
         "id": 164,
         "lon": 12.1447992,
         "lat": 54.0880216,
         "firmname": "RUHEPOL ROSTOCK",
         "description": "Dein Weg zur Entspannung mit Massage & Floating & Coaching"
     },
-    "149": {
+    "152": {
         "id": 167,
         "lon": 12.11827304952,
         "lat": 54.0910632,
         "firmname": "Brötchenexpress Rostock",
         "description": "Ob Frühstück mit Kollegen,zum Lunch ins Büro oder zur Party nach Hause-Der Brötchenexpress ist Ihr zuverlässiger Partner, wenn es um Qualität geht."
     },
-    "150": {
+    "153": {
         "id": 149,
         "lon": 12.2032555,
         "lat": 54.1166347,

@@ -1,16 +1,5 @@
 {
     "0": {
-        "id": 181,
-        "firmname": "\"Sternberger Heidberghotel\"",
-        "category": "Andere",
-        "description": "Das \"Sternberger Heidberghotel\" sollte im Frühjahr diesen Jahres nach einem Besitzerwechsel eigentlich wiedereröffnet werden. Aber dann kam Corona...",
-        "longdescription": "Am schönen \"Großen Sternberger See\" steht das \"Sternberger Heidberghotel\" idyllisch am Waldrand zur Vermietung bereit. Es sollte im Frühjahr diesen Jahres nach einem Besitzerwechsel eigentlich wiedereröffnet werden... Nun steht die Finanzierung allerdings in Frage, da die Banken zunächst laufende (durch Corona in Not geratene) Beherbergungsbetriebe kreditieren. Leider fallen dabei die Neugründungen durch´s Raster, obgleich ein überzeugender Businessplan erarbeitet wurde. Das \"Sternberger\" ist den Einheimischen zwar noch als \"Heidberghotel\" geläufig, kann allerdings nicht mit einer unterstützenden Stammkundschaft an den Start gehen. Dabei bietet es vielfältiges Potential, um in der Sternberger Seenlandschaft zu einem beliebten Reiseziel zu werden. Mit einem  \"offenen Atelier\" ausgestattet, hält es nach Eröffnung viele interessant Angebote für Gäste und Einheimische bereit, um sich selbst kreativ zu betätigen. Als 1. Hobbiness-Hotel soll es zu einem Treffpunkt für Erlebnisreisende werden",
-        "address": "Güstrower Chaussee 65, 19406 Sternberg",
-        "firmurl": "",
-        "firmimg": "2020-06-02_14-46-38_Sternberg-Berg-Aussicht.jpg",
-        "giftcardurl": "#"
-    },
-    "1": {
         "id": 57,
         "firmname": "Brockis Hotel Stadt Hamburg",
         "category": "Andere",
@@ -21,7 +10,7 @@
         "firmimg": "brockis-hotel-stadt-hamburg.jpg",
         "giftcardurl": "nan"
     },
-    "2": {
+    "1": {
         "id": 93,
         "firmname": "optik-krawczyk ",
         "category": "Einzelhandel",
@@ -32,7 +21,7 @@
         "firmimg": "optik-krawczyk.jpg",
         "giftcardurl": "nan"
     },
-    "3": {
+    "2": {
         "id": 16,
         "firmname": "Cafe & Pension \"Am Brunnen\"",
         "category": "Gastronomie",
@@ -42,6 +31,17 @@
         "firmurl": "http://www.pensionambrunnen.de",
         "firmimg": "cafe-pension-am-brunnen.png",
         "giftcardurl": "nan"
+    },
+    "3": {
+        "id": 181,
+        "firmname": "\"Sternberger Heidberghotel\"",
+        "category": "Andere",
+        "description": "Das \"Sternberger Heidberghotel\" sollte im Frühjahr diesen Jahres nach einem Besitzerwechsel eigentlich wiedereröffnet werden. Aber dann kam Corona...",
+        "longdescription": "Am schönen \"Großen Sternberger See\" steht das \"Sternberger Heidberghotel\" idyllisch am Waldrand zur Vermietung bereit. Es sollte im Frühjahr diesen Jahres nach einem Besitzerwechsel eigentlich wiedereröffnet werden... Nun steht die Finanzierung allerdings in Frage, da die Banken zunächst laufende (durch Corona in Not geratene) Beherbergungsbetriebe kreditieren. Leider fallen dabei die Neugründungen durch´s Raster, obgleich ein überzeugender Businessplan erarbeitet wurde. Das \"Sternberger\" ist den Einheimischen zwar noch als \"Heidberghotel\" geläufig, kann allerdings nicht mit einer unterstützenden Stammkundschaft an den Start gehen. Dabei bietet es vielfältiges Potential, um in der Sternberger Seenlandschaft zu einem beliebten Reiseziel zu werden. Mit einem  \"offenen Atelier\" ausgestattet, hält es nach Eröffnung viele interessant Angebote für Gäste und Einheimische bereit, um sich selbst kreativ zu betätigen. Als 1. Hobbiness-Hotel soll es zu einem Treffpunkt für Erlebnisreisende werden",
+        "address": "Güstrower Chaussee 65, 19406 Sternberg",
+        "firmurl": "",
+        "firmimg": "2020-06-02_14-46-38_Sternberg-Berg-Aussicht.jpg",
+        "giftcardurl": "#"
     },
     "4": {
         "id": 178,
