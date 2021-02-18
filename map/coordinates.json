@@ -1064,17 +1064,17 @@
         "description": "Dein Weg zur Entspannung mit Massage & Floating & Coaching"
     },
     "152": {
-        "id": 167,
-        "lon": 12.11827304952,
-        "lat": 54.0910632,
-        "firmname": "Brötchenexpress Rostock",
-        "description": "Ob Frühstück mit Kollegen,zum Lunch ins Büro oder zur Party nach Hause-Der Brötchenexpress ist Ihr zuverlässiger Partner, wenn es um Qualität geht."
-    },
-    "153": {
         "id": 149,
         "lon": 12.2032555,
         "lat": 54.1166347,
         "firmname": "DIE SCHRITTEMACHER ",
         "description": "Als BewegungsCoach & Texterin bringe ich Bewegung in dein Leben: in Körper & Geist, in Unternehmen & Mitarbeiter. GesundGehen. GEHspräche. BrainWalks."
+    },
+    "153": {
+        "id": 167,
+        "lon": 12.11827304952,
+        "lat": 54.0910632,
+        "firmname": "Brötchenexpress Rostock",
+        "description": "Ob Frühstück mit Kollegen,zum Lunch ins Büro oder zur Party nach Hause-Der Brötchenexpress ist Ihr zuverlässiger Partner, wenn es um Qualität geht."
     }
 }
