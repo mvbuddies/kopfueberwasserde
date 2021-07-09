@@ -19,7 +19,7 @@
         "address": "Am Kamp 7, 18209 Bad Doberan",
         "firmurl": "https://www.siegl-homestores.de",
         "firmimg": "logo_rechteckig-mit-rahmen-png_ysUg38s.png",
-        "giftcardurl": "https://app.atento.me/merchants/2925?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "2": {
         "id": 180,
@@ -30,7 +30,7 @@
         "address": "Klosterhof 1, 18246 Rühn",
         "firmurl": "",
         "firmimg": "2020-05-05_20-27-05_Screen Shot 2020-05-05 at 10.26.35 PM.png",
-        "giftcardurl": "https://app.atento.me/merchants/6122-naturheilpraxis-und-massageatelier-madlen-knaack"
+        "giftcardurl": "#"
     },
     "3": {
         "id": 64,
@@ -96,7 +96,7 @@
         "address": "Sankt Jürgens Weg 22, 18273 Güstrow",
         "firmurl": "https://www.cafe-muehlenthor.de/",
         "firmimg": "2020-12-14_07-20-10_20201214_080808.jpg",
-        "giftcardurl": "https://app.atento.me/merchants/6542-cafe-vor-dem-muehlenthor"
+        "giftcardurl": "#"
     },
     "9": {
         "id": 163,
@@ -107,7 +107,7 @@
         "address": "Eickhöfer Weg 7, 18209 Bad Doberan",
         "firmurl": "",
         "firmimg": "2020-04-16_10-19-40_skylinekleinklein.png",
-        "giftcardurl": "https://app.atento.me/merchants/5542-restaurant-bellevue-bad-doberan"
+        "giftcardurl": "#"
     },
     "10": {
         "id": 173,
@@ -140,7 +140,7 @@
         "address": "Tetrower Chaussee 25, 18273 Güstrow",
         "firmurl": "",
         "firmimg": "eiscafe-marita-hahn.jpg",
-        "giftcardurl": "http://app.atento.me/merchants/4718-eiscafe-marita-hahn"
+        "giftcardurl": "#"
     },
     "13": {
         "id": 156,
@@ -151,7 +151,7 @@
         "address": "Mollistraße 12, 18209 Bad Doberan",
         "firmurl": "https://www.rayink.de/",
         "firmimg": "2020-04-15_08-25-48_92939431_530870777791406_2564253332939997184_n(1).jpg",
-        "giftcardurl": "https://app.atento.me/merchants/5693-tattoostudio-ray-ink"
+        "giftcardurl": "#"
     },
     "14": {
         "id": 172,

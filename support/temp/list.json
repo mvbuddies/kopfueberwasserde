@@ -7,7 +7,7 @@
         "address": "Stralsunder Straße 44, 18182 Rostock",
         "firmurl": "http://www.frau-feenstaub.de",
         "firmimg": "frau-feenstaub.jpg",
-        "giftcardurl": "https://app.atento.me/merchants/3919?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "1": {
         "id": 944,
@@ -37,7 +37,7 @@
         "address": "Lange Straße 3, 18055, Rostock",
         "firmurl": "https://shila-shop.de/",
         "firmimg": "shila.png",
-        "giftcardurl": "https://app.atento.me/merchants/3650?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "4": {
         "id": 1045,
@@ -67,7 +67,7 @@
         "address": "Industriestrukturen. 10, 18069 Rostock",
         "firmurl": "",
         "firmimg": "advent-advent.jpg",
-        "giftcardurl": "http://app.atento.me/merchants/4738-advent-advent"
+        "giftcardurl": "#"
     },
     "7": {
         "id": 961,
@@ -77,7 +77,7 @@
         "address": "Nie Dieck 8c, 18182, Rostock",
         "firmurl": "https://www.dieschrittemacher.de/",
         "firmimg": "die-schrittemacher.png",
-        "giftcardurl": "https://app.atento.me/merchants/3656?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "8": {
         "id": 1011,
@@ -87,7 +87,7 @@
         "address": "Clara Zetkin Strasse 51a, 19288 Schwerin",
         "firmurl": "https://www.moegrafie.de",
         "firmimg": "moegrafie-fotografie.jpg",
-        "giftcardurl": "https://app.atento.me/merchants/3668?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "9": {
         "id": 1012,
@@ -97,7 +97,7 @@
         "address": "Friedrichstr. 3, 19055 Schwerin",
         "firmurl": "http://musikhaus-sn.de",
         "firmimg": "musikhaus-schwerin.jpg",
-        "giftcardurl": "https://app.atento.me/merchants/3669?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "10": {
         "id": 1052,
@@ -107,7 +107,7 @@
         "address": "Meyers Hausstelle 1, 18182 Rostock",
         "firmurl": "",
         "firmimg": "waldcafe-biergarten-meyers-hausstelle.jpg",
-        "giftcardurl": "https://app.atento.me/merchants/3937?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "11": {
         "id": 925,
@@ -117,7 +117,7 @@
         "address": "Barnstorfer Weg 46/47, 18057 Rostock",
         "firmurl": "https://www.allsenses.eu/",
         "firmimg": "allsenses-hair-and-beauty.jpg",
-        "giftcardurl": "https://app.atento.me/merchants/3922?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "12": {
         "id": 958,
@@ -127,7 +127,7 @@
         "address": "Breesener Straße 52, 18299, Rostock",
         "firmurl": "https://teamsportnord.de/",
         "firmimg": "dc-teamsport-nord-gmbh.gif",
-        "giftcardurl": "https://app.atento.me/merchants/3653?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "13": {
         "id": 926,
@@ -137,7 +137,7 @@
         "address": "Landgut 11, 18059 Rostock",
         "firmurl": "https://almatros.de/",
         "firmimg": "almatros-gmbh-co-kg.jpg",
-        "giftcardurl": "https://app.atento.me/merchants/3928?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "14": {
         "id": 927,
@@ -147,7 +147,7 @@
         "address": "Doberaner Landweg 8, 18225 Kühlungsborn",
         "firmurl": "http://www.altebuednerei.de/",
         "firmimg": "alte-budnerei-kuhlungsborn.jpg",
-        "giftcardurl": "http://app.atento.me/merchants/4863-alte-buednerei-kuehlungsborn"
+        "giftcardurl": "#"
     },
     "15": {
         "id": 928,
@@ -157,7 +157,7 @@
         "address": "Wismarsche Str. 6/7, 18057 Roctock",
         "firmurl": "https://www.anderebuchhandlung.de/",
         "firmimg": "andere-buchhandlung-inh-manfred-keiper.jpg",
-        "giftcardurl": "https://app.atento.me/merchants/4581?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "16": {
         "id": 941,
@@ -167,7 +167,7 @@
         "address": "Markt 17, 18273 Güstrow",
         "firmurl": "http://www.anziehend-guestrow.de",
         "firmimg": "boutique-anziehend.jpg",
-        "giftcardurl": "http://app.atento.me/merchants/4733-boutique-anziehend"
+        "giftcardurl": "#"
     },
     "17": {
         "id": 929,
@@ -177,7 +177,7 @@
         "address": "Pädagogienstraße 19-20, 18055 Rostock",
         "firmurl": "https://www.apaic.de",
         "firmimg": "andrea-pagels-intercoiffure.png",
-        "giftcardurl": "https://app.atento.me/merchants/2928?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "18": {
         "id": 949,
@@ -187,7 +187,7 @@
         "address": "Leonhardstraße 5a, 18057, Rostock",
         "firmurl": "http://www.stadtkind-hro.de",
         "firmimg": "cafe-stadtkind.jpg",
-        "giftcardurl": "https://app.atento.me/merchants/3374?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "19": {
         "id": 951,
@@ -197,7 +197,7 @@
         "address": "Erich-Schlesinger-Straße 62, 18059 Rostock",
         "firmurl": "https://www.classicmatters.de",
         "firmimg": "classic-matters-oldtimer-depot-rostock.jpg",
-        "giftcardurl": "https://app.atento.me/merchants/3934?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "20": {
         "id": 959,
@@ -207,7 +207,7 @@
         "address": "Zu den Tannen 17 b, 18107 Rostock",
         "firmurl": "https://www.deinenaturleben.de",
         "firmimg": "deine-natur-leben.png",
-        "giftcardurl": "https://app.atento.me/merchants/4261?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "21": {
         "id": 962,
@@ -217,7 +217,7 @@
         "address": "Frankenstraße 53, 18439 Stralsund",
         "firmurl": "https://mv-druck.de/",
         "firmimg": "digitaldruck-kruse.jpg",
-        "giftcardurl": "http://app.atento.me/merchants/4724-digitaldruck-kruse"
+        "giftcardurl": "#"
     },
     "22": {
         "id": 968,
@@ -227,7 +227,7 @@
         "address": "Zum Zollamt 4, 18119 Rostock",
         "firmurl": "http://felshelden.de/",
         "firmimg": "felshelden.jpg",
-        "giftcardurl": "https://app.atento.me/merchants/2419?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "23": {
         "id": 969,
@@ -237,7 +237,7 @@
         "address": "Am Brink 3, 18057 Rostock",
         "firmurl": "http://www.fernblau.com",
         "firmimg": "fernblau.jpg",
-        "giftcardurl": "https://app.atento.me/merchants/3924?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "24": {
         "id": 979,
@@ -247,7 +247,7 @@
         "address": "Barnstorfer Weg 40/41, 18057 Rostock",
         "firmurl": "https://www.haltestelle-rostock.de",
         "firmimg": "haltestelle-bekleidungsgeschaft.jpg",
-        "giftcardurl": "https://app.atento.me/merchants/1826?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "25": {
         "id": 930,
@@ -257,7 +257,7 @@
         "address": "Steinstrasse 11, 18055 Rostock",
         "firmurl": "",
         "firmimg": "anneo-frisore.jpg",
-        "giftcardurl": "https://app.atento.me/merchants/3920?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "26": {
         "id": 963,
@@ -267,7 +267,7 @@
         "address": "Zum Zollamt 4, 18119 Rostock",
         "firmurl": "https://www.dock-inn.de/",
         "firmimg": "dock-inn-hostel-warnemunde.jpg",
-        "giftcardurl": "https://app.atento.me/merchants/3930?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "27": {
         "id": 983,
@@ -277,7 +277,7 @@
         "address": "Schillstr. 38, 18439 Rostock",
         "firmurl": "http://xn--hochzeitsfotografie-rgen-gtc.de/",
         "firmimg": "hochzeitsfotografie-rugen.jpg",
-        "giftcardurl": "http://app.atento.me/merchants/4717-hochzeitsfotografie-ruegen"
+        "giftcardurl": "#"
     },
     "28": {
         "id": 989,
@@ -287,7 +287,7 @@
         "address": "Neue Bleicherstraße 17, 18055 Rostock",
         "firmurl": "https://kerstin-zech.de",
         "firmimg": "kerstin-zech-bewusst-in-form.JPG",
-        "giftcardurl": "https://app.atento.me/merchants/2929?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "29": {
         "id": 923,
@@ -297,7 +297,7 @@
         "address": "Rudolf-Diesel-Straße 3, 18059, Rostock",
         "firmurl": "https://www.abenteuer-stadtwelten.de",
         "firmimg": "abenteuer-stadtwelten.jpg",
-        "giftcardurl": "https://app.atento.me/merchants/4258?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "30": {
         "id": 931,
@@ -307,7 +307,7 @@
         "address": "Zur Himmelspforte 1, 18055 Rostock",
         "firmurl": "http://www.geue-rostock.de",
         "firmimg": "augenoptik-horakustik-geue-gmbh.jpg",
-        "giftcardurl": "http://app.atento.me/merchants/4729-augenoptik-hoerakustik-geue-gmbh"
+        "giftcardurl": "#"
     },
     "31": {
         "id": 940,
@@ -317,7 +317,7 @@
         "address": "Kröpeliner Straße 15, 18055 Rostock",
         "firmurl": "https://kontaktlinsenspezialist.de",
         "firmimg": "blickkontakt-kontaktlinsenstudio.jpg",
-        "giftcardurl": "https://app.atento.me/merchants/3154?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "32": {
         "id": 947,
@@ -327,7 +327,7 @@
         "address": "Elisabethstrasse 10, 18057, Rostock",
         "firmurl": "",
         "firmimg": "cafe-m.jpg",
-        "giftcardurl": "https://app.atento.me/merchants/3376?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "33": {
         "id": 933,
@@ -337,7 +337,7 @@
         "address": "Alter Strom Kutter, 18119 Rostock",
         "firmurl": "",
         "firmimg": "backfisch-udo.png",
-        "giftcardurl": "https://app.atento.me/merchants/2926?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "34": {
         "id": 936,
@@ -347,7 +347,7 @@
         "address": "Margaretenstraße 16, 18057 Rostock",
         "firmurl": "https://www.barfuessler.com",
         "firmimg": "barfussler.jpg",
-        "giftcardurl": "https://app.atento.me/merchants/3939?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "35": {
         "id": 937,
@@ -357,7 +357,7 @@
         "address": "Wismarsche Straße 6/7, 18057 Rostock",
         "firmurl": "http://www.barke-rostock.de",
         "firmimg": "barke-das-cocktailboot.JPG",
-        "giftcardurl": "https://app.atento.me/merchants/3929?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "36": {
         "id": 932,
@@ -367,7 +367,7 @@
         "address": "Burgwall 7, 18055 Rostock",
         "firmurl": "http://www.bsieben.de",
         "firmimg": "b-sieben.jpg",
-        "giftcardurl": "https://app.atento.me/merchants/2923?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "37": {
         "id": 934,
@@ -377,7 +377,7 @@
         "address": "Mecklenburger Straße 4c, 18184 Rostock",
         "firmurl": "http://www.baggerspielplatz-rostock.de",
         "firmimg": "baggerspielplatz-rostock.png",
-        "giftcardurl": "https://app.atento.me/merchants/3944?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "38": {
         "id": 935,
@@ -387,7 +387,7 @@
         "address": "Semlower Straße 16, 18334",
         "firmurl": "http://www.balticfit.de",
         "firmimg": "balticfit-personal-training-heiko-prinz.png",
-        "giftcardurl": "http://app.atento.me/merchants/4736-balticfit-personal-training-heiko-prinz"
+        "giftcardurl": "#"
     },
     "39": {
         "id": 939,
@@ -397,7 +397,7 @@
         "address": "Wismarsche Straße 3, 18057 Rostock",
         "firmurl": "",
         "firmimg": "belloys-finest-ice-cream-more.jpg",
-        "giftcardurl": "https://app.atento.me/merchants/3915?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "40": {
         "id": 945,
@@ -407,7 +407,7 @@
         "address": "Oberhalb des Gerberbruches 8, 18055 Rostock",
         "firmurl": "",
         "firmimg": "cados-cafe-creperie.JPG",
-        "giftcardurl": "https://app.atento.me/merchants/2421?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "41": {
         "id": 950,
@@ -417,7 +417,7 @@
         "address": "Doberaner Str.156 , 18057 Rostock",
         "firmurl": "",
         "firmimg": "clabur.jpg",
-        "giftcardurl": "http://app.atento.me/merchants/4739-clabur"
+        "giftcardurl": "#"
     },
     "42": {
         "id": 952,
@@ -427,7 +427,7 @@
         "address": "Hansenstraße 1, 18273 Güstrow",
         "firmurl": "https://www.cleverpraevent.de/",
         "firmimg": "cleverpravent-r.jpg",
-        "giftcardurl": "http://app.atento.me/merchants/4732-cleverpraevent"
+        "giftcardurl": "#"
     },
     "43": {
         "id": 954,
@@ -437,7 +437,7 @@
         "address": "Lange Straße 17, 18055 Rostock",
         "firmurl": "",
         "firmimg": "coffee-bike-rostock.jpg",
-        "giftcardurl": "https://app.atento.me/merchants/3664?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "44": {
         "id": 955,
@@ -447,7 +447,7 @@
         "address": "Warnowufer 55, 18057 Rostock",
         "firmurl": "https://www.compagnie-de-comedie.de/",
         "firmimg": "compagnie-de-comedie-in-der-buhne-602.jpg",
-        "giftcardurl": "https://app.atento.me/merchants/3938?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "45": {
         "id": 956,
@@ -457,7 +457,7 @@
         "address": "Kröpeliner Straße 54 (KTC), 18055 Rostock",
         "firmurl": "",
         "firmimg": "daniels-cafe.jpg",
-        "giftcardurl": "https://app.atento.me/merchants/3665?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "46": {
         "id": 957,
@@ -467,7 +467,7 @@
         "address": "August-Bebel-Straße 14, 18055 Rostock",
         "firmurl": "http://werbung-in-rostock.de",
         "firmimg": "daswerbestudio-langwasser.jpg",
-        "giftcardurl": "https://app.atento.me/merchants/3933?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "47": {
         "id": 960,
@@ -487,7 +487,7 @@
         "address": "Kröpeliner Straße 21, 18055 Rostock",
         "firmurl": "http://www.beauty-vital-concept.com",
         "firmimg": "beauty-vital-concept-marion-hilger.jpg",
-        "giftcardurl": "https://app.atento.me/merchants/3925?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "49": {
         "id": 948,
@@ -497,7 +497,7 @@
         "address": "Am Brunnen 1, 19370 Parchim",
         "firmurl": "http://www.pensionambrunnen.de",
         "firmimg": "cafe-pension-am-brunnen.png",
-        "giftcardurl": "http://app.atento.me/merchants/4715-cafe-pension-am-brunnen"
+        "giftcardurl": "#"
     },
     "50": {
         "id": 984,
@@ -507,7 +507,7 @@
         "address": "Budapesterstraße 74, 18057 Rostock",
         "firmurl": "",
         "firmimg": "hopp-s-bunte-stube.jpg",
-        "giftcardurl": "https://app.atento.me/merchants/3947?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "51": {
         "id": 967,
@@ -517,7 +517,7 @@
         "address": "Herweghstraße 30, 18055 Rostock",
         "firmurl": "https://www.esko-catering.de/",
         "firmimg": "esko-catering-service.jpg",
-        "giftcardurl": "https://app.atento.me/merchants/3916?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "52": {
         "id": 972,
@@ -527,7 +527,7 @@
         "address": "Fritz-Reuter-Straße 17, 18057 Rostock",
         "firmurl": "http://www.fritzreuterstuben-rostock.de",
         "firmimg": "fritz-reuter-stuben.jpg",
-        "giftcardurl": "https://app.atento.me/merchants/3153?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "53": {
         "id": 973,
@@ -537,7 +537,7 @@
         "address": "Ulmenstr.18, 18057 Rostock",
         "firmurl": "http://www.marktkrug.com/",
         "firmimg": "gaststatte-marktkrug.png",
-        "giftcardurl": "https://app.atento.me/merchants/3157?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "54": {
         "id": 975,
@@ -547,7 +547,7 @@
         "address": "Badenstr. 1, 18439 Stralsund",
         "firmurl": "http://c-stabenow.com/site/",
         "firmimg": "goldschmiede-c-stabenow-handelsgesellschaft-mbh.jpg",
-        "giftcardurl": "http://app.atento.me/merchants/4713-goldschmiede-c-stabenow-handelsgesellschaft-mbh"
+        "giftcardurl": "#"
     },
     "55": {
         "id": 977,
@@ -557,7 +557,7 @@
         "address": "Grubenstraße 57, 18055 Rostock",
         "firmurl": "",
         "firmimg": "haargalerie-rostock.png",
-        "giftcardurl": "https://app.atento.me/merchants/2420?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "56": {
         "id": 978,
@@ -567,7 +567,7 @@
         "address": "Dornblüthstraße 7a, 18057 Rostock",
         "firmurl": "",
         "firmimg": "haarmanufaktur.png",
-        "giftcardurl": "https://app.atento.me/merchants/3666?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "57": {
         "id": 981,
@@ -577,7 +577,7 @@
         "address": "Bahnhofstraße 2, 18528 Bergen",
         "firmurl": "https://www.hautnah-ruegen.de",
         "firmimg": "hautnah-bodywear-unterwascheboutique.jpg",
-        "giftcardurl": "http://app.atento.me/merchants/4722-hautnah-bodywear-unterwaescheboutique"
+        "giftcardurl": "#"
     },
     "58": {
         "id": 982,
@@ -587,7 +587,7 @@
         "address": "Markt 17, 18273 Güstrow",
         "firmurl": "http://www.hautsache-guestrow.de",
         "firmimg": "hautsache.jpg",
-        "giftcardurl": "http://app.atento.me/merchants/4734-hautsach2"
+        "giftcardurl": "#"
     },
     "59": {
         "id": 987,
@@ -597,7 +597,7 @@
         "address": "Dehmelstr. 23, 18055 Rostock",
         "firmurl": "http://heilende-medizin.de/",
         "firmimg": "institut-fur-heilende-medizin.jpg",
-        "giftcardurl": "https://app.atento.me/merchants/4260?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "60": {
         "id": 964,
@@ -607,7 +607,7 @@
         "address": "Industriestr. 10, 18069 Rostock",
         "firmurl": "https://www.dornbluth.de",
         "firmimg": "dornbluth.jpg",
-        "giftcardurl": "http://app.atento.me/merchants/4737-dornbluth"
+        "giftcardurl": "#"
     },
     "61": {
         "id": 995,
@@ -617,7 +617,7 @@
         "address": "Lange Str. 2, 18055, Rostock",
         "firmurl": "https://www.kofahl-reisen.de",
         "firmimg": "kofahl-reisen.JPG",
-        "giftcardurl": "https://app.atento.me/merchants/3375?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "62": {
         "id": 1001,
@@ -637,7 +637,7 @@
         "address": "Wylichstraße 2a, 18609 Rostock",
         "firmurl": "",
         "firmimg": "mexikanisches-restaurant-salsa-latino.jpg",
-        "giftcardurl": "https://app.atento.me/merchants/3931?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "64": {
         "id": 990,
@@ -647,7 +647,7 @@
         "address": "Hansestraße 50, 18182 Rostock",
         "firmurl": "",
         "firmimg": "kfc-rostock-gmbh-co-kg.jpg",
-        "giftcardurl": "https://app.atento.me/merchants/3968?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "65": {
         "id": 994,
@@ -657,7 +657,7 @@
         "address": "Am Leuchtturm 18, 18119 Rostock",
         "firmurl": "",
         "firmimg": "klonstuv.jpg",
-        "giftcardurl": "https://app.atento.me/merchants/2924?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "66": {
         "id": 996,
@@ -667,7 +667,7 @@
         "address": "Maßmannstr. 94 , 18057 Rostock",
         "firmurl": "https://www.kosmetik-ines-suhrbier.de/",
         "firmimg": "kosmetikstudio-ines-suhrbier.jpg",
-        "giftcardurl": "http://app.atento.me/merchants/4723-kosmetikstudio-ines-suhrbier"
+        "giftcardurl": "#"
     },
     "67": {
         "id": 997,
@@ -677,7 +677,7 @@
         "address": "Fritz-Reuter-Straße 44, 18258 Schwaan",
         "firmurl": "http://www.zeitbluete.de",
         "firmimg": "kosmetikstudio-zeitblute.jpg",
-        "giftcardurl": "http://app.atento.me/merchants/4861-kosmetikstudio-zeitbluete"
+        "giftcardurl": "#"
     },
     "68": {
         "id": 1003,
@@ -687,7 +687,7 @@
         "address": "Schwarzer Weg 16, 18334 Rostock",
         "firmurl": "http://www.LuftbilderMV.de",
         "firmimg": "luftbilder-service-mv.png",
-        "giftcardurl": "https://app.atento.me/merchants/3914?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "69": {
         "id": 1004,
@@ -697,7 +697,7 @@
         "address": "Siedlungsweg 4a-b, 18182 Rostock",
         "firmurl": "https://www.maennerhobby.eu",
         "firmimg": "maennerhobby-brennerei.jpg",
-        "giftcardurl": "https://app.atento.me/merchants/3932?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "70": {
         "id": 1005,
@@ -707,7 +707,7 @@
         "address": "Doberanerstraße 17, 18057 Rostock",
         "firmurl": "http://www.kidzzz.info/fachgeschaeft/mancala-spielwaren-gmbh/a/rostock/",
         "firmimg": "mancala-spielwaren-gmbh.png",
-        "giftcardurl": "https://app.atento.me/merchants/3155?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "71": {
         "id": 1007,
@@ -727,7 +727,7 @@
         "address": "Am Markt 12a, 18209 Bad Doberan",
         "firmurl": "https://www.ostseesalzgrotte.de",
         "firmimg": "ostseesalzgrotte-und-naturheilpraxis-martina-haase.jpg",
-        "giftcardurl": "https://app.atento.me/merchants/2927?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "73": {
         "id": 1020,
@@ -737,7 +737,7 @@
         "address": "Barnstorfer Weg 23, 18057 Rostock",
         "firmurl": "",
         "firmimg": "pegasus-head-growshop.jpg",
-        "giftcardurl": "https://app.atento.me/merchants/3921?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "74": {
         "id": 1022,
@@ -747,7 +747,7 @@
         "address": "Kröpeliner Str. 54, 18055 Rostock",
         "firmurl": "",
         "firmimg": "pizza-hut-rostock.jpg",
-        "giftcardurl": "https://app.atento.me/merchants/3969?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "75": {
         "id": 1023,
@@ -757,7 +757,7 @@
         "address": "Strempelstraße 3, 18057 Rostock",
         "firmurl": "http://www.katharinaposer.com",
         "firmimg": "praxis-fur-energiearbeit-rostock.jpg",
-        "giftcardurl": "http://app.atento.me/merchants/4860-praxis-fuer-energiearbeit-rostock"
+        "giftcardurl": "#"
     },
     "76": {
         "id": 1029,
@@ -767,7 +767,7 @@
         "address": "Tschaikowskistr. 45, 18069 Rostock",
         "firmurl": "https://www.facebook.com/lucullusrostock/",
         "firmimg": "restaurant-lucullus.jpg",
-        "giftcardurl": "http://app.atento.me/merchants/4728-restaurant-lucullus"
+        "giftcardurl": "#"
     },
     "77": {
         "id": 1030,
@@ -777,7 +777,7 @@
         "address": "Lange Straße 9 / Ecke an der Oberkante ROSTOCK TOURISTIK, 18055 Rostock",
         "firmurl": "https://rostocker-nachtwachter.business.site/",
         "firmimg": "rostocker-nachtwachter.jpg",
-        "giftcardurl": "https://app.atento.me/merchants/3948?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "78": {
         "id": 1032,
@@ -787,7 +787,7 @@
         "address": "Feldstr. 10, 18320 Trinwillershagen",
         "firmurl": "http://salzmanufaktur-mv.de",
         "firmimg": "salzmanufaktur-mv.jpg",
-        "giftcardurl": "http://app.atento.me/merchants/4862-salzmanufaktur-mv"
+        "giftcardurl": "#"
     },
     "79": {
         "id": 1037,
@@ -797,7 +797,7 @@
         "address": "Wittenburger Str. 29, 19053 Schwerin",
         "firmurl": "",
         "firmimg": "seefahrtschule-hafen-rostock.jpg",
-        "giftcardurl": "http://app.atento.me/merchants/4731-seefahrtschule-hafen-rostock"
+        "giftcardurl": "#"
     },
     "80": {
         "id": 946,
@@ -807,7 +807,7 @@
         "address": "Am Wendländer Schilde 5, 18055 Rostock",
         "firmurl": "https://www.cafe-arebours.de",
         "firmimg": "cafe-a-rebours.jpg",
-        "giftcardurl": "https://app.atento.me/merchants/1825?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "81": {
         "id": 1038,
@@ -817,7 +817,7 @@
         "address": "Hafenstraße 25, 17438 Wolgast",
         "firmurl": "https://www.segelschule-rueckenwind.de/",
         "firmimg": "segel-und-motorbootschule-ruckenwind.jpg",
-        "giftcardurl": "http://app.atento.me/merchants/4716-segel-und-motorbootschule-rueckenwind"
+        "giftcardurl": "#"
     },
     "82": {
         "id": 1042,
@@ -827,7 +827,7 @@
         "address": "Katharinenberg 35, 18439 Stralsund",
         "firmurl": "https://www.spiefa.de",
         "firmimg": "spielkartenfabrik-museumswerkstatt-stralsund.jpg",
-        "giftcardurl": "http://app.atento.me/merchants/4719-spielkartenfabrik-museumswerkstatt-stralsund"
+        "giftcardurl": "#"
     },
     "83": {
         "id": 1046,
@@ -837,7 +837,7 @@
         "address": "Seepromenade, Strandaufgang 11, 18119 Rostock",
         "firmurl": "https://www.supremesurf.de",
         "firmimg": "supreme-surf-beachhouse.jpg",
-        "giftcardurl": "https://app.atento.me/merchants/3156?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "84": {
         "id": 1047,
@@ -847,7 +847,7 @@
         "address": "Kröpeliner Straße 12, 18055 Rostock",
         "firmurl": "",
         "firmimg": "tally-weijl-rostock.jpg",
-        "giftcardurl": "https://app.atento.me/merchants/3917?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "85": {
         "id": 1048,
@@ -857,7 +857,7 @@
         "address": "Lange Straße 13, Oberkante, 18055 Rostock",
         "firmurl": "https://tanoskeramik.de/",
         "firmimg": "tanos-keramik-gbr.jpg",
-        "giftcardurl": "https://app.atento.me/merchants/3945?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "86": {
         "id": 1049,
@@ -867,7 +867,7 @@
         "address": "Bäderstrasse 7, 18375 Rostock",
         "firmurl": "https://www.mode-darss.de",
         "firmimg": "uns-tuch-moden-schuhe.jpg",
-        "giftcardurl": "https://app.atento.me/merchants/3658?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "87": {
         "id": 1050,
@@ -877,7 +877,7 @@
         "address": "Fritz-Reuter-Str. 52, 18057, Rostock",
         "firmurl": "http://www.veis-eiscafe.de",
         "firmimg": "veis-eiscafe-snackbarjpeg",
-        "giftcardurl": "https://app.atento.me/merchants/3654?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "88": {
         "id": 1051,
@@ -887,7 +887,7 @@
         "address": "Burgwall 13, 18055 Rostock",
         "firmurl": "https://victoribrahiem.com",
         "firmimg": "vip-photography.jpg",
-        "giftcardurl": "https://app.atento.me/merchants/3940?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "89": {
         "id": 1058,
@@ -907,7 +907,7 @@
         "address": "Herderstr. 17, 18055 Rostock",
         "firmurl": "https://www.ostseepfoten.com",
         "firmimg": "hundeschule-ostseepfoten.jpg",
-        "giftcardurl": "https://app.atento.me/merchants/2585?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "91": {
         "id": 988,
@@ -917,7 +917,7 @@
         "address": "Barnstorfer Weg 2, 18057 Rostock",
         "firmurl": "https://julika-foto.de",
         "firmimg": "julika-foto-emotional-und-echt.jpg",
-        "giftcardurl": "https://app.atento.me/merchants/2422?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "92": {
         "id": 1033,
@@ -927,7 +927,7 @@
         "address": "Am Handelspark 5, 18209 Bad Doberan",
         "firmurl": "https://www.schatzinsel-bad-doberan.de",
         "firmimg": "schatzinsel-im-ekz-bad-doberan.JPG",
-        "giftcardurl": "https://app.atento.me/merchants/2921?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "93": {
         "id": 1039,
@@ -937,7 +937,7 @@
         "address": "Barnstorfer Weg 24, 18057 Rostock",
         "firmurl": "https://www.sequential-art.de/info/index.php",
         "firmimg": "sequential-art-ktv-kiezbuchhandlung.png",
-        "giftcardurl": "https://app.atento.me/merchants/1827?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "94": {
         "id": 1057,
@@ -947,7 +947,7 @@
         "address": "Loggerweg 18, 18055 Rostock",
         "firmurl": "https://www.yogabati.de",
         "firmimg": "yogabati.JPG",
-        "giftcardurl": "https://app.atento.me/merchants/2586?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "95": {
         "id": 1010,
@@ -957,7 +957,7 @@
         "address": "Doberaner Straße 6, 18057 Rostock",
         "firmurl": "http://www.sybilleschuldt.com/",
         "firmimg": "mode-farbe-stil-sybille-schuldt.jpg",
-        "giftcardurl": "https://app.atento.me/merchants/4262?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "96": {
         "id": 1021,
@@ -967,7 +967,7 @@
         "address": "Hermannstraße 1, 18055 Rostock",
         "firmurl": "http://pestopeter.de",
         "firmimg": "pesto-peter.png",
-        "giftcardurl": "https://app.atento.me/merchants/3152?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "97": {
         "id": 1028,
@@ -977,7 +977,7 @@
         "address": "Barnstorfer Weg 10, 18057 Rostock",
         "firmurl": "http://www.cafe-rostock.de/index.php/2-ueberuns/1-das-cafe-kaethe",
         "firmimg": "restaurant-kathe.png",
-        "giftcardurl": "https://app.atento.me/merchants/2922?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "98": {
         "id": 1041,
@@ -987,7 +987,7 @@
         "address": "Am Kamp 7, 18209 Bad Doberan",
         "firmurl": "https://www.siegl-homestories.de/impressum.html",
         "firmimg": "siegl-homestories-interieur.png",
-        "giftcardurl": "https://app.atento.me/merchants/2925?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "99": {
         "id": 1053,
@@ -997,7 +997,7 @@
         "address": "Grubenstr. 49, 18055, Rostock",
         "firmurl": "",
         "firmimg": "waterstradt-brillen-und-kontaktlinsen.png",
-        "giftcardurl": "https://app.atento.me/merchants/3372?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "100": {
         "id": 942,
@@ -1007,7 +1007,7 @@
         "address": "Mollistr.23, 18209 Bad Doberan",
         "firmurl": "https://www.happinessboutique.com/de/",
         "firmimg": "boutique-happiness.jpg",
-        "giftcardurl": "https://app.atento.me/merchants/3151?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "101": {
         "id": 991,
@@ -1017,7 +1017,7 @@
         "address": "Eselföterstrasse 28, 18055, Rostock",
         "firmurl": "",
         "firmimg": "kidsonly-rostock.JPG",
-        "giftcardurl": "https://app.atento.me/merchants/3651?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "102": {
         "id": 1002,
@@ -1027,7 +1027,7 @@
         "address": "Barnstorfer Weg 4, 18057, Rostock",
         "firmurl": "",
         "firmimg": "lichtspieltheater-wundervoll.png",
-        "giftcardurl": "https://app.atento.me/merchants/3377?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "103": {
         "id": 1006,
@@ -1037,7 +1037,7 @@
         "address": "Stralsunder Str. 38, 18337, Rostock",
         "firmurl": "https://www.kanuverleih-marlow.info/seite/387682/startseite.html",
         "firmimg": "marlower-kanu-bootsverleih.png",
-        "giftcardurl": "https://app.atento.me/merchants/3652?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "104": {
         "id": 1015,
@@ -1047,7 +1047,7 @@
         "address": "Wokrenter Straße 32, 18055, Rostock",
         "firmurl": "http://www.optik-koester-rostock.de",
         "firmimg": "optik-koster.jpg",
-        "giftcardurl": "https://app.atento.me/merchants/3655?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "105": {
         "id": 1031,
@@ -1057,7 +1057,7 @@
         "address": "Störtebekerstraße 37, 18528 Bergen",
         "firmurl": "",
         "firmimg": "rugener-insel-genuss.jpg",
-        "giftcardurl": "http://app.atento.me/merchants/4720-ruegener-insel-genuss"
+        "giftcardurl": "#"
     },
     "106": {
         "id": 1055,
@@ -1067,7 +1067,7 @@
         "address": "Fulgengrund 6, 18211, Rostock",
         "firmurl": "https://www.wohnflair.com",
         "firmimg": "wohnflair-com-barbel-lau.png",
-        "giftcardurl": "https://app.atento.me/merchants/3373?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "107": {
         "id": 971,
@@ -1077,7 +1077,7 @@
         "address": "Ährenkamp 5, 18059 Rostock",
         "firmurl": "",
         "firmimg": "friseursalon-biestow.png",
-        "giftcardurl": "https://app.atento.me/merchants/3663?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "108": {
         "id": 974,
@@ -1087,7 +1087,7 @@
         "address": "Lange Straße 27, 18055 Rostock",
         "firmurl": "",
         "firmimg": "goldschmied-juwelier-schneiderjpeg",
-        "giftcardurl": "https://app.atento.me/merchants/3913?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "109": {
         "id": 1017,
@@ -1097,7 +1097,7 @@
         "address": "Kröpeliner Strasse 26-28 / Rostocker Hof, 18055 Rostock",
         "firmurl": "https://www.sagawe.de",
         "firmimg": "optik-sagawe-im-rostocker-hof.jpg",
-        "giftcardurl": "https://app.atento.me/merchants/3661?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "110": {
         "id": 1018,
@@ -1107,7 +1107,7 @@
         "address": "Ernst-Thälmann-Strasse 5 / Reutershagen, 18069 Rostock",
         "firmurl": "https://www.sagawe.de",
         "firmimg": "optik-sagawe-in-reutershagen.jpg",
-        "giftcardurl": "https://app.atento.me/merchants/3662?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "112": {
         "id": 966,
@@ -1117,7 +1117,7 @@
         "address": "Industriestr.10, 18069 Rostock",
         "firmurl": "https://entertain-your-brain.de/",
         "firmimg": "entertain-your-brain.png",
-        "giftcardurl": "https://app.atento.me/merchants/3918?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "113": {
         "id": 980,
@@ -1127,7 +1127,7 @@
         "address": "Bressener Str. 13a , 18299 Rostock",
         "firmurl": "http://www.handmade-by-mona.de",
         "firmimg": "handmade-by-mona.jpg",
-        "giftcardurl": "https://app.atento.me/merchants/3926?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "114": {
         "id": 985,
@@ -1137,7 +1137,7 @@
         "address": "Dehmelstr. 23, 18055 Rostock",
         "firmurl": "https://hugo-hasse.de/",
         "firmimg": "hugo-hasse-seminare.JPG",
-        "giftcardurl": "https://app.atento.me/merchants/4259?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "115": {
         "id": 992,
@@ -1147,7 +1147,7 @@
         "address": "Seepromenade 1, 18119 Rostock",
         "firmurl": "https://m.facebook.com/kis.store.rostock/?locale2=de_DE",
         "firmimg": "kis-store.jpg",
-        "giftcardurl": "https://app.atento.me/merchants/3927?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "116": {
         "id": 999,
@@ -1157,7 +1157,7 @@
         "address": "Am Vögenteich 16, 18057 Rostock",
         "firmurl": "http://www.kreuzfahrt-erleben.info",
         "firmimg": "kreuzfahrt-erleben.jpg",
-        "giftcardurl": "https://app.atento.me/merchants/3935?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "117": {
         "id": 1027,
@@ -1167,7 +1167,7 @@
         "address": "Severinstraße 4, 18209 Rostock",
         "firmurl": "http://www.kino-doberan.de/",
         "firmimg": "restaurant-im-kamp-theater-bar-abgedreht.jpg",
-        "giftcardurl": "https://app.atento.me/merchants/3936?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "118": {
         "id": 953,
@@ -1177,7 +1177,7 @@
         "address": "Am Leuchturm 4, 18119 Rostock",
         "firmurl": "",
         "firmimg": "coaast-schallplatten-cafe.jpg",
-        "giftcardurl": "https://app.atento.me/merchants/3941?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "119": {
         "id": 998,
@@ -1187,7 +1187,7 @@
         "address": "Am Hechtgraben 14, 18147 Rostock",
         "firmurl": "http://www.kostuemverleih-klamoettchen.de",
         "firmimg": "kostumverleih-klamottchen.jpg",
-        "giftcardurl": "https://app.atento.me/merchants/3946?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "120": {
         "id": 1043,
@@ -1197,7 +1197,7 @@
         "address": "Frankendamm 81, 18439 Stralsund",
         "firmurl": "https://sportshop-jumpin.de",
         "firmimg": "sportshop-jump-in-ralf-klingschat-e-k.JPG",
-        "giftcardurl": "http://app.atento.me/merchants/4714-sportshop-jump-in-ralf-klingschat-e-k"
+        "giftcardurl": "#"
     },
     "121": {
         "id": 1044,
@@ -1207,7 +1207,7 @@
         "address": "Kröpeliner Str.24 (in der Rungestraße), 18055 Rostock",
         "firmurl": "https://spuersinn-rostock.de",
         "firmimg": "spursinn-mode-accessoiresjpeg",
-        "giftcardurl": "https://app.atento.me/merchants/3942?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "122": {
         "id": 1054,
@@ -1217,7 +1217,7 @@
         "address": "Barnstorfer Weg 22, 18057 Rostock",
         "firmurl": "https://getraenkekombinat.wordpress.com",
         "firmimg": "weinhandlung-schollenberger.jpg",
-        "giftcardurl": "https://app.atento.me/merchants/3949?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "123": {
         "id": 965,
@@ -1227,7 +1227,7 @@
         "address": "Tetrower Chaussee 25, 18273 Güstrow",
         "firmurl": "",
         "firmimg": "eiscafe-marita-hahn.jpg",
-        "giftcardurl": "http://app.atento.me/merchants/4718-eiscafe-marita-hahn"
+        "giftcardurl": "#"
     },
     "124": {
         "id": 976,
@@ -1237,7 +1237,7 @@
         "address": "Ossenreyerstraße 35, 18439 Stralsund",
         "firmurl": "",
         "firmimg": "goldschmiede-meisterbertrieb-pergande.jpg",
-        "giftcardurl": "http://app.atento.me/merchants/4721-goldschmiede-meisterbertrieb-pergande"
+        "giftcardurl": "#"
     },
     "125": {
         "id": 993,
@@ -1247,7 +1247,7 @@
         "address": "Am Wendländer Schilde 9, 18055 Rostock",
         "firmurl": "http://www.klangkokon.com/",
         "firmimg": "klangkokon.jpg",
-        "giftcardurl": "http://app.atento.me/merchants/4727-klangkokon"
+        "giftcardurl": "#"
     },
     "126": {
         "id": 1013,
@@ -1257,7 +1257,7 @@
         "address": "Lange Straße 37, 18055 Rostock",
         "firmurl": "",
         "firmimg": "nordcamp.jpg",
-        "giftcardurl": "http://app.atento.me/merchants/4726-nordcamp"
+        "giftcardurl": "#"
     },
     "127": {
         "id": 1024,
@@ -1267,7 +1267,7 @@
         "address": "Lange Str. 9-11 Rückseite, 18055 Rostock",
         "firmurl": "https://pruenkist.de",
         "firmimg": "prunkist.JPG",
-        "giftcardurl": "https://app.atento.me/merchants/4580?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "128": {
         "id": 1036,
@@ -1277,7 +1277,7 @@
         "address": "Kröpeliner Str. 48-49, 18055 Rostock",
         "firmurl": "",
         "firmimg": "schuhhaus-hoppner-inh-andreas-hoppner-e-k.jpg",
-        "giftcardurl": "http://app.atento.me/merchants/4735-schuhhaus-hoeppner-inh-andreas-hoeppner-e-k"
+        "giftcardurl": "#"
     },
     "129": {
         "id": 1056,
@@ -1287,7 +1287,7 @@
         "address": "Rungestrasse 17 / Hopfenmarkt, 18055 Rostock",
         "firmurl": "https://www.wupatki.de",
         "firmimg": "wupatki-der-laden-mit-den-schonen-spielen.jpg",
-        "giftcardurl": "http://app.atento.me/merchants/4730-wupatki-der-laden-mit-den-schoenen-spielen"
+        "giftcardurl": "#"
     },
     "130": {
         "id": 943,
@@ -1297,7 +1297,7 @@
         "address": "Neuer Markt 2, 18439 Stralsund",
         "firmurl": "http://www.brasserie-stralsund.de",
         "firmimg": "brasserie-betreibergesellschaft-mbh.JPG",
-        "giftcardurl": "http://app.atento.me/merchants/4725-brasserie-betreibergesellschaft-mbh"
+        "giftcardurl": "#"
     },
     "131": {
         "id": 1008,
@@ -1307,7 +1307,7 @@
         "address": "Klosterstraße 1c, 18209 Bad Doberan",
         "firmurl": "https://www.meinmeerwerk.de",
         "firmimg": "meerwerk-spa-physio-mit-happiness-shop.jpg",
-        "giftcardurl": "https://app.atento.me/merchants/2587?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "132": {
         "id": 1016,
@@ -1317,7 +1317,7 @@
         "address": "Wismarsche Strasse 2-3 / Doberaner Platz, 18057 Rostock",
         "firmurl": "https://www.sagawe.de",
         "firmimg": "optik-sagawe.jpg",
-        "giftcardurl": "https://app.atento.me/merchants/3660?in_frame=false&locale=de"
+        "giftcardurl": "#"
     },
     "133": {
         "id": 1025,
@@ -1327,7 +1327,7 @@
         "address": "Am Lembkenhof 42, 23966 Wismar",
         "firmurl": "https://quadrosdesign.de",
         "firmimg": "quadrosdesign.jpg",
-        "giftcardurl": "http://app.atento.me/merchants/4856-quadrosdesign"
+        "giftcardurl": "#"
     },
     "134": {
         "id": 1026,
@@ -1337,7 +1337,7 @@
         "address": "Schillstr.38, 18439 Stralsund",
         "firmurl": "http://papadoxx-fotografie.de",
         "firmimg": "quadrosdesign-2.jpg",
-        "giftcardurl": "http://app.atento.me/merchants/4858-papadoxx-fotografie"
+        "giftcardurl": "#"
     },
     "135": {
         "id": 1035,
@@ -1347,6 +1347,6 @@
         "address": "An der Beke 3 , 18258 Rostock",
         "firmurl": "https://www.mach-deinen-schmuck.de",
         "firmimg": "schmuckwerkstatt-kreative-entschleunigung-auf-dem-land.png",
-        "giftcardurl": "https://app.atento.me/merchants/3943?in_frame=false&locale=de"
+        "giftcardurl": "#"
     }
 }

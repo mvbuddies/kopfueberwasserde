@@ -52,7 +52,7 @@
         "address": "Grunthalplatz 16, 19053 Schwerin",
         "firmurl": "",
         "firmimg": "gastehaus-zum-weissen-haus.jpeg",
-        "giftcardurl": "http://app.atento.me/merchants/5157-gaestehaus-zum-weissen-haus"
+        "giftcardurl": "#"
     },
     "5": {
         "id": 142,
@@ -63,7 +63,7 @@
         "address": "Wittenburger Str. 29, 19053 Schwerin",
         "firmurl": "",
         "firmimg": "seefahrtschule-hafen-rostock.png",
-        "giftcardurl": "http://app.atento.me/merchants/4731-seefahrtschule-hafen-rostock"
+        "giftcardurl": "#"
     },
     "6": {
         "id": 148,
@@ -74,7 +74,7 @@
         "address": "Dorfstraße 3 B, 19061 Schwerin",
         "firmurl": "https://www.fritz-hotel.de/",
         "firmimg": "das-fritz-hotel-restaurant.jpg",
-        "giftcardurl": "http://app.atento.me/merchants/5158-das-fritz-hotel-restaurant"
+        "giftcardurl": "#"
     },
     "7": {
         "id": 3,
